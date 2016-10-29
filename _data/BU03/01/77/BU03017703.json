@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17167316559654,
+            33.78523944001723
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Residential Property",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": null,
+        "EXPDTTM": "2017-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2017",
+        "FULLNAME": "PACIFIC SHORELINE PROPERTIES",
+        "GPSX": 6509498.84416667,
+        "GPSY": 1744270.19083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-08-12T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2014-07-08T00:00:00.000Z",
+        "LICCATDESC": "Apartment House",
+        "LICENSEDTTM": "2014-07-08T00:00:00.000Z",
+        "LICENSENO": "BU03017703",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-08-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 15,
+        "NUMVEH": 0,
+        "OBJECTID": 142252,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1436  WALNUT AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Apartment House",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1461663553943,
+            33.809676924584714
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "BUSY BODY HOME FITNESS/LA GYM EQUIP",
+        "EXPDTTM": "2009-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2009",
+        "FULLNAME": "FITNESS HOLDINGS INTERNATIONAL INC",
+        "GPSX": 6517262.7475,
+        "GPSY": 1753151.4,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2006-08-01T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "2007-08-17T00:00:00.000Z",
+        "LICENSENO": "BU20735290",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-11-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 19,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 72824,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3900  KILROY AIRPORT WAY 213",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

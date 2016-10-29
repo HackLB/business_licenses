@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1772475319134,
+            33.83016030730686
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "MARRON MEDICAL",
+        "EXPDTTM": "2008-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2008",
+        "FULLNAME": "GARY & CAROL WHITE",
+        "GPSX": 6507833.74166667,
+        "GPSY": 1760621.025,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2008-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-04-01T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "2000-05-08T00:00:00.000Z",
+        "LICENSENO": "BU20019230",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-05-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 138524,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3927  MARRON AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18888954149492,
+            33.8318270098039
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "APOLLONIA DENTAL",
+        "EXPDTTM": "2016-10-10T00:00:00.000Z",
+        "EXPDTTM_IN": "10/10/2016",
+        "FULLNAME": "JOSEPH MARVIZI DDS",
+        "GPSX": 6504299.02,
+        "GPSY": 1761234.02,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2014-11-10T00:00:00.000Z",
+        "LICCATDESC": "Dental Office",
+        "LICENSEDTTM": "2014-11-10T00:00:00.000Z",
+        "LICENSENO": "BU21435170",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-09-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 165587,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4028  LONG BEACH BLVD 203",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dental Office",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

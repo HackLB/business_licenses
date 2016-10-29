@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14314789922915,
+            33.759868684902116
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "EWCONST/ XCARPET SOFTWARE",
+        "EXPDTTM": "2012-10-15T00:00:00.000Z",
+        "EXPDTTM_IN": "10/15/2012",
+        "FULLNAME": "ERIC LOVE",
+        "GPSX": 6518153.91,
+        "GPSY": 1735023.48,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2012-10-15T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2004-10-05T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Building",
+        "LICENSEDTTM": "2010-12-29T00:00:00.000Z",
+        "LICENSENO": "BU21041300",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-02-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 110968,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "86  BENNETT AVE 8",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Building",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

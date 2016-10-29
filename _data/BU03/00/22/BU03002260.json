@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1238814833216,
+            33.748923731168794
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Residential Property",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2004-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2004",
+        "FULLNAME": "ROBERT J & HEATHER CAMPBELL",
+        "GPSX": 6524005.4225,
+        "GPSY": 1731032.51166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1978-03-01T00:00:00.000Z",
+        "LICCATDESC": "Apartment House",
+        "LICENSEDTTM": "1978-03-01T00:00:00.000Z",
+        "LICENSENO": "BU03002260",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-08-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 5,
+        "NUMVEH": 0,
+        "OBJECTID": 27698,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6000 E OCEAN BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Apartment House",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

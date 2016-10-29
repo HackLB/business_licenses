@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19303175962361,
+            33.76756922507026
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "NATIVO INC",
+        "EXPDTTM": "2015-06-01T00:00:00.000Z",
+        "EXPDTTM_IN": "6/1/2015",
+        "FULLNAME": "NATIVO INC",
+        "GPSX": 6502996.08,
+        "GPSY": 1737851.2825,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-06-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2013-06-20T00:00:00.000Z",
+        "LICCATDESC": "Internet Sales/Service",
+        "LICENSEDTTM": "2013-06-20T00:00:00.000Z",
+        "LICENSENO": "BU21318640",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-07-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 8,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 59151,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "111 W OCEAN BLVD 18TH FLR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Internet Sales/Service",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

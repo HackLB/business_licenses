@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16893717909117,
+            33.86817489479009
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "MAVERICK CONSTRUCTION",
+        "EXPDTTM": "2012-06-09T00:00:00.000Z",
+        "EXPDTTM_IN": "6/9/2012",
+        "FULLNAME": "DENALI DEVELOPMENT GROUP INC",
+        "GPSX": 6510380.97833333,
+        "GPSY": 1774451.13,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2012-06-09T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2004-05-12T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Building",
+        "LICENSEDTTM": "2009-05-11T00:00:00.000Z",
+        "LICENSENO": "BU20918150",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-03-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 25249,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1930  POPPY ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Building",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

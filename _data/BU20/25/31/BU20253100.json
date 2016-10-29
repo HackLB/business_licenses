@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1973217067989,
+            33.85530768212152
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "HUNTER-PEREZ MORTUARY",
+        "EXPDTTM": "2010-06-28T00:00:00.000Z",
+        "EXPDTTM_IN": "6/28/2010",
+        "FULLNAME": "HUNTER PEREZ MORTUARY",
+        "GPSX": 6501754.865,
+        "GPSY": 1769784.14,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2002-11-26T00:00:00.000Z",
+        "LICCATDESC": "Mortuary",
+        "LICENSEDTTM": "2002-11-26T00:00:00.000Z",
+        "LICENSENO": "BU20253100",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "ClosedWBal",
+        "MILESTONE": "Collections",
+        "MILESTONEDATE": "2011-08-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 66664,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5443  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mortuary",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

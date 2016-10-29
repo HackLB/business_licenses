@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18969554323944,
+            33.83172668668379
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "LANE & ASSOCIATES",
+        "EXPDTTM": "2017-02-09T00:00:00.000Z",
+        "EXPDTTM_IN": "2/9/2017",
+        "FULLNAME": "GREGORY THOMAS LANE",
+        "GPSX": 6504054.16083333,
+        "GPSY": 1761197.97083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-02-09T00:00:00.000Z",
+        "LICCATDESC": "Architecture",
+        "LICENSEDTTM": "2002-02-20T00:00:00.000Z",
+        "LICENSENO": "BU20207630",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-02-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 132547,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4067  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Architecture",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18975816508883,
+            33.81980332500682
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "DUFFY'S TAVERN",
+        "EXPDTTM": "2006-09-07T00:00:00.000Z",
+        "EXPDTTM_IN": "9/7/2006",
+        "FULLNAME": "DUFFY'S TAVERN INC",
+        "GPSX": 6504026.95,
+        "GPSY": 1756858.79,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-09-07T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1992-09-15T00:00:00.000Z",
+        "LICCATDESC": "Bar, Tavern, Lounge",
+        "LICENSEDTTM": "2002-07-16T00:00:00.000Z",
+        "LICENSENO": "BU20231880",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-03-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 157682,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3445  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Bar, Tavern, Lounge",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

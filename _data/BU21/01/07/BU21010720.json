@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12961193536061,
+            33.81153792777498
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "ENVELOPE GROUP LLC",
+        "EXPDTTM": "2017-02-16T00:00:00.000Z",
+        "EXPDTTM_IN": "2/16/2017",
+        "FULLNAME": "ENVELOPE GROUP LLC",
+        "GPSX": 6522292.69,
+        "GPSY": 1753821.77,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2010-02-16T00:00:00.000Z",
+        "LICCATDESC": "Sales Representative",
+        "LICENSEDTTM": "2010-04-02T00:00:00.000Z",
+        "LICENSENO": "BU21010720",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-02-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 105559,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3027  RUTGERS AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Sales Representative",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

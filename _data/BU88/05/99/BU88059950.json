@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14471083997546,
+            33.78886398934979
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "LONG BEACH COMMUNITY HOSPITAL",
+        "EXPDTTM": "2000-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2000",
+        "FULLNAME": "UNIHEALTH AMERICA",
+        "GPSX": 6517694.01416667,
+        "GPSY": 1745576.37,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2000-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1924-01-01T00:00:00.000Z",
+        "LICCATDESC": "Hospital",
+        "LICENSEDTTM": "1924-01-01T00:00:00.000Z",
+        "LICENSENO": "BU88059950",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "1999-02-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 120412,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": null,
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1720  TERMINO AVE HOSPITAL",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Hospital",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

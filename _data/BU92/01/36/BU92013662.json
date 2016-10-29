@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16724712941924,
+            33.78846918066028
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Rental ??? Residential Property",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2003-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2003",
+        "FULLNAME": "CHASE MANHATTAN MORTGAGE CORP",
+        "GPSX": 6510845.77666667,
+        "GPSY": 1745443.315,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1998-10-08T00:00:00.000Z",
+        "LICCATDESC": "Apartment House",
+        "LICENSEDTTM": "1999-04-27T00:00:00.000Z",
+        "LICENSENO": "BU92013662",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-07-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 5,
+        "NUMVEH": 0,
+        "OBJECTID": 155239,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1720  CHERRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Apartment House",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

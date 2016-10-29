@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19340293544184,
+            33.8187471479327
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Unique Businesses",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "ANDRANIK BABLEYAN",
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2016-12-31T00:00:00.000Z",
+        "EXPDTTM_IN": "12/31/2016",
+        "FULLNAME": "FIRSTMED AMBULANCE SERVICES INC",
+        "GPSX": 6502919.1,
+        "GPSY": 1756476.53,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2016-01-01T00:00:00.000Z",
+        "LICCATDESC": "Medical Transportation -Ambulance",
+        "LICENSEDTTM": "2016-04-06T00:00:00.000Z",
+        "LICENSENO": "BU21601936",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-07-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 10,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 6,
+        "OBJECTID": 146450,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "150 W WARDLOW RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Medical Transportation -Ambulance",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

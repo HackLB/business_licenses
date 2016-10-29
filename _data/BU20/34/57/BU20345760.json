@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19263891198288,
+            33.76643129008539
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "LAW OFFICES OF LORI D CALVERT",
+        "EXPDTTM": "2004-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2004",
+        "FULLNAME": "LORI D CALVERT",
+        "GPSX": 6503114.68916667,
+        "GPSY": 1737436.92666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2001-08-01T00:00:00.000Z",
+        "LICCATDESC": "Attorney",
+        "LICENSEDTTM": "2003-09-29T00:00:00.000Z",
+        "LICENSENO": "BU20345760",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-04-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 85857,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "110 W OCEAN BLVD 309",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Attorney",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14170383562754,
+            33.8008929360853
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "VELOCICORE CORPORATION",
+        "EXPDTTM": "2016-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2016",
+        "FULLNAME": "VELOCICORE CORPORATION",
+        "GPSX": 6518613.91,
+        "GPSY": 1749952.73,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2013-01-02T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "2013-01-02T00:00:00.000Z",
+        "LICENSENO": "BU21300050",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-02-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 150309,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2370  PEPPERWOOD AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

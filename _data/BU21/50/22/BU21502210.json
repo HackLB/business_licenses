@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13372831781425,
+            33.78470630103501
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "COTTONWOOD PROPERTIES",
+        "EXPDTTM": "2017-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2017",
+        "FULLNAME": "ZACHARY MILLER",
+        "GPSX": 6521029.21,
+        "GPSY": 1744058.65,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2015-01-22T00:00:00.000Z",
+        "LICCATDESC": "Property Management",
+        "LICENSEDTTM": "2015-01-22T00:00:00.000Z",
+        "LICENSENO": "BU21502210",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-12-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 109930,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1401  GREENBRIER RD 207",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Property Management",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

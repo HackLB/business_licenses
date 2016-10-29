@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12707893911129,
+            33.75358898923503
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "WEIR VISTA LLC",
+        "EXPDTTM": "2012-04-21T00:00:00.000Z",
+        "EXPDTTM_IN": "4/21/2012",
+        "FULLNAME": "WEIR VISTA LLC",
+        "GPSX": 6523035.51,
+        "GPSY": 1732731.55,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2012-04-21T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2010-04-21T00:00:00.000Z",
+        "LICCATDESC": "Real Estate Office",
+        "LICENSEDTTM": "2010-05-10T00:00:00.000Z",
+        "LICENSENO": "BU21015120",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-09-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 133378,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "45  GENEVA WK",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Real Estate Office",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

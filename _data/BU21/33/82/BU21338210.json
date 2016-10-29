@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1330689487966,
+            33.83364862488561
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "MUELLER ENGINEERING",
+        "EXPDTTM": "2014-12-20T00:00:00.000Z",
+        "EXPDTTM_IN": "12/20/2014",
+        "FULLNAME": "THOMAS JOHN MUELLER",
+        "GPSX": 6521253.15916667,
+        "GPSY": 1761869.80166667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2014-12-20T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2013-12-20T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "2013-12-20T00:00:00.000Z",
+        "LICENSENO": "BU21338210",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-02-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 96304,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4143  GREENBRIER RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

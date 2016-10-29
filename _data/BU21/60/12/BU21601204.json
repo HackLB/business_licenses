@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1369458779959,
+            33.78283820029794
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "LOREN KAISER",
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2017-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2017",
+        "FULLNAME": "KAISER & ASSOCIATES",
+        "GPSX": 6520050.53,
+        "GPSY": 1743380.1125,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2016-02-01T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "2016-03-01T00:00:00.000Z",
+        "LICENSENO": "BU21601204",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-03-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 2124,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4805 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

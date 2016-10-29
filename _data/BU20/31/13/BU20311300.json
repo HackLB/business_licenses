@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15066145812007,
+            33.80579943156127
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2006-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2006",
+        "FULLNAME": "HARRIMAN JONES MEDICAL GROUP",
+        "GPSX": 6515895.065,
+        "GPSY": 1751742.29333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1989-01-01T00:00:00.000Z",
+        "LICCATDESC": "Physician/Surgeon",
+        "LICENSEDTTM": "2003-03-10T00:00:00.000Z",
+        "LICENSENO": "BU20311300",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-02-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 342,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 175980,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2600  REDONDO AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Physician/Surgeon",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

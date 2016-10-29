@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.07562980505735,
+            33.8231507173602
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2004-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2004",
+        "FULLNAME": "RICHARD J WASSER",
+        "GPSX": 6538694.75,
+        "GPSY": 1758031.23,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2004-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2001-10-01T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "2002-11-25T00:00:00.000Z",
+        "LICENSENO": "BU20252800",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-10-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 104873,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "7965  RING ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

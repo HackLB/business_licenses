@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19979580392263,
+            33.78611996780373
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Non-Residential Property",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2017-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2017",
+        "FULLNAME": "1501/1388 DLC LLC",
+        "GPSX": 6500953.62,
+        "GPSY": 1744606.43,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1985-11-01T00:00:00.000Z",
+        "LICCATDESC": "Commercial/Industrial Space  Rental",
+        "LICENSEDTTM": "2002-02-11T00:00:00.000Z",
+        "LICENSENO": "BU07053921",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-02-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 112747,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1501  DAISY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Commercial/Industrial Space  Rental",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

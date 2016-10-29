@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17594003400818,
+            33.827057794362354
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2012-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2012",
+        "FULLNAME": "MICHAEL K BASTIAN",
+        "GPSX": 6508228.87333333,
+        "GPSY": 1759491.24333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2004-07-06T00:00:00.000Z",
+        "LICCATDESC": "Real Estate Agent",
+        "LICENSEDTTM": "2006-03-24T00:00:00.000Z",
+        "LICENSENO": "BU20615880",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-07-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 128519,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3810  ORANGE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Real Estate Agent",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

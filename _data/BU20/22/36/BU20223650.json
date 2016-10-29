@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18973856845795,
+            33.81860583148212
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2017-05-04T00:00:00.000Z",
+        "EXPDTTM_IN": "5/4/2017",
+        "FULLNAME": "S & L MEDICAL GROUP INC",
+        "GPSX": 6504032.08,
+        "GPSY": 1756422.98,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1998-05-04T00:00:00.000Z",
+        "LICCATDESC": "Physician/Surgeon",
+        "LICENSEDTTM": "2002-05-21T00:00:00.000Z",
+        "LICENSENO": "BU20223650",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 15854,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3377  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Physician/Surgeon",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

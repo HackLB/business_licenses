@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1552589874572,
+            33.77325053034103
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Residential Property",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2017-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2017",
+        "FULLNAME": "NAOMI RAINEY",
+        "GPSX": 6514480.02,
+        "GPSY": 1739898.98,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1978-03-01T00:00:00.000Z",
+        "LICCATDESC": "Apartment House",
+        "LICENSEDTTM": "2003-02-20T00:00:00.000Z",
+        "LICENSENO": "BU03010431",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-10-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 7,
+        "NUMVEH": 0,
+        "OBJECTID": 10183,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3114 E 6TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Apartment House",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

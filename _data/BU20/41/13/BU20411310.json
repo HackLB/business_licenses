@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18848396190893,
+            33.830836322081105
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "DOGHAUS",
+        "EXPDTTM": "2004-11-12T00:00:00.000Z",
+        "EXPDTTM_IN": "11/12/2004",
+        "FULLNAME": "CRISTINA DEH-LEE",
+        "GPSX": 6504421.5225,
+        "GPSY": 1760873.2525,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2004-11-12T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2003-11-12T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "2004-03-12T00:00:00.000Z",
+        "LICENSENO": "BU20411310",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-11-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 155618,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "335  MARSHALL PL",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.07147255494209,
+            33.81936584158799
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Vending",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "GEREK'S",
+        "EXPDTTM": "2007-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2007",
+        "FULLNAME": "GEREK THURESSON",
+        "GPSX": 6539956.5,
+        "GPSY": 1756652.89,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2007-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2003-02-18T00:00:00.000Z",
+        "LICCATDESC": "Vending Machines",
+        "LICENSEDTTM": "2004-07-13T00:00:00.000Z",
+        "LICENSENO": "BU20431950",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-09-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 1,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 154995,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3455  THORNLAKE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Vending Machines",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12393352833337,
+            33.796479848525394
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "FRIEDMANS MICROWAVE & APPLIANCES",
+        "EXPDTTM": "2005-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2005",
+        "FULLNAME": "JRCA INC",
+        "GPSX": 6524010.93916667,
+        "GPSY": 1748339.55333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1991-11-15T00:00:00.000Z",
+        "LICCATDESC": "Retail Sales",
+        "LICENSEDTTM": "1999-08-27T00:00:00.000Z",
+        "LICENSENO": "BU99032500",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-12-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 6883,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5531  STEARNS ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Retail Sales",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

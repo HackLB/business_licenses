@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16582595479426,
+            33.833563663909324
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2017-02-14T00:00:00.000Z",
+        "EXPDTTM_IN": "2/14/2017",
+        "FULLNAME": "PUBLIC STORAGE INC",
+        "GPSX": 6511304.69833333,
+        "GPSY": 1761853.67333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1996-03-13T00:00:00.000Z",
+        "LICCATDESC": "Self Storage",
+        "LICENSEDTTM": "2004-02-12T00:00:00.000Z",
+        "LICENSENO": "BU20406270",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-02-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 5789,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4140  CHERRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Self Storage",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

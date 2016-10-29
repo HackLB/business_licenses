@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19086271194877,
+            33.83748654568064
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "PACIFIC WESTERN",
+        "EXPDTTM": "2002-05-15T00:00:00.000Z",
+        "EXPDTTM_IN": "5/15/2002",
+        "FULLNAME": "BRIAN HICKMAN",
+        "GPSX": 6503703.66,
+        "GPSY": 1763294.8,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1994-11-14T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Building",
+        "LICENSEDTTM": "2001-07-25T00:00:00.000Z",
+        "LICENSENO": "BU20130950",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Denied",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2002-01-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 69617,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4351  COUNTRY CLUB LN",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Building",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

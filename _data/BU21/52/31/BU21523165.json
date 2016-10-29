@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18998661433879,
+            33.7803549948721
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": "CHARLES J BYERMAN",
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2017-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2017",
+        "FULLNAME": "WELLPATH PARTNERS",
+        "GPSX": 6503930.423125,
+        "GPSY": 1742502.61833334,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2015-08-20T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "2015-08-20T00:00:00.000Z",
+        "LICENSENO": "BU21523165",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-10-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 1024,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1081  LONG BEACH BLVD 215",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

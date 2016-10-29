@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18570911247126,
+            33.864383910273965
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Vending",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "MAGICAL VENDING",
+        "EXPDTTM": "2005-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2005",
+        "FULLNAME": "RUDY RIVERA",
+        "GPSX": 6505286.8375,
+        "GPSY": 1773080.48166667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2005-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2002-11-27T00:00:00.000Z",
+        "LICCATDESC": "Vending Machines",
+        "LICENSEDTTM": "2003-08-20T00:00:00.000Z",
+        "LICENSENO": "BU20339760",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-11-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 10,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 111160,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6034  LINDEN AVE B",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Vending Machines",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

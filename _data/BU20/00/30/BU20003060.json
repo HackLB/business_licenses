@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18543652511886,
+            33.83010000111506
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "EXAM ONE",
+        "EXPDTTM": "2006-01-03T00:00:00.000Z",
+        "EXPDTTM_IN": "1/3/2006",
+        "FULLNAME": "KEN BORSHELL",
+        "GPSX": 6505346.575,
+        "GPSY": 1760603.565,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-01-03T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-01-03T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "2000-01-24T00:00:00.000Z",
+        "LICENSENO": "BU20003060",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-03-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 7000,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3939  ATLANTIC AVE 108",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

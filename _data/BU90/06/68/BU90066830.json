@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16669412399384,
+            33.88031429893103
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "FOUR STAR MEAT CO INC",
+        "EXPDTTM": "2016-11-13T00:00:00.000Z",
+        "EXPDTTM_IN": "11/13/2016",
+        "FULLNAME": "FOUR STAR MEAT CO INC",
+        "GPSX": 6511069.2475,
+        "GPSY": 1778867.81166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1990-11-13T00:00:00.000Z",
+        "LICCATDESC": "Food Processing",
+        "LICENSEDTTM": "1990-11-13T00:00:00.000Z",
+        "LICENSENO": "BU90066830",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-11-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 20,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 111402,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2240  69TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Processing",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

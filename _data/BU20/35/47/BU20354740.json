@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15379788915007,
+            33.78370280236167
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Wholesale",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "ORE' ORIGINALS INC",
+        "EXPDTTM": "2017-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2017",
+        "FULLNAME": "ORE' ORIGINALS INC",
+        "GPSX": 6514929.9,
+        "GPSY": 1743702.17166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2003-11-25T00:00:00.000Z",
+        "LICCATDESC": "Wholesale",
+        "LICENSEDTTM": "2003-11-25T00:00:00.000Z",
+        "LICENSENO": "BU20354740",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-01-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 12,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 84891,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1357  CORONADO AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Wholesale",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

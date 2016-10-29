@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1896930907682,
+            33.77244088322933
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "T-MOBILE",
+        "EXPDTTM": "2016-11-16T00:00:00.000Z",
+        "EXPDTTM_IN": "11/16/2016",
+        "FULLNAME": "T-MOBILE WEST LLC",
+        "GPSX": 6504014.18833333,
+        "GPSY": 1739622.28416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2012-12-04T00:00:00.000Z",
+        "LICCATDESC": "Retail Sales",
+        "LICENSEDTTM": "2012-12-04T00:00:00.000Z",
+        "LICENSENO": "BU21239720",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-11-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 16,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 173501,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "290 E 5TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Retail Sales",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

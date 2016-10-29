@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17799247884805,
+            33.85458310220037
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "LONG BEACH BARBER SHOP",
+        "EXPDTTM": "2011-06-27T00:00:00.000Z",
+        "EXPDTTM_IN": "6/27/2011",
+        "FULLNAME": "FLORENTINO SANCHEZ",
+        "GPSX": 6507623.22833333,
+        "GPSY": 1769509.49083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-06-27T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2008-06-18T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty (booth )",
+        "LICENSEDTTM": "2009-09-18T00:00:00.000Z",
+        "LICENSENO": "BU20935440",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-03-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 116918,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1137 E MARKET ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Barber/Beauty (booth )",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

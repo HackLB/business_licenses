@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18973909041753,
+            33.82192279783649
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "STUDIO M",
+        "EXPDTTM": "2005-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2005",
+        "FULLNAME": "MC KIERNAN STUDIO INC",
+        "GPSX": 6504034.2,
+        "GPSY": 1757630.11,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1994-12-05T00:00:00.000Z",
+        "LICCATDESC": "Drafting/Graphics Design",
+        "LICENSEDTTM": "1998-05-18T00:00:00.000Z",
+        "LICENSENO": "BU98018970",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-08-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 133508,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3591  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Drafting/Graphics Design",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

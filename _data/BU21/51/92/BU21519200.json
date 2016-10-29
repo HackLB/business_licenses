@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14838365017883,
+            33.769461037324966
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "LORI LAMONT",
+        "EXPDTTM": "2017-05-12T00:00:00.000Z",
+        "EXPDTTM_IN": "5/12/2017",
+        "FULLNAME": "LORI LAMONT",
+        "GPSX": 6516567.55,
+        "GPSY": 1738516.72,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2015-05-12T00:00:00.000Z",
+        "LICCATDESC": "Artist Studio (Resid)",
+        "LICENSEDTTM": "2015-06-30T00:00:00.000Z",
+        "LICENSENO": "BU21519200",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-07-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 153378,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "339  GRAND AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Artist Studio (Resid)",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

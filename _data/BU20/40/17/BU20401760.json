@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13237431484355,
+            33.783455768078504
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "COMPUTER APPLIED SYSTEMS",
+        "EXPDTTM": "2009-12-15T00:00:00.000Z",
+        "EXPDTTM_IN": "12/15/2009",
+        "FULLNAME": "LEFAVI SYSTEMS INC",
+        "GPSX": 6521440.06583333,
+        "GPSY": 1743603.00166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-12-15T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1995-12-05T00:00:00.000Z",
+        "LICCATDESC": "Computer Programming/Consulting",
+        "LICENSEDTTM": "2004-01-15T00:00:00.000Z",
+        "LICENSENO": "BU20401760",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-02-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 102052,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5199 E PACIFIC COAST HWY 308",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Computer Programming/Consulting",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

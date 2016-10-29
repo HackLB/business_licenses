@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15522306746439,
+            33.860577345985355
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "MY 1ST CAR",
+        "EXPDTTM": "2004-07-02T00:00:00.000Z",
+        "EXPDTTM_IN": "7/2/2004",
+        "FULLNAME": "KEDRIN HOPKINS",
+        "GPSX": 6514540.01416667,
+        "GPSY": 1771679.48416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-07-02T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2003-07-02T00:00:00.000Z",
+        "LICCATDESC": "Auto/Boat Sales",
+        "LICENSEDTTM": "2004-09-24T00:00:00.000Z",
+        "LICENSENO": "BU20444410",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-09-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 9457,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3105  SOUTH ST 1",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto/Boat Sales",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

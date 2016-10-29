@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14340156500853,
+            33.765004992185574
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2017-04-06T00:00:00.000Z",
+        "EXPDTTM_IN": "4/6/2017",
+        "FULLNAME": "MARK SOLTER",
+        "GPSX": 6518079.47,
+        "GPSY": 1736892.84,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2006-04-06T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "2008-06-23T00:00:00.000Z",
+        "LICENSENO": "BU20830040",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 64523,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "234  ROSWELL AVE B",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13718118947065,
+            33.760948783587146
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "2ND ST BEAUTY",
+        "EXPDTTM": "2017-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2017",
+        "FULLNAME": "RONNIE NORRIS",
+        "GPSX": 6519968.15,
+        "GPSY": 1735414.03,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2016-08-01T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty (booth )",
+        "LICENSEDTTM": "2016-09-23T00:00:00.000Z",
+        "LICENSENO": "BU21606848",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-09-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 3359,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4910  2ND ST",
+        "STATELICNO": "118505",
+        "TYPEOFBUSINESS": "Barber/Beauty (booth )",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

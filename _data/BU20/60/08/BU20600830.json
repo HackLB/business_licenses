@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1437898635066,
+            33.8051204328121
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "AT&T MOBILITY",
+        "EXPDTTM": "2017-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2017",
+        "FULLNAME": "NEW CINGULAR WIRELESS PCS LLC",
+        "GPSX": 6517982.33,
+        "GPSY": 1751492.13,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2006-01-06T00:00:00.000Z",
+        "LICCATDESC": "Communication Facility - Cell Site",
+        "LICENSEDTTM": "2006-01-06T00:00:00.000Z",
+        "LICENSENO": "BU20600830",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-10-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 103660,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2601  LAKEWOOD BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Communication Facility - Cell Site",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

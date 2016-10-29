@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18431515232487,
+            33.84018543653335
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "BRUCE ELKINS TRAFFIC SCHOOL",
+        "EXPDTTM": "2014-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2014",
+        "FULLNAME": "BRUCE ELKINS",
+        "GPSX": 6505693.88416667,
+        "GPSY": 1764273.28333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1992-02-02T00:00:00.000Z",
+        "LICCATDESC": "Business/Professional School",
+        "LICENSEDTTM": "2005-11-17T00:00:00.000Z",
+        "LICENSENO": "BU20559910",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-10-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 85451,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4508  ATLANTIC AVE B",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business/Professional School",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

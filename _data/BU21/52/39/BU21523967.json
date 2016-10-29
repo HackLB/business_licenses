@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.2001845848412,
+            33.85302413464095
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": "JEFF ALGERA",
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "PRINCIPAL LA",
+        "EXPDTTM": null,
+        "EXPDTTM_IN": null,
+        "FULLNAME": "PRINCIPAL LA LLC",
+        "GPSX": 6500883.97,
+        "GPSY": 1768954.82,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2015-08-01T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "2015-09-25T00:00:00.000Z",
+        "LICENSENO": "BU21523967",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Pending",
+        "MILESTONE": "Planning Review",
+        "MILESTONEDATE": "2016-06-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 881,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "178 W PLYMOUTH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

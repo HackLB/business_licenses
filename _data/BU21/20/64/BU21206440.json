@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17550533018256,
+            33.78655813099535
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "CZAR ELECTRIC",
+        "EXPDTTM": "2016-02-28T00:00:00.000Z",
+        "EXPDTTM_IN": "2/28/2016",
+        "FULLNAME": "COLIN A CAESAR",
+        "GPSX": 6508335.17,
+        "GPSY": 1744752.11,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2016-03-30T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2012-02-28T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "2012-02-28T00:00:00.000Z",
+        "LICENSENO": "BU21206440",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-03-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 116807,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1235 E 15TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

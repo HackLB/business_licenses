@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16724688683445,
+            33.78721884959038
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "CARNICERIA WALLY'S MARKET",
+        "EXPDTTM": "2013-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2013",
+        "FULLNAME": "CARNICERIA WALLY'S MARKET INC",
+        "GPSX": 6510845.09333333,
+        "GPSY": 1744988.285,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-12-18T00:00:00.000Z",
+        "LICCATDESC": "Food Retail Store",
+        "LICENSEDTTM": "2012-12-18T00:00:00.000Z",
+        "LICENSENO": "BU21241230",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-02-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 160101,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1602  CHERRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Retail Store",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

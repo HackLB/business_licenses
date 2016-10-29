@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17926271509826,
+            33.81871150116159
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2006-07-19T00:00:00.000Z",
+        "EXPDTTM_IN": "7/19/2006",
+        "FULLNAME": "MADISON HOME HEALTH INC",
+        "GPSX": 6507214.26833333,
+        "GPSY": 1756455.595,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-07-19T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2004-07-15T00:00:00.000Z",
+        "LICCATDESC": "Employment Agency",
+        "LICENSEDTTM": "2004-10-28T00:00:00.000Z",
+        "LICENSENO": "BU20451380",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-10-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 146663,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1050 E WARDLOW RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Employment Agency",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

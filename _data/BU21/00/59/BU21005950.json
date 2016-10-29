@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13471069605379,
+            33.76298425126663
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Vending",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2013-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2013",
+        "FULLNAME": "RIGHT CHOICE VENDING INC",
+        "GPSX": 6520720.09,
+        "GPSY": 1736153.78,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2013-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2010-01-21T00:00:00.000Z",
+        "LICCATDESC": "Vending Machines",
+        "LICENSEDTTM": "2010-02-24T00:00:00.000Z",
+        "LICENSENO": "BU21005950",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-06-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 4,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 116365,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "237 1/2  GRANADA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Vending Machines",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

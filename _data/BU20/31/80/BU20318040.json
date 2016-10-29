@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19515211621038,
+            33.766629572345956
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Residential Property",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "CAMDEN HARBOR VIEW",
+        "EXPDTTM": "2017-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2017",
+        "FULLNAME": "CAMDEN DEVELOPMENT INC",
+        "GPSX": 6502350.95,
+        "GPSY": 1737510.56083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2003-04-16T00:00:00.000Z",
+        "LICCATDESC": "Apartment House",
+        "LICENSEDTTM": "2003-04-16T00:00:00.000Z",
+        "LICENSENO": "BU20318040",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-07-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 120,
+        "NUMVEH": 0,
+        "OBJECTID": 140751,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "300 W OCEAN BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Apartment House",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

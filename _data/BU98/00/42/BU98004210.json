@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15426626682739,
+            33.78062738560263
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "DONNA HOTEL",
+        "EXPDTTM": "2005-02-05T00:00:00.000Z",
+        "EXPDTTM_IN": "2/5/2005",
+        "FULLNAME": "CHARLES ROSS LLC",
+        "GPSX": 6514785.85,
+        "GPSY": 1742583.16,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-12-03T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1998-02-05T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "1998-02-05T00:00:00.000Z",
+        "LICENSENO": "BU98004210",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 105017,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1090  OBISPO AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10748928156512,
+            33.78821657784498
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "SHELL",
+        "EXPDTTM": "2006-01-16T00:00:00.000Z",
+        "EXPDTTM_IN": "1/16/2006",
+        "FULLNAME": "PACIFIC FUEL COMPANY LLC",
+        "GPSX": 6529004.11,
+        "GPSY": 1745326.57,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-01-16T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2004-02-18T00:00:00.000Z",
+        "LICCATDESC": "Car Wash",
+        "LICENSEDTTM": "2004-02-27T00:00:00.000Z",
+        "LICENSENO": "BU20409010",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-06-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 171196,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1790  PALO VERDE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Car Wash",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

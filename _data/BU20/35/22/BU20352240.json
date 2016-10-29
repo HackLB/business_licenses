@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14512150983047,
+            33.76723273550606
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2009-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2009",
+        "FULLNAME": "TRANSTRACK SYSTEMS LLC",
+        "GPSX": 6517557.86,
+        "GPSY": 1737704.33,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2009-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2003-11-07T00:00:00.000Z",
+        "LICCATDESC": "Internet Sales/Service",
+        "LICENSEDTTM": "2003-11-07T00:00:00.000Z",
+        "LICENSENO": "BU20352240",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-01-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 113050,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "265  BELMONT AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Internet Sales/Service",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

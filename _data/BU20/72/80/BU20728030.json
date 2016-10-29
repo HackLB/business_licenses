@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18547135232102,
+            33.80941881058785
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": null,
+        "EXPDTTM": "2013-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2013",
+        "FULLNAME": "LONG BEACH CENTER FOR CLINICAL RESEARCH IN",
+        "GPSX": 6505322.11,
+        "GPSY": 1753077.16333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2007-07-01T00:00:00.000Z",
+        "LICCATDESC": "Physician/Surgeon",
+        "LICENSEDTTM": "2007-06-28T00:00:00.000Z",
+        "LICENSENO": "BU20728030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-07-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 10,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 113522,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2865  ATLANTIC AVE 227",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Physician/Surgeon",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

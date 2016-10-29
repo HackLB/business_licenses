@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19031448191471,
+            33.77438236322978
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "SAFE NAVIGATION INC",
+        "EXPDTTM": "2016-11-20T00:00:00.000Z",
+        "EXPDTTM_IN": "11/20/2016",
+        "FULLNAME": "SAFE NAVIGATION INC",
+        "GPSX": 6503826.67,
+        "GPSY": 1740329.2,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2015-01-06T00:00:00.000Z",
+        "LICCATDESC": "Retail Sales",
+        "LICENSEDTTM": "2015-01-06T00:00:00.000Z",
+        "LICENSENO": "BU21500470",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-11-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 115701,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "225 E 6TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Retail Sales",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

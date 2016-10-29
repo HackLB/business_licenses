@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19264173120722,
+            33.768412477323615
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "PUBLIC THEATRE OF SOUTHERN CALIFORNIA",
+        "EXPDTTM": "2015-08-29T00:00:00.000Z",
+        "EXPDTTM_IN": "8/29/2015",
+        "FULLNAME": "DENIS MCCOURT-STRYJEWSKI",
+        "GPSX": 6503115.21416667,
+        "GPSY": 1738157.93833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2013-12-27T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "2013-12-27T00:00:00.000Z",
+        "LICENSENO": "BU21338690",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2015-11-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 81815,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "115  PINE AVE 620",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

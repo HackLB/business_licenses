@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19556498209157,
+            33.80330602180326
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "BARNES, O'NEALE & ASSOCIATES",
+        "EXPDTTM": "2007-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2007",
+        "FULLNAME": "ROSALYN TAYLOR O'NEALE",
+        "GPSX": 6502251.43,
+        "GPSY": 1750858.37,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2007-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2002-05-23T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "2003-08-04T00:00:00.000Z",
+        "LICENSENO": "BU20336740",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-07-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 4926,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2536  CHESTNUT AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

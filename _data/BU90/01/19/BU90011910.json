@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16580358241418,
+            33.765450180770195
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2006-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2006",
+        "FULLNAME": "HARBORLIGHT ENTERPRISES INC",
+        "GPSX": 6511270.60416667,
+        "GPSY": 1737065.33,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-03-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1990-02-28T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "1990-02-28T00:00:00.000Z",
+        "LICENSENO": "BU90011910",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-08-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 159062,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2121 E 1ST ST 201",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

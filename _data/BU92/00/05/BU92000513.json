@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17549156092635,
+            33.78829867011913
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Residential Property",
+        "COMPANYTYPE": "TRUST",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": null,
+        "EXPDTTM": "2014-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2014",
+        "FULLNAME": "STEWART, JAMES E TRUST",
+        "GPSX": 6508340.46,
+        "GPSY": 1745385.5325,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1998-11-09T00:00:00.000Z",
+        "LICCATDESC": "Apartment House",
+        "LICENSEDTTM": "2003-02-10T00:00:00.000Z",
+        "LICENSENO": "BU92000513",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-08-08T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 12,
+        "NUMVEH": 0,
+        "OBJECTID": 160714,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1235 E 17TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Apartment House",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

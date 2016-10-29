@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12246485087509,
+            33.752096835404
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "OLSON & ASSOCIATES",
+        "EXPDTTM": "2017-03-02T00:00:00.000Z",
+        "EXPDTTM_IN": "3/2/2017",
+        "FULLNAME": "STEVEN A OLSON",
+        "GPSX": 6524437.5,
+        "GPSY": 1732186.77,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1998-03-02T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "2001-02-15T00:00:00.000Z",
+        "LICENSENO": "BU20106770",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 160617,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "12  VIRGIL WK",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

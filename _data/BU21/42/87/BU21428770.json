@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13560542395524,
+            33.78851957590341
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2016-06-14T00:00:00.000Z",
+        "EXPDTTM_IN": "6/14/2016",
+        "FULLNAME": "HILL MANAGEMENT SVC INC",
+        "GPSX": 6520460.66645834,
+        "GPSY": 1745447.170625,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2016-07-11T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2014-09-12T00:00:00.000Z",
+        "LICCATDESC": "Property Management",
+        "LICENSEDTTM": "2014-09-12T00:00:00.000Z",
+        "LICENSENO": "BU21428770",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-07-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 83609,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4940  ATHERTON ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Property Management",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

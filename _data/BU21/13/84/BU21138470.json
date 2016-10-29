@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1919952887623,
+            33.782825624599326
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "CALIFORNIA INSTANT TAX SERVICES",
+        "EXPDTTM": "2012-12-15T00:00:00.000Z",
+        "EXPDTTM_IN": "12/15/2012",
+        "FULLNAME": "RODRIGUEZ, MIGUEL",
+        "GPSX": 6503321.7125,
+        "GPSY": 1743402.90833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-12-15T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2011-12-06T00:00:00.000Z",
+        "LICCATDESC": "Tax Preparation",
+        "LICENSEDTTM": "2011-12-06T00:00:00.000Z",
+        "LICENSENO": "BU21138470",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-02-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 56539,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1310  PINE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tax Preparation",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15274276038592,
+            33.76792202228443
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "WEIL & ASSOCIATES",
+        "EXPDTTM": "2010-10-03T00:00:00.000Z",
+        "EXPDTTM_IN": "10/3/2010",
+        "FULLNAME": "DAVID WEIL",
+        "GPSX": 6515241.81,
+        "GPSY": 1737958.61333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-10-03T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1996-10-03T00:00:00.000Z",
+        "LICCATDESC": "Attorney",
+        "LICENSEDTTM": "2008-12-30T00:00:00.000Z",
+        "LICENSENO": "BU20858160",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-05-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 162246,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "295  REDONDO AVE 203",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Attorney",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

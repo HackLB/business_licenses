@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16705148192038,
+            33.83056843651981
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "THE PET SET",
+        "EXPDTTM": "2004-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2004",
+        "FULLNAME": "MATTHEW D DAWSON",
+        "GPSX": 6510930.69,
+        "GPSY": 1760764.25,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2002-11-22T00:00:00.000Z",
+        "LICCATDESC": "Kennel - Boarding Only",
+        "LICENSEDTTM": "2002-11-22T00:00:00.000Z",
+        "LICENSENO": "BU20252600",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-02-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 91390,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3960  CHERRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Kennel - Boarding Only",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11718533118527,
+            33.76523257684626
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Vending",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2009-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2009",
+        "FULLNAME": "JAVA JUMP GOURMET INC",
+        "GPSX": 6526048.04,
+        "GPSY": 1736965.33583333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2009-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2007-10-01T00:00:00.000Z",
+        "LICCATDESC": "Vending Machines",
+        "LICENSEDTTM": "2007-10-01T00:00:00.000Z",
+        "LICENSENO": "BU20741280",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-08-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 1,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 90536,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6225  SEVILLE CT",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Vending Machines",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

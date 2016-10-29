@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19264173120722,
+            33.768412477323615
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "DANNIS WOLIVER KELLEY",
+        "EXPDTTM": "2017-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2017",
+        "FULLNAME": "DANNIS WOLIVER KELLEY",
+        "GPSX": 6503115.21416667,
+        "GPSY": 1738157.93833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2013-10-23T00:00:00.000Z",
+        "LICCATDESC": "Attorney",
+        "LICENSEDTTM": "2013-10-23T00:00:00.000Z",
+        "LICENSENO": "BU21332480",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-10-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 15,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 108933,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "115  PINE AVE 500",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Attorney",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1603109624427,
+            33.765584796765964
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "ORCHID CLEANERS 2",
+        "EXPDTTM": "2016-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2016",
+        "FULLNAME": "TERTUS INC",
+        "GPSX": 6512940.165,
+        "GPSY": 1737111.6125,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2014-09-30T00:00:00.000Z",
+        "LICCATDESC": "Dry Cleaning Plant",
+        "LICENSEDTTM": "2014-09-30T00:00:00.000Z",
+        "LICENSENO": "BU21430670",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-09-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 139683,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2706 E BROADWAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dry Cleaning Plant",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

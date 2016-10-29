@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1273856864338,
+            33.75896457368833
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2008-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2008",
+        "FULLNAME": "MATT CARROLL",
+        "GPSX": 6522944.74,
+        "GPSY": 1734688,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2008-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2006-12-31T00:00:00.000Z",
+        "LICCATDESC": "Marketing",
+        "LICENSEDTTM": "2008-11-04T00:00:00.000Z",
+        "LICENSENO": "BU20851270",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-01-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 127951,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "255  SIENA DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Marketing",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

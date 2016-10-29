@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19303175962361,
+            33.76756922507026
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2004-06-01T00:00:00.000Z",
+        "EXPDTTM_IN": "6/1/2004",
+        "FULLNAME": "TRAMMO PETROLEUM INC",
+        "GPSX": 6502996.08,
+        "GPSY": 1737851.2825,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-06-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2002-05-29T00:00:00.000Z",
+        "LICCATDESC": "Marketing",
+        "LICENSEDTTM": "2002-05-29T00:00:00.000Z",
+        "LICENSENO": "BU20224820",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-05-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 77360,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "111 W OCEAN BLVD 1700",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Marketing",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

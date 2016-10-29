@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20078633464762,
+            33.78914307300913
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "BIGGER DOT",
+        "EXPDTTM": "2011-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2011",
+        "FULLNAME": "B2B SERVICES GROUP INC",
+        "GPSX": 6500654.82,
+        "GPSY": 1745707.22,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-05-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2005-05-01T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "2009-06-09T00:00:00.000Z",
+        "LICENSENO": "BU20922010",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-06-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 112898,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "655 W ESTHER ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

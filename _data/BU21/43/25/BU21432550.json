@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18888893411285,
+            33.830919702318134
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "LLIFE SERVICES",
+        "EXPDTTM": "2017-05-06T00:00:00.000Z",
+        "EXPDTTM_IN": "5/6/2017",
+        "FULLNAME": "LUIS M AGREDANO",
+        "GPSX": 6504298.58416666,
+        "GPSY": 1760903.8275,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2014-10-16T00:00:00.000Z",
+        "LICCATDESC": "Social Service without Food Distribution",
+        "LICENSEDTTM": "2014-10-16T00:00:00.000Z",
+        "LICENSENO": "BU21432550",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 6522,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4000  LONG BEACH BLVD 209",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Social Service without Food Distribution",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

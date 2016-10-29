@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18539278214898,
+            33.780235323836806
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": null,
+        "EXPDTTM": "2013-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2013",
+        "FULLNAME": "ST JOHN MEDICAL GROUP INC",
+        "GPSX": 6505326.39,
+        "GPSY": 1742456.46,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-02-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2010-02-01T00:00:00.000Z",
+        "LICCATDESC": "Medical Office/Clinic",
+        "LICENSEDTTM": "2010-02-24T00:00:00.000Z",
+        "LICENSENO": "BU21005860",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-02-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 116356,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1045  ATLANTIC AVE 812",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Medical Office/Clinic",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

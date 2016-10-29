@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19651552669895,
+            33.79727306709911
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": null,
+        "EXPDTTM": "2010-02-15T00:00:00.000Z",
+        "EXPDTTM_IN": "2/15/2010",
+        "FULLNAME": "EASTWIND CONSULTING GROUP PAY HERE 1ST",
+        "GPSX": 6501958.35,
+        "GPSY": 1748663.38,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2010-02-15T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2004-12-29T00:00:00.000Z",
+        "LICCATDESC": "Computer Programming/Consulting",
+        "LICENSEDTTM": "2008-02-19T00:00:00.000Z",
+        "LICENSENO": "BU20807750",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-08-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 125431,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "421 W HILL ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Computer Programming/Consulting",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

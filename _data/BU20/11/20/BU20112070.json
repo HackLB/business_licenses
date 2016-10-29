@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19200226204231,
+            33.78332448059709
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Vending",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "THE WASH HOUSE",
+        "EXPDTTM": "2003-12-18T00:00:00.000Z",
+        "EXPDTTM_IN": "12/18/2003",
+        "FULLNAME": "WASH HOUSE INC",
+        "GPSX": 6503319.94,
+        "GPSY": 1743584.46,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-12-18T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1998-12-18T00:00:00.000Z",
+        "LICCATDESC": "Laundromat",
+        "LICENSEDTTM": "2001-03-23T00:00:00.000Z",
+        "LICENSENO": "BU20112070",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-11-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 95305,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1340  PINE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laundromat",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

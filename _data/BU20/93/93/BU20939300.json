@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19338058262683,
+            33.78237899829194
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2016-10-19T00:00:00.000Z",
+        "EXPDTTM_IN": "10/19/2016",
+        "FULLNAME": "PACIFIC WASH INC",
+        "GPSX": 6502900.426667,
+        "GPSY": 1743241.175833,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2009-10-19T00:00:00.000Z",
+        "LICCATDESC": "Car Wash",
+        "LICENSEDTTM": "2009-10-19T00:00:00.000Z",
+        "LICENSENO": "BU20939300",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-10-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 20851,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "130 W ANAHEIM ST C",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Car Wash",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18458818048646,
+            33.851868951296424
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "FES HANDYMAN",
+        "EXPDTTM": "2015-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2015",
+        "FULLNAME": "DAVID RIVERA",
+        "GPSX": 6505618.77916667,
+        "GPSY": 1768525.35666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2014-01-31T00:00:00.000Z",
+        "LICCATDESC": "Handyman",
+        "LICENSEDTTM": "2014-01-31T00:00:00.000Z",
+        "LICENSENO": "BU21404030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-01-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 165251,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5254  ATLANTIC AVE 108",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Handyman",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

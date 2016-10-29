@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1721730453788,
+            33.822006710104624
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2011-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2011",
+        "FULLNAME": "KAREN FERRY CUSTOM BROKERS",
+        "GPSX": 6509369.86083333,
+        "GPSY": 1757651.0425,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2011-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2010-11-10T00:00:00.000Z",
+        "LICCATDESC": "Internet Sales/Service",
+        "LICENSEDTTM": "2010-11-10T00:00:00.000Z",
+        "LICENSENO": "BU21036350",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-10-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 18835,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3595  WALNUT AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Internet Sales/Service",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20157427816716,
+            33.767998465123036
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "TRAVEL TRADERS #1102",
+        "EXPDTTM": "2004-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2004",
+        "FULLNAME": "TRAVEL TRADERS LLC",
+        "GPSX": 6500399.96083333,
+        "GPSY": 1738012.59166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2003-12-16T00:00:00.000Z",
+        "LICCATDESC": "Retail Sales",
+        "LICENSEDTTM": "2003-12-16T00:00:00.000Z",
+        "LICENSENO": "BU20357650",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-02-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 140829,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "701 W OCEAN BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Retail Sales",
+        "ZIP": "90831"
+    },
+    "type": "Feature"
+}

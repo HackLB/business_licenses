@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13297321591646,
+            33.755441667387004
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Residential Property",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2013-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2013",
+        "FULLNAME": "WELLS FARGO BANK 2006-AR2 TR",
+        "GPSX": 6521244.58166667,
+        "GPSY": 1733408.11166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2013-12-11T00:00:00.000Z",
+        "LICCATDESC": "Apartment House",
+        "LICENSEDTTM": "2013-12-11T00:00:00.000Z",
+        "LICENSENO": "BU03002037",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "ClosedWBal",
+        "MILESTONE": "Collections",
+        "MILESTONEDATE": "2014-10-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 4,
+        "NUMVEH": 0,
+        "OBJECTID": 97686,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "69  CLAREMONT AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Apartment House",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

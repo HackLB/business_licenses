@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12053140606263,
+            33.77201812143851
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "JOHN HALLGARTH",
+        "EXPDTTM": "2016-03-03T00:00:00.000Z",
+        "EXPDTTM_IN": "3/3/2016",
+        "FULLNAME": "JOHN HALLGARTH",
+        "GPSX": 6525033.95791666,
+        "GPSY": 1739435.99229167,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2016-06-22T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2015-03-03T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "2015-03-03T00:00:00.000Z",
+        "LICENSENO": "BU21506530",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-06-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 1410,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "552  BELLFLOWER BLVD 217",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

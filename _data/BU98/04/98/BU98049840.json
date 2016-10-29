@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18542804853624,
+            33.84958266934382
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "GROCERY WAREHOUSE (JLS ENTERPRISES)",
+        "EXPDTTM": "2013-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2013",
+        "FULLNAME": "JEFF BENSON",
+        "GPSX": 6505362.22916667,
+        "GPSY": 1767693.79166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-02-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1998-12-28T00:00:00.000Z",
+        "LICCATDESC": "Food Retail Store",
+        "LICENSEDTTM": "1998-12-28T00:00:00.000Z",
+        "LICENSENO": "BU98049840",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-03-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 27104,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5121  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Retail Store",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19332307536483,
+            33.805839322100084
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": null,
+        "EXPDTTM": "2017-04-15T00:00:00.000Z",
+        "EXPDTTM_IN": "4/15/2017",
+        "FULLNAME": "ADVANCE CARE SPECIALIST",
+        "GPSX": 6502934.32333333,
+        "GPSY": 1751778.9875,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2002-04-15T00:00:00.000Z",
+        "LICCATDESC": "Physician/Surgeon",
+        "LICENSEDTTM": "2003-05-15T00:00:00.000Z",
+        "LICENSENO": "BU20323010",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 164559,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2690  PACIFIC AVE 330",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Physician/Surgeon",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

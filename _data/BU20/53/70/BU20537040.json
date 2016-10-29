@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18888920104425,
+            33.83116729601886
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2006-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2006",
+        "FULLNAME": "KIMBERLY YVETTE ROCKHOLD",
+        "GPSX": 6504298.6725,
+        "GPSY": 1760993.93333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1999-09-01T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty (booth )",
+        "LICENSEDTTM": "2005-07-15T00:00:00.000Z",
+        "LICENSENO": "BU20537040",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-05-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 41712,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4008  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Barber/Beauty (booth )",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

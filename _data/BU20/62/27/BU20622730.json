@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1684292048253,
+            33.76829368796506
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "BO12 3 MIX ENTERTAINMENT GROUP",
+        "EXPDTTM": "2006-06-05T00:00:00.000Z",
+        "EXPDTTM_IN": "6/5/2006",
+        "FULLNAME": "CHRISTINA DORAME",
+        "GPSX": 6510474.28,
+        "GPSY": 1738101.49,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-06-05T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2001-06-05T00:00:00.000Z",
+        "LICCATDESC": "Promoting",
+        "LICENSEDTTM": "2006-05-01T00:00:00.000Z",
+        "LICENSENO": "BU20622730",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-08-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 100237,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1907  APPLETON ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Promoting",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16729258449652,
+            33.78515957120546
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Residential Property",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2009-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2009",
+        "FULLNAME": "DORTHEA GARCIA",
+        "GPSX": 6510829.96,
+        "GPSY": 1744238.88,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2000-10-05T00:00:00.000Z",
+        "LICCATDESC": "Apartment House",
+        "LICENSEDTTM": "2000-10-05T00:00:00.000Z",
+        "LICENSENO": "BU94048952",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-09-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 4,
+        "NUMVEH": 0,
+        "OBJECTID": 59823,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1426  CHERRY AVE  1426,14261/2,1428,14281/2",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Apartment House",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

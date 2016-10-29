@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16798612588552,
+            33.78869760523858
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "WEST COAST MUFFLERS",
+        "EXPDTTM": "2006-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2006",
+        "FULLNAME": "MARIO FRANCO",
+        "GPSX": 6510621.35916667,
+        "GPSY": 1745526.81916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-03-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2005-02-01T00:00:00.000Z",
+        "LICCATDESC": "Auto Repair - Minor, Tune-Up, Smog Test",
+        "LICENSEDTTM": "2005-06-29T00:00:00.000Z",
+        "LICENSENO": "BU20534290",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-03-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 64326,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1723  CHERRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto Repair - Minor, Tune-Up, Smog Test",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

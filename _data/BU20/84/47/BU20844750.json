@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18466132275825,
+            33.862133515459284
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "EDDIES PAD",
+        "EXPDTTM": "2009-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2009",
+        "FULLNAME": "EDUARDO SANDOVAL",
+        "GPSX": 6505603.43333333,
+        "GPSY": 1772260.9225,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2008-10-01T00:00:00.000Z",
+        "LICCATDESC": "Retail Sales",
+        "LICENSEDTTM": "2008-09-22T00:00:00.000Z",
+        "LICENSENO": "BU20844750",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Denied",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-03-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 34599,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5912  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Retail Sales",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

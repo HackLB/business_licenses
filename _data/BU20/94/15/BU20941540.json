@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1919952887623,
+            33.782825624599326
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "GONZALEZ BARBER SHOP",
+        "EXPDTTM": "2012-06-01T00:00:00.000Z",
+        "EXPDTTM_IN": "6/1/2012",
+        "FULLNAME": "EDGAR GONZALEZ-ARTOLA",
+        "GPSX": 6503321.7125,
+        "GPSY": 1743402.90833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-06-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2008-06-01T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty Shop Owner",
+        "LICENSEDTTM": "2009-11-05T00:00:00.000Z",
+        "LICENSENO": "BU20941540",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-07-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 22737,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1310  PINE AVE C",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Barber/Beauty Shop Owner",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

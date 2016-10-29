@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16516705717589,
+            33.78888042459606
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "ORTIZ CONSTRUCTION",
+        "EXPDTTM": "2012-02-17T00:00:00.000Z",
+        "EXPDTTM_IN": "2/17/2012",
+        "FULLNAME": "CARLOS ORTIZ FLORES",
+        "GPSX": 6511478.0875,
+        "GPSY": 1745591.9325,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2012-02-17T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2004-09-14T00:00:00.000Z",
+        "LICCATDESC": "Handyman",
+        "LICENSEDTTM": "2004-10-06T00:00:00.000Z",
+        "LICENSENO": "BU20446460",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-02-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 84639,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1739  STANTON PL 12",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Handyman",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14219539883265,
+            33.79570339619882
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "ANNEX",
+        "EXPDTTM": "2013-12-06T00:00:00.000Z",
+        "EXPDTTM_IN": "12/6/2013",
+        "FULLNAME": "ANNEX OF EAST LONG BEACH",
+        "GPSX": 6518461.89083333,
+        "GPSY": 1748064.32666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-12-06T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2006-01-18T00:00:00.000Z",
+        "LICCATDESC": "Bar, Tavern, Lounge",
+        "LICENSEDTTM": "2006-01-18T00:00:00.000Z",
+        "LICENSENO": "BU20602630",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-10-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 170171,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4300  STEARNS ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Bar, Tavern, Lounge",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

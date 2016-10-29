@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10881840743782,
+            33.79161476839601
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "VERMILION AUDIO",
+        "EXPDTTM": "2017-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2017",
+        "FULLNAME": "MICHAEL GIARDINA",
+        "GPSX": 6528601.57,
+        "GPSY": 1746563.7,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2014-03-11T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "2014-03-11T00:00:00.000Z",
+        "LICENSENO": "BU21408340",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-01-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 135768,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1940  CONQUISTA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

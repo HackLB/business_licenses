@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19894587926544,
+            33.76680140201935
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "BRYSON FINANCIAL GROUP",
+        "EXPDTTM": "2013-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2013",
+        "FULLNAME": "BRYSON, RICHARD",
+        "GPSX": 6501197.97583333,
+        "GPSY": 1737575.355,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1998-10-28T00:00:00.000Z",
+        "LICCATDESC": "Insurance Broker",
+        "LICENSEDTTM": "1998-10-28T00:00:00.000Z",
+        "LICENSENO": "BU98042340",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-02-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 9,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 100431,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "100  OCEANGATE  401",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Insurance Broker",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14172102043706,
+            33.79578859723178
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "STEARNS LIQUOR",
+        "EXPDTTM": "2017-06-15T00:00:00.000Z",
+        "EXPDTTM_IN": "6/15/2017",
+        "FULLNAME": "NUMBER ONE LIQUOR MART INC.",
+        "GPSX": 6518606.07,
+        "GPSY": 1748095.13,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2011-06-15T00:00:00.000Z",
+        "LICCATDESC": "Check Cashing",
+        "LICENSEDTTM": "2011-06-15T00:00:00.000Z",
+        "LICENSENO": "BU21120010",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 81151,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4360  STEARNS ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Check Cashing",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

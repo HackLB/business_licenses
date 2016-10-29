@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14104646489831,
+            33.83312276541007
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "BMCO-PACIFIC/MIKE MOSAIC",
+        "EXPDTTM": "2008-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2008",
+        "FULLNAME": "MICHAEL S MCCORMICK",
+        "GPSX": 6518830.0925,
+        "GPSY": 1761681.73166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2008-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1998-09-29T00:00:00.000Z",
+        "LICCATDESC": "Artist Studio (Comml)",
+        "LICENSEDTTM": "2001-11-19T00:00:00.000Z",
+        "LICENSENO": "BU20147350",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-12-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 71834,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4126  NORSE WAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Artist Studio (Comml)",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18973682391865,
+            33.77916479301468
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "EXPRESS MOTORS",
+        "EXPDTTM": "2004-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2004",
+        "FULLNAME": "JUAN CARLOS LOPEZ",
+        "GPSX": 6504005.51583333,
+        "GPSY": 1742069.3275,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1999-07-10T00:00:00.000Z",
+        "LICCATDESC": "Auto/Boat Sales",
+        "LICENSEDTTM": "1999-06-24T00:00:00.000Z",
+        "LICENSENO": "BU99023280",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-01-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 44361,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1001  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto/Boat Sales",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

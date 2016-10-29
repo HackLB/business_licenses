@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18561246467894,
+            33.83784254610756
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "BIXBY KNOLLS ESCROW SERVICE",
+        "EXPDTTM": "2010-06-15T00:00:00.000Z",
+        "EXPDTTM_IN": "6/15/2010",
+        "FULLNAME": "BIXBY KNOLLS ESCROW SERVICE INC",
+        "GPSX": 6505298.3425,
+        "GPSY": 1763421.37166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-06-15T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1994-11-16T00:00:00.000Z",
+        "LICCATDESC": "Escrow Company",
+        "LICENSEDTTM": "1998-05-11T00:00:00.000Z",
+        "LICENSENO": "BU98017850",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-11-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 172775,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4425  ATLANTIC AVE B20",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Escrow Company",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

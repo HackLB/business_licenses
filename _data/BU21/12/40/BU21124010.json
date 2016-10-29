@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1439354514581,
+            33.78364855243448
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "LOMA",
+        "EXPDTTM": "2013-07-14T00:00:00.000Z",
+        "EXPDTTM_IN": "7/14/2013",
+        "FULLNAME": "MIKE DE LA VEGA",
+        "GPSX": 6517926.91,
+        "GPSY": 1743677.99,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2013-07-14T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2011-07-14T00:00:00.000Z",
+        "LICCATDESC": "Drafting/Graphics Design",
+        "LICENSEDTTM": "2011-07-22T00:00:00.000Z",
+        "LICENSENO": "BU21124010",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-08-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 25076,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4137  FOUNTAIN ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Drafting/Graphics Design",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

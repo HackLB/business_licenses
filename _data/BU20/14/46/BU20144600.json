@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.08682844968891,
+            33.83070786650954
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Unique Businesses",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "EDWARDS THEATRES INC",
+        "EXPDTTM": "2017-05-14T00:00:00.000Z",
+        "EXPDTTM_IN": "5/14/2017",
+        "FULLNAME": "EDWARDS THEATERS INC",
+        "GPSX": 6535295.63249999,
+        "GPSY": 1760784.2225,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-05-06T00:00:00.000Z",
+        "LICCATDESC": "Movie / Live Theater",
+        "LICENSEDTTM": "2001-10-30T00:00:00.000Z",
+        "LICENSENO": "BU20144600",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 4798,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 154019,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "7500  CARSON BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Movie / Live Theater",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

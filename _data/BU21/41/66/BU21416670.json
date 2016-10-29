@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15916431076164,
+            33.765335759848796
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2017-05-19T00:00:00.000Z",
+        "EXPDTTM_IN": "5/19/2017",
+        "FULLNAME": "JEANNETTE ARCHITECTS, INC",
+        "GPSX": 6513288.54583333,
+        "GPSY": 1737020.42666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2014-05-16T00:00:00.000Z",
+        "LICCATDESC": "Architecture",
+        "LICENSEDTTM": "2014-05-16T00:00:00.000Z",
+        "LICENSENO": "BU21416670",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 7,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 20577,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "209  TEMPLE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Architecture",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

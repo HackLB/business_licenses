@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.07525003862118,
+            33.82057845690572
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "JAY S EAGLE",
+        "EXPDTTM": "2015-04-20T00:00:00.000Z",
+        "EXPDTTM_IN": "4/20/2015",
+        "FULLNAME": "JAY S EAGLE",
+        "GPSX": 6538809.4,
+        "GPSY": 1757095.03,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-04-20T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2006-02-07T00:00:00.000Z",
+        "LICCATDESC": "Real Estate Office",
+        "LICENSEDTTM": "2010-04-20T00:00:00.000Z",
+        "LICENSENO": "BU21012550",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-05-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 45551,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3480  MARNA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Real Estate Office",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

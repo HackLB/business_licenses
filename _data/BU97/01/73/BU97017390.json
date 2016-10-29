@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19412867579557,
+            33.78016114219693
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Vending",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "C HARIS ENTERPRISES",
+        "EXPDTTM": "2000-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2000",
+        "FULLNAME": "CHARIS HRENAK",
+        "GPSX": 6502671.53083333,
+        "GPSY": 1742434.475,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-12-03T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1997-04-21T00:00:00.000Z",
+        "LICCATDESC": "Vending Machines",
+        "LICENSEDTTM": "1997-04-21T00:00:00.000Z",
+        "LICENSENO": "BU97017390",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 10,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 49727,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1063  PACIFIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Vending Machines",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

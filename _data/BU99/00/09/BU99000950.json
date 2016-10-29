@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12001259404123,
+            33.75577320600027
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2016-10-08T00:00:00.000Z",
+        "EXPDTTM_IN": "10/8/2016",
+        "FULLNAME": "A B T SERVICES INC",
+        "GPSX": 6525184.58,
+        "GPSY": 1733523.81,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1997-10-08T00:00:00.000Z",
+        "LICCATDESC": "Accounting",
+        "LICENSEDTTM": "1999-01-12T00:00:00.000Z",
+        "LICENSENO": "BU99000950",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-09-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 64377,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5848  NAPLES PLZ 204",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Accounting",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

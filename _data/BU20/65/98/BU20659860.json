@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19327235485254,
+            33.81938317372292
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "YMCA PACIFIC AVE PRESCHOOL",
+        "EXPDTTM": "2011-01-15T00:00:00.000Z",
+        "EXPDTTM_IN": "1/15/2011",
+        "FULLNAME": "YMCA GLB",
+        "GPSX": 6502959.21,
+        "GPSY": 1756707.92,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-01-15T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2007-01-15T00:00:00.000Z",
+        "LICCATDESC": "Day Care/Preschool",
+        "LICENSEDTTM": "2006-12-19T00:00:00.000Z",
+        "LICENSENO": "BU20659860",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-02-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 10,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 144608,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3400  PACIFIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Day Care/Preschool",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15162834205238,
+            33.76403717001747
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "BROWN DNA",
+        "EXPDTTM": "2006-12-28T00:00:00.000Z",
+        "EXPDTTM_IN": "12/28/2006",
+        "FULLNAME": "GABRIELA LOPEZ DE AYALA",
+        "GPSX": 6515578.395,
+        "GPSY": 1736544.29166667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-12-28T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2003-11-17T00:00:00.000Z",
+        "LICCATDESC": "Internet Sales/Service",
+        "LICENSEDTTM": "2004-12-30T00:00:00.000Z",
+        "LICENSENO": "BU20462290",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-12-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 81707,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "219  NEWPORT AVE 2",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Internet Sales/Service",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

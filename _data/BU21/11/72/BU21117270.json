@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.2168541193968,
+            33.78655566184457
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "C & C TOWING",
+        "EXPDTTM": "2017-02-26T00:00:00.000Z",
+        "EXPDTTM_IN": "2/26/2017",
+        "FULLNAME": "CHRISTOPHER WILLIAMS",
+        "GPSX": 6495770.36583333,
+        "GPSY": 1744775.73416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2011-05-24T00:00:00.000Z",
+        "LICCATDESC": "Towing with Impound",
+        "LICENSEDTTM": "2011-05-24T00:00:00.000Z",
+        "LICENSENO": "BU21117270",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 155044,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1557  COTA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Towing with Impound",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

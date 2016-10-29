@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15489558762472,
+            33.78429648139943
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Non-Residential Property",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "1987-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/1987",
+        "FULLNAME": "MAITLEN AND BENSON INC",
+        "GPSX": 6514596.66,
+        "GPSY": 1743918.74,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "1987-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1985-08-01T00:00:00.000Z",
+        "LICCATDESC": "Commercial/Industrial Space  Rental",
+        "LICENSEDTTM": "1985-08-01T00:00:00.000Z",
+        "LICENSENO": "BU07065710",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "1989-10-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 40834,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1395  OBISPO AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Commercial/Industrial Space  Rental",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

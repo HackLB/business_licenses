@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.07258086672256,
+            33.8183209020626
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2009-01-08T00:00:00.000Z",
+        "EXPDTTM_IN": "1/8/2009",
+        "FULLNAME": "TRANSAMERICA HOLDINGS INC",
+        "GPSX": 6539619.57,
+        "GPSY": 1756272.85,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2009-01-08T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2003-01-08T00:00:00.000Z",
+        "LICCATDESC": "Real Estate Office",
+        "LICENSEDTTM": "2004-02-11T00:00:00.000Z",
+        "LICENSENO": "BU20406070",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-02-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 57302,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "8061  TARMA ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Real Estate Office",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

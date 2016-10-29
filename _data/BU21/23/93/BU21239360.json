@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.2009564639476,
+            33.771310439198295
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "NONIBOOKS",
+        "EXPDTTM": "2016-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2016",
+        "FULLNAME": "NONA SARK",
+        "GPSX": 6500590.14916667,
+        "GPSY": 1739217.53583333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2016-01-04T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2012-11-30T00:00:00.000Z",
+        "LICCATDESC": "Internet Sales/Service",
+        "LICENSEDTTM": "2012-11-30T00:00:00.000Z",
+        "LICENSENO": "BU21239360",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-01-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 144879,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "720 W 4TH ST 419",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Internet Sales/Service",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

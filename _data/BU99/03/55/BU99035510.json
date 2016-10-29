@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19543573673457,
+            33.78290373532207
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Vending",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "COIN OP LAUNDRY",
+        "EXPDTTM": "2009-09-21T00:00:00.000Z",
+        "EXPDTTM_IN": "9/21/2009",
+        "FULLNAME": "ERICK JORDAN",
+        "GPSX": 6502276.26,
+        "GPSY": 1743433.35,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-09-21T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1999-09-21T00:00:00.000Z",
+        "LICCATDESC": "Laundromat",
+        "LICENSEDTTM": "1999-09-21T00:00:00.000Z",
+        "LICENSENO": "BU99035510",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-10-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 170607,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "303 W ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laundromat",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

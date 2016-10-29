@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14844775822968,
+            33.78288465293326
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2011-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2011",
+        "FULLNAME": "INTERNAL MED & ACCUPUNCTURE",
+        "GPSX": 6516555.28,
+        "GPSY": 1743401.98,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2003-06-13T00:00:00.000Z",
+        "LICCATDESC": "Medical Office/Clinic",
+        "LICENSEDTTM": "2006-11-03T00:00:00.000Z",
+        "LICENSENO": "BU20653800",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-10-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 115691,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3741 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Medical Office/Clinic",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1903256512877,
+            33.74928587897605
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2017-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2017",
+        "FULLNAME": "ISLAND EXPRESS HELICOPTERS",
+        "GPSX": 6503805.98166667,
+        "GPSY": 1731195.87916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1987-08-01T00:00:00.000Z",
+        "LICCATDESC": "Aircraft Rental",
+        "LICENSEDTTM": "1997-10-21T00:00:00.000Z",
+        "LICENSENO": "BU97040220",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 7,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 158231,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1175  QUEENS HWY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Aircraft Rental/Repair",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

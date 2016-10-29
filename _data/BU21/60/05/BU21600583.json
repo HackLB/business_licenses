@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18998661433879,
+            33.7803549948721
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "ROMEO CHOCOLATES",
+        "EXPDTTM": "2016-11-19T00:00:00.000Z",
+        "EXPDTTM_IN": "11/19/2016",
+        "FULLNAME": "ROMEO O GARCIA",
+        "GPSX": 6503930.423125,
+        "GPSY": 1742502.61833334,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2015-11-19T00:00:00.000Z",
+        "LICCATDESC": "Cottage Food Operation",
+        "LICENSEDTTM": "2016-02-02T00:00:00.000Z",
+        "LICENSENO": "BU21600583",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-02-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 44900,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1081  LONG BEACH BLVD 109",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Cottage Food Operation",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.08429258718287,
+            33.829824069269755
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "AT THE BEACH TANNING SUPERSTORE",
+        "EXPDTTM": "2016-09-03T00:00:00.000Z",
+        "EXPDTTM_IN": "9/3/2016",
+        "FULLNAME": "AT THE BEACH INC",
+        "GPSX": 6536065.54,
+        "GPSY": 1760461.93,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2013-09-03T00:00:00.000Z",
+        "LICCATDESC": "Tanning Salon",
+        "LICENSEDTTM": "2013-08-27T00:00:00.000Z",
+        "LICENSENO": "BU21326060",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-10-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 50336,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "7661  CARSON BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tanning Salon",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

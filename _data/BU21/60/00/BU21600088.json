@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18977286798061,
+            33.81100656995145
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "BONNIE LOWENTHAL",
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "CHILDREN TODAY",
+        "EXPDTTM": "2017-06-15T00:00:00.000Z",
+        "EXPDTTM_IN": "6/15/2017",
+        "FULLNAME": "CHILDREN TODAY",
+        "GPSX": 6504016.44,
+        "GPSY": 1753657.43,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2015-06-15T00:00:00.000Z",
+        "LICCATDESC": "Day Care/Preschool",
+        "LICENSEDTTM": "2016-01-07T00:00:00.000Z",
+        "LICENSENO": "BU21600088",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 19,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 150419,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2951  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Day Care/Preschool",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

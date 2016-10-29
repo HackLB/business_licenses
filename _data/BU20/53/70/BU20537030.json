@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16041461608793,
+            33.77196629642611
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "4THSTREET",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "EDGEWATER CONVALESCENT HOSPITAL",
+        "EXPDTTM": "2017-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2017",
+        "FULLNAME": "EDGEWATER HEALTH CARE INC",
+        "GPSX": 6512912.36583333,
+        "GPSY": 1739434.07166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2005-07-15T00:00:00.000Z",
+        "LICCATDESC": "Convalescent Hospital or Home",
+        "LICENSEDTTM": "2005-07-15T00:00:00.000Z",
+        "LICENSENO": "BU20537030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-04-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 83,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 41711,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2625 E 4TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Convalescent Hospital or Home",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

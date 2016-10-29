@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21510069974084,
+            33.7995843250648
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "MEDICAL OFFICE",
+        "EXPDTTM": "2005-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2005",
+        "FULLNAME": "REY GUTIERREZ",
+        "GPSX": 6496313.33,
+        "GPSY": 1749516.07,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2005-07-11T00:00:00.000Z",
+        "LICCATDESC": "Physician/Surgeon",
+        "LICENSEDTTM": "2005-07-11T00:00:00.000Z",
+        "LICENSENO": "BU20536410",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-09-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 145722,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2330  SANTA FE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Physician/Surgeon",
+        "ZIP": "90810"
+    },
+    "type": "Feature"
+}

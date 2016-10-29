@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16802592761366,
+            33.87432493127403
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "LLC",
+        "CONAME": "MICHAEL BARBER",
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "EAGLE 562",
+        "EXPDTTM": null,
+        "EXPDTTM_IN": null,
+        "FULLNAME": "EAGLE 562, LLC",
+        "GPSX": 6510661.35583333,
+        "GPSY": 1776688.81166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2016-10-01T00:00:00.000Z",
+        "LICCATDESC": "Bar, Tavern, Lounge",
+        "LICENSEDTTM": "2016-08-24T00:00:00.000Z",
+        "LICENSENO": "BU21605914",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Pending",
+        "MILESTONE": "Pending",
+        "MILESTONEDATE": "2016-08-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 10,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 100,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2020 E ARTESIA BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Bar, Tavern, Lounge",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

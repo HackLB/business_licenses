@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11176766718292,
+            33.81297013849432
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2007-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2007",
+        "FULLNAME": "ACME INTERIORS INC",
+        "GPSX": 6527714.0625,
+        "GPSY": 1754336.48083333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2007-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2005-08-26T00:00:00.000Z",
+        "LICCATDESC": "Contracting - Misc.",
+        "LICENSEDTTM": "2005-08-26T00:00:00.000Z",
+        "LICENSENO": "BU20544610",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-11-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 74501,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6130  ROSEBAY ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting - Misc.",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

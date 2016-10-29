@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16221650759763,
+            33.879471749045756
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "VAULT SELF STORAGE",
+        "EXPDTTM": "2012-11-02T00:00:00.000Z",
+        "EXPDTTM_IN": "11/2/2012",
+        "FULLNAME": "VAULT 1021 LONG BEACH LLC",
+        "GPSX": 6512427.8625,
+        "GPSY": 1778558.96416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-11-02T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2005-03-01T00:00:00.000Z",
+        "LICCATDESC": "Self Storage",
+        "LICENSEDTTM": "2005-03-01T00:00:00.000Z",
+        "LICENSENO": "BU20511000",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-11-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 61121,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6897  PARAMOUNT BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Self Storage",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

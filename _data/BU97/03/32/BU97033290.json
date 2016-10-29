@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17128449990089,
+            33.782915242979016
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "PACIFIC FAMILY PRACTICE MEDICAL CLINIC",
+        "EXPDTTM": "2012-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2012",
+        "FULLNAME": "MOLINA MEDICAL CENTERS INC",
+        "GPSX": 6509615.51,
+        "GPSY": 1743424.15,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1997-08-25T00:00:00.000Z",
+        "LICCATDESC": "Physician/Surgeon",
+        "LICENSEDTTM": "1997-08-25T00:00:00.000Z",
+        "LICENSENO": "BU97033290",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-05-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 9,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 48096,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1627 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Physician/Surgeon",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

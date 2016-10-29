@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18982030631905,
+            33.78462073514446
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "MARTIN AUTO REPAIR",
+        "EXPDTTM": "2007-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2007",
+        "FULLNAME": "MARTIN GARCIA",
+        "GPSX": 6503983.895,
+        "GPSY": 1744054.94333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2005-11-01T00:00:00.000Z",
+        "LICCATDESC": "Auto Repair ??? General",
+        "LICENSEDTTM": "2005-11-14T00:00:00.000Z",
+        "LICENSENO": "BU20559210",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-02-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 12674,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1427  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto Repair ??? General",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

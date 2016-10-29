@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.07873664962045,
+            33.821073801068614
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "NEVADA CMA SERVICES GRP",
+        "EXPDTTM": "2007-10-07T00:00:00.000Z",
+        "EXPDTTM_IN": "10/7/2007",
+        "FULLNAME": "MICHELE CHAPEL",
+        "GPSX": 6537750.48,
+        "GPSY": 1757276.11,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2007-10-07T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2005-05-16T00:00:00.000Z",
+        "LICCATDESC": "Real Estate Agent",
+        "LICENSEDTTM": "2006-01-20T00:00:00.000Z",
+        "LICENSENO": "BU20603660",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-10-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 64677,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3510  VAL VERDE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Real Estate Agent",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

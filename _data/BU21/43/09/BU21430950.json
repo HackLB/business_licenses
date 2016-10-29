@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17271579175247,
+            33.78174923070446
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": null,
+        "EXPDTTM": "2016-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2016",
+        "FULLNAME": "LONG BEACH POST ACUTE LLC",
+        "GPSX": 6509179.83,
+        "GPSY": 1743000.55,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2014-10-01T00:00:00.000Z",
+        "LICCATDESC": "Convalescent Hospital or Home",
+        "LICENSEDTTM": "2014-10-01T00:00:00.000Z",
+        "LICENSENO": "BU21430950",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-09-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 80,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 178032,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1201  WALNUT AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Convalescent Hospital or Home",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

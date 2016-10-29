@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19303175962361,
+            33.76756922507026
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "LAW OFFICES OF DOUGLAS W OTTO",
+        "EXPDTTM": "2016-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2016",
+        "FULLNAME": "DOUGLAS W OTTO",
+        "GPSX": 6502996.08,
+        "GPSY": 1737851.2825,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2010-05-01T00:00:00.000Z",
+        "LICCATDESC": "Attorney",
+        "LICENSEDTTM": "2010-08-20T00:00:00.000Z",
+        "LICENSENO": "BU21027040",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-07-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 116777,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "111 W OCEAN BLVD 1900",
+        "STATELICNO": "82595",
+        "TYPEOFBUSINESS": "Attorney",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.09897227353817,
+            33.82972626220854
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "Salon 101",
+        "EXPDTTM": "2017-04-04T00:00:00.000Z",
+        "EXPDTTM_IN": "4/4/2017",
+        "FULLNAME": "MOYA ANN AGUSTIN",
+        "GPSX": 6531607.03,
+        "GPSY": 1760430.4,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2015-04-04T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty (booth )",
+        "LICENSEDTTM": "2015-11-25T00:00:00.000Z",
+        "LICENSENO": "BU21525352",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-04-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 1315,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3960  STUDEBAKER RD 101",
+        "STATELICNO": "515392",
+        "TYPEOFBUSINESS": "Barber/Beauty (booth )",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

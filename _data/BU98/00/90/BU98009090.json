@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13547891792919,
+            33.76022793307112
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "RITE AID #6219",
+        "EXPDTTM": "2017-08-17T00:00:00.000Z",
+        "EXPDTTM_IN": "8/17/2017",
+        "FULLNAME": "THRIFTY PAYLESS INC",
+        "GPSX": 6520485.23,
+        "GPSY": 1735150.99,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1998-03-12T00:00:00.000Z",
+        "LICCATDESC": "Pharmacy",
+        "LICENSEDTTM": "1998-03-12T00:00:00.000Z",
+        "LICENSENO": "BU98009090",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 9,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 134725,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5128  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pharmacy",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

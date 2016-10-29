@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15229966083848,
+            33.875482164312245
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "LIBERTY TAX SERVICE",
+        "EXPDTTM": "2012-01-03T00:00:00.000Z",
+        "EXPDTTM_IN": "1/3/2012",
+        "FULLNAME": "DANIEL WILLIAMS",
+        "GPSX": 6515435.79583333,
+        "GPSY": 1777102.35,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-01-03T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2010-01-02T00:00:00.000Z",
+        "LICCATDESC": "Tax Preparation",
+        "LICENSEDTTM": "2009-12-02T00:00:00.000Z",
+        "LICENSENO": "BU20944310",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-01-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 124365,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3441 E ARTESIA BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tax Preparation",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

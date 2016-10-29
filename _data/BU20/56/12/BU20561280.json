@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15685726063911,
+            33.81193034017753
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "SILVER STATE HELICOPTERS",
+        "EXPDTTM": "2008-07-05T00:00:00.000Z",
+        "EXPDTTM_IN": "7/5/2008",
+        "FULLNAME": "SILVER STATE HELICOPTERS LLC",
+        "GPSX": 6514016.23666667,
+        "GPSY": 1753976.37333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2008-07-05T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2005-11-28T00:00:00.000Z",
+        "LICCATDESC": "Aircraft Rental",
+        "LICENSEDTTM": "2005-11-28T00:00:00.000Z",
+        "LICENSENO": "BU20561280",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-06-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 26101,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2901 E SPRING ST A",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Aircraft Rental/Repair",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

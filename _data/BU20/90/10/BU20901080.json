@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20855438387822,
+            33.7874629388102
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "CEI CONSTRUCTION",
+        "EXPDTTM": "2015-02-12T00:00:00.000Z",
+        "EXPDTTM_IN": "2/12/2015",
+        "FULLNAME": "CRESCENDO ELECTRONICS INC",
+        "GPSX": 6498293.12,
+        "GPSY": 1745100.58,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2008-01-01T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Electrical",
+        "LICENSEDTTM": "2009-01-12T00:00:00.000Z",
+        "LICENSENO": "BU20901080",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "ClosedWBal",
+        "MILESTONE": "Collections",
+        "MILESTONEDATE": "2015-05-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 101299,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1265 W 16TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Electrical",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

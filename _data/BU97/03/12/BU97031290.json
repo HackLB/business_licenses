@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18459643299335,
+            33.82187125441825
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "WALGREENS PHARMACY #04128",
+        "EXPDTTM": "2004-08-11T00:00:00.000Z",
+        "EXPDTTM_IN": "8/11/2004",
+        "FULLNAME": "WALGREEN CO",
+        "GPSX": 6505596.225,
+        "GPSY": 1757608.44333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-08-11T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1997-08-05T00:00:00.000Z",
+        "LICCATDESC": "Pharmacy",
+        "LICENSEDTTM": "1997-08-05T00:00:00.000Z",
+        "LICENSENO": "BU97031290",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-11-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 8,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 90678,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3590  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pharmacy",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19268366464237,
+            33.85745003561416
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Residential Property",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2012-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2012",
+        "FULLNAME": "FEDERAL NATIONAL MORTGAGE ASSN",
+        "GPSX": 6503164.58333333,
+        "GPSY": 1770561.0625,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2012-04-24T00:00:00.000Z",
+        "LICCATDESC": "Apartment House",
+        "LICENSEDTTM": "2012-04-24T00:00:00.000Z",
+        "LICENSENO": "BU91001323",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "ClosedWBal",
+        "MILESTONE": "Collections",
+        "MILESTONEDATE": "2013-11-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 4,
+        "NUMVEH": 0,
+        "OBJECTID": 162485,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5580  DAIRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Apartment House",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

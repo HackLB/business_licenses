@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18999172316788,
+            33.77025043525158
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Non-Residential Property",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2017-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2017",
+        "FULLNAME": "GILRO LLC",
+        "GPSX": 6503921.92,
+        "GPSY": 1738825.29,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1990-12-21T00:00:00.000Z",
+        "LICCATDESC": "Commercial/Industrial Space  Rental",
+        "LICENSEDTTM": "2002-04-16T00:00:00.000Z",
+        "LICENSENO": "BU90073581",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-01-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 134837,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "244 E 3RD ST  242 E 3rd St",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Commercial/Industrial Space  Rental",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

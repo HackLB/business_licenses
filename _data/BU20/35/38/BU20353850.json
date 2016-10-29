@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11744012479203,
+            33.807059512878155
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "BAYSHORE INFORMATION SERVICES",
+        "EXPDTTM": "2006-06-01T00:00:00.000Z",
+        "EXPDTTM_IN": "6/1/2006",
+        "FULLNAME": "ROY R. BISSINGER",
+        "GPSX": 6525988.38,
+        "GPSY": 1752187.41083333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-06-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1996-05-17T00:00:00.000Z",
+        "LICCATDESC": "Mail Order",
+        "LICENSEDTTM": "2003-11-19T00:00:00.000Z",
+        "LICENSENO": "BU20353850",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-06-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 58826,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2814  ALBURY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mail Order",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

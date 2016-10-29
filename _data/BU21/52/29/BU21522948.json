@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19303175962361,
+            33.76756922507026
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "LAW OFFICE OF LEONARD MATSUK",
+        "EXPDTTM": "2017-07-15T00:00:00.000Z",
+        "EXPDTTM_IN": "7/15/2017",
+        "FULLNAME": "LEONARD MATSUK",
+        "GPSX": 6502996.08,
+        "GPSY": 1737851.2825,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2015-07-16T00:00:00.000Z",
+        "LICCATDESC": "Attorney",
+        "LICENSEDTTM": "2015-08-11T00:00:00.000Z",
+        "LICENSENO": "BU21522948",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 99379,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "111 W OCEAN BLVD 1950",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Attorney",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

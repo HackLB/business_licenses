@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12018056852533,
+            33.75669656880419
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2005-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2005",
+        "FULLNAME": "RAQUEL VALENCIA",
+        "GPSX": 6525133.92,
+        "GPSY": 1733859.91,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2005-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2003-10-28T00:00:00.000Z",
+        "LICCATDESC": "Instructor/Personal Trainer",
+        "LICENSEDTTM": "2004-10-29T00:00:00.000Z",
+        "LICENSENO": "BU20451590",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-01-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 162697,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5829  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Instructor/Personal Trainer",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

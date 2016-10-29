@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15685726063911,
+            33.81193034017753
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2003-02-21T00:00:00.000Z",
+        "EXPDTTM_IN": "2/21/2003",
+        "FULLNAME": "METRO-JET LLC",
+        "GPSX": 6514016.23666667,
+        "GPSY": 1753976.37333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-02-21T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2003-02-19T00:00:00.000Z",
+        "LICCATDESC": "Aircraft Rental",
+        "LICENSEDTTM": "2003-02-19T00:00:00.000Z",
+        "LICENSENO": "BU20308240",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-02-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 165409,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2901 E SPRING ST F",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Aircraft Rental/Repair",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

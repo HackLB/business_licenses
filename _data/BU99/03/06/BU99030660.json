@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11380763363813,
+            33.79137865995239
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "ROBERT J ATKINSON & ASSOCIATES",
+        "EXPDTTM": "2003-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2003",
+        "FULLNAME": "ROBERT J ATKINSON",
+        "GPSX": 6527085.46833333,
+        "GPSY": 1746479.4525,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2003-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-08-13T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "1999-08-13T00:00:00.000Z",
+        "LICENSENO": "BU99030660",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-08-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 159052,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6061  MARITA ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

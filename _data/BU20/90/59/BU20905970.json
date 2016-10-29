@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19200735905251,
+            33.768296448557024
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "ARTS COUNCIL FOR LONG BEACH",
+        "EXPDTTM": "2016-10-15T00:00:00.000Z",
+        "EXPDTTM_IN": "10/15/2016",
+        "FULLNAME": "PUBLIC CORPORATION FOR THE ARTS",
+        "GPSX": 6503307.94416667,
+        "GPSY": 1738115.34333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1994-04-21T00:00:00.000Z",
+        "LICCATDESC": "Promoting",
+        "LICENSEDTTM": "2009-02-11T00:00:00.000Z",
+        "LICENSENO": "BU20905970",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-09-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 7,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 124779,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "110  PINE AVE 1100",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Promoting",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

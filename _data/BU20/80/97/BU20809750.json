@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15215261380997,
+            33.77028196079753
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2013-11-05T00:00:00.000Z",
+        "EXPDTTM_IN": "11/5/2013",
+        "FULLNAME": "LOUIS TOTH PH D",
+        "GPSX": 6515422.48,
+        "GPSY": 1738817.19,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-11-05T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2004-11-05T00:00:00.000Z",
+        "LICCATDESC": "Real Estate Agent",
+        "LICENSEDTTM": "2008-03-03T00:00:00.000Z",
+        "LICENSENO": "BU20809750",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-05-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 111566,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "356  REDONDO AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Real Estate Agent",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

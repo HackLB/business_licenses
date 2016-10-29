@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14354436218703,
+            33.79641553290691
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "LAW OFFICE OF CARROLL G SHELLY",
+        "EXPDTTM": "2009-02-15T00:00:00.000Z",
+        "EXPDTTM_IN": "2/15/2009",
+        "FULLNAME": "CARROLL G SHELLY",
+        "GPSX": 6518052.39083333,
+        "GPSY": 1748324.075,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-02-15T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1995-02-28T00:00:00.000Z",
+        "LICCATDESC": "Attorney",
+        "LICENSEDTTM": "2002-04-16T00:00:00.000Z",
+        "LICENSENO": "BU20217790",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-02-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 10255,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2205  LAKEWOOD BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Attorney",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

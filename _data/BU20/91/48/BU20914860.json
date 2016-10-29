@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21079757672949,
+            33.78789752624279
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "LODI TRUCK SERVICE INC",
+        "EXPDTTM": "2016-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2016",
+        "FULLNAME": "C TRANS INC",
+        "GPSX": 6497611.8125,
+        "GPSY": 1745260.16,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2006-07-01T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "2009-04-14T00:00:00.000Z",
+        "LICENSENO": "BU20914860",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-05-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 102203,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1418 W 17TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

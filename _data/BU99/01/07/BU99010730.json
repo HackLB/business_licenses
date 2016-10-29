@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18135912755086,
+            33.7895504104817
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Vending",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": null,
+        "EXPDTTM": "2002-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2002",
+        "FULLNAME": "THRIFTY LAVANDERIA INC",
+        "GPSX": 6506558.32,
+        "GPSY": 1745844.24,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2002-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1999-03-25T00:00:00.000Z",
+        "LICCATDESC": "Laundromat",
+        "LICENSEDTTM": "1999-03-25T00:00:00.000Z",
+        "LICENSENO": "BU99010730",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-09-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 86893,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "910 E PACIFIC COAST HWY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laundromat",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

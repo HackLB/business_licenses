@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14349828028423,
+            33.78376538856308
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "LONG BEACH YOUTH HOME",
+        "EXPDTTM": "2016-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2016",
+        "FULLNAME": "LONG BEACH YOUTH CENTERS INC",
+        "GPSX": 6518059.82,
+        "GPSY": 1743720.32,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1975-11-01T00:00:00.000Z",
+        "LICCATDESC": "Residential Care Facility",
+        "LICENSEDTTM": "1975-11-01T00:00:00.000Z",
+        "LICENSENO": "BU02014300",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-11-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 33,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 24178,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4151  FOUNTAIN ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Residential Care Facility",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

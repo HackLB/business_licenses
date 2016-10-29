@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13632648910003,
+            33.761201413240556
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "TANGERINE",
+        "EXPDTTM": "2017-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2017",
+        "FULLNAME": "TRACE REILLY KESTER",
+        "GPSX": 6520228.075,
+        "GPSY": 1735505.61583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2010-10-06T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty (booth )",
+        "LICENSEDTTM": "2010-10-06T00:00:00.000Z",
+        "LICENSENO": "BU21032300",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 8002,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "202  ARGONNE AVE B",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Barber/Beauty (booth )",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

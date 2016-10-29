@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14549077607116,
+            33.78230810039144
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "SHEAR & SHINE",
+        "EXPDTTM": "2017-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2017",
+        "FULLNAME": "SOREDA GUO",
+        "GPSX": 6517453.565,
+        "GPSY": 1743190.8425,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2010-05-01T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty Shop Owner",
+        "LICENSEDTTM": "2010-04-23T00:00:00.000Z",
+        "LICENSENO": "BU21013140",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 52850,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4000 E ANAHEIM ST B",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Barber/Beauty Shop Owner",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

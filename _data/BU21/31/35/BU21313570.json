@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19997052175529,
+            33.766804916416035
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2017-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2017",
+        "FULLNAME": "PCAM LLC",
+        "GPSX": 6500886.54333334,
+        "GPSY": 1737577.25166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2013-05-01T00:00:00.000Z",
+        "LICCATDESC": "Parking Service Lot",
+        "LICENSEDTTM": "2013-05-01T00:00:00.000Z",
+        "LICENSENO": "BU21313570",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-04-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 97862,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "200  OCEANGATE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Parking Service Lot",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13365409548888,
+            33.782939503579755
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "ABM PARKING SERVICES",
+        "EXPDTTM": "2017-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2017",
+        "FULLNAME": "AMPCO SYSTEM PARKING",
+        "GPSX": 6521050.91,
+        "GPSY": 1743415.63333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2000-04-01T00:00:00.000Z",
+        "LICCATDESC": "Parking Service Lot",
+        "LICENSEDTTM": "2003-06-06T00:00:00.000Z",
+        "LICENSENO": "BU20326940",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 175089,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5150 E PACIFIC COAST HWY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Parking Service Lot",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15751849623473,
+            33.789476829259165
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "LONG BEACH INN MOTEL",
+        "EXPDTTM": "2017-08-09T00:00:00.000Z",
+        "EXPDTTM_IN": "8/9/2017",
+        "FULLNAME": "KIRANTI INC",
+        "GPSX": 6513802.56,
+        "GPSY": 1745805.25,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2004-08-03T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "2004-08-11T00:00:00.000Z",
+        "LICENSENO": "BU20437600",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-08T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 93511,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2900 E PACIFIC COAST HWY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

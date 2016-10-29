@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1259111118803,
+            33.84664576109209
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Vending",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "WASH DAY LAUNDROMAT",
+        "EXPDTTM": "2006-12-08T00:00:00.000Z",
+        "EXPDTTM_IN": "12/8/2006",
+        "FULLNAME": "LAWRENCE J & KAREN L MILLER",
+        "GPSX": 6523432.94333333,
+        "GPSY": 1766596.98916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-12-08T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-12-15T00:00:00.000Z",
+        "LICCATDESC": "Laundromat",
+        "LICENSEDTTM": "1999-12-15T00:00:00.000Z",
+        "LICENSENO": "BU99048130",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-11-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 70589,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5458 E DEL AMO BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laundromat",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

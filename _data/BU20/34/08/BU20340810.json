@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20207168721295,
+            33.78309116984047
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "FORDON INDUSTRIES",
+        "EXPDTTM": "2011-04-08T00:00:00.000Z",
+        "EXPDTTM_IN": "4/8/2011",
+        "FULLNAME": "FORDON INDUSTRIES INC",
+        "GPSX": 6500259.82,
+        "GPSY": 1743505.55,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-04-08T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2003-08-26T00:00:00.000Z",
+        "LICCATDESC": "Manufacturing",
+        "LICENSEDTTM": "2003-08-26T00:00:00.000Z",
+        "LICENSENO": "BU20340810",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-03-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 166346,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1333  OREGON AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Manufacturing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

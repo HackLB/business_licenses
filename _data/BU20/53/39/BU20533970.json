@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12347718905951,
+            33.775556579951626
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "FEDEX KINKO'S 1005",
+        "EXPDTTM": "2010-05-03T00:00:00.000Z",
+        "EXPDTTM_IN": "5/3/2010",
+        "FULLNAME": "FEDEX KINKO'S OFFICE & PRINT SERVICES",
+        "GPSX": 6524140.23833333,
+        "GPSY": 1740724.82416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-05-03T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2004-10-01T00:00:00.000Z",
+        "LICCATDESC": "Printing ??? Offset",
+        "LICENSEDTTM": "2005-06-28T00:00:00.000Z",
+        "LICENSENO": "BU20533970",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-05-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 10,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 102138,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5591 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Printing ??? Offset",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

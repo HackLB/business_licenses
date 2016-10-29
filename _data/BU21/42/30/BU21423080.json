@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15303542233646,
+            33.81131218829503
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2017-07-23T00:00:00.000Z",
+        "EXPDTTM_IN": "7/23/2017",
+        "FULLNAME": "AEROCARE IMAGE LLC",
+        "GPSX": 6515176.89916667,
+        "GPSY": 1753749.62166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2014-07-22T00:00:00.000Z",
+        "LICCATDESC": "General Services ??? Other",
+        "LICENSEDTTM": "2014-07-22T00:00:00.000Z",
+        "LICENSENO": "BU21423080",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 123579,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3333 E SPRING ST 134",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "General Services ??? Other",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

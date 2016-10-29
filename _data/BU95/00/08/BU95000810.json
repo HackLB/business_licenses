@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15885182211998,
+            33.8608523177806
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "MARKET RECYCLING",
+        "EXPDTTM": "2014-01-10T00:00:00.000Z",
+        "EXPDTTM_IN": "1/10/2014",
+        "FULLNAME": "MARKET RECYCLING INC",
+        "GPSX": 6513438.46166667,
+        "GPSY": 1771781.27416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-01-10T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1995-01-10T00:00:00.000Z",
+        "LICCATDESC": "Auto Repair ??? General",
+        "LICENSEDTTM": "1995-01-10T00:00:00.000Z",
+        "LICENSENO": "BU95000810",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-07-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 30375,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2730  HULLETT ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto Repair ??? General",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

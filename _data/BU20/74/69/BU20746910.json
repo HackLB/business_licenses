@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20017539522769,
+            33.784572434635905
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "SILVER QUILL",
+        "EXPDTTM": "2009-03-05T00:00:00.000Z",
+        "EXPDTTM_IN": "3/5/2009",
+        "FULLNAME": "MICHAEL A BOWARD",
+        "GPSX": 6500837.15,
+        "GPSY": 1744043.47,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-03-05T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2007-03-05T00:00:00.000Z",
+        "LICCATDESC": "Artist Studio (Comml)",
+        "LICENSEDTTM": "2007-11-06T00:00:00.000Z",
+        "LICENSENO": "BU20746910",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-05-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 89276,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1424  OREGON AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Artist Studio (Comml)",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18468289952307,
+            33.800587984038955
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Vending",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "KEVIN LAUNDRY 2396 ATLANTIC",
+        "EXPDTTM": "2006-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2006",
+        "FULLNAME": "PHUONG THI NGUYEN",
+        "GPSX": 6505555.73,
+        "GPSY": 1749862.95,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2005-12-09T00:00:00.000Z",
+        "LICCATDESC": "Laundromat",
+        "LICENSEDTTM": "2005-12-09T00:00:00.000Z",
+        "LICENSENO": "BU20563380",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-12-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 63134,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2396  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laundromat",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

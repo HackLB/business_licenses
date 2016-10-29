@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1998993722504,
+            33.76792106971647
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "UNITED PARCEL SERVICE",
+        "EXPDTTM": "2003-02-04T00:00:00.000Z",
+        "EXPDTTM_IN": "2/4/2003",
+        "FULLNAME": "UNITED PARCEL SERVICE",
+        "GPSX": 6500908.97666667,
+        "GPSY": 1737983.40833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-02-04T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1992-02-04T00:00:00.000Z",
+        "LICCATDESC": "General Services ??? Other",
+        "LICENSEDTTM": "1992-06-25T00:00:00.000Z",
+        "LICENSENO": "BU92030200",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2002-11-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 14332,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1  WORLD TRADE CENTER  106",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "General Services ??? Other",
+        "ZIP": "90831"
+    },
+    "type": "Feature"
+}

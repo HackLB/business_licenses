@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19403263441518,
+            33.825715908902175
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "HEARD REAL ESTATE COMPANY",
+        "EXPDTTM": "2004-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2004",
+        "FULLNAME": "ARTHUR D HEARD",
+        "GPSX": 6502732.72,
+        "GPSY": 1759013.01,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2004-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1989-10-01T00:00:00.000Z",
+        "LICCATDESC": "Real Estate Office",
+        "LICENSEDTTM": "2003-10-06T00:00:00.000Z",
+        "LICENSENO": "BU20347030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-04-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 174911,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3744  PACIFIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Real Estate Office",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

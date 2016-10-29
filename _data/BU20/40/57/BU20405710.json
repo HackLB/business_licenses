@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16722911729936,
+            33.866759264197455
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2005-01-24T00:00:00.000Z",
+        "EXPDTTM_IN": "1/24/2005",
+        "FULLNAME": "I T S ACCESS INC",
+        "GPSX": 6510898.65166667,
+        "GPSY": 1773935.08083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-01-24T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-11-01T00:00:00.000Z",
+        "LICCATDESC": "Import/Export - Office Use",
+        "LICENSEDTTM": "2004-02-09T00:00:00.000Z",
+        "LICENSENO": "BU20405710",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-01-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 159095,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2113  CURRY ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Import/Export - Office Use",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

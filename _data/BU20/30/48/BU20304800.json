@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1553560326725,
+            33.77024569651029
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "RESEARCH ASSOCIATES",
+        "EXPDTTM": "2005-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2005",
+        "FULLNAME": "DENNIS A DOCKSTADER",
+        "GPSX": 6514448.83583333,
+        "GPSY": 1738805.48166667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2005-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1996-10-18T00:00:00.000Z",
+        "LICCATDESC": "Computer Programming/Consulting",
+        "LICENSEDTTM": "2003-01-30T00:00:00.000Z",
+        "LICENSENO": "BU20304800",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-10-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 103631,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "360  FREEMAN AVE 9",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Computer Programming/Consulting",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

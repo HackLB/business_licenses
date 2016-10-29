@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18893404702874,
+            33.776211657931164
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2013-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2013",
+        "FULLNAME": "QUARTERMASTER INC",
+        "GPSX": 6504247.46,
+        "GPSY": 1740994.14,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2010-07-20T00:00:00.000Z",
+        "LICCATDESC": "Manufacturing",
+        "LICENSEDTTM": "2010-07-20T00:00:00.000Z",
+        "LICENSENO": "BU21023180",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-07-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 63327,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "750  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Manufacturing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

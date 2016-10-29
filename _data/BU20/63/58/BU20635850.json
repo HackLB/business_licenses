@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18185764967907,
+            33.77140446173616
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "NATHAN LAVID M D",
+        "EXPDTTM": "2017-08-15T00:00:00.000Z",
+        "EXPDTTM_IN": "8/15/2017",
+        "FULLNAME": "NATHAN LAVID",
+        "GPSX": 6506394.89,
+        "GPSY": 1739240.7,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2002-08-15T00:00:00.000Z",
+        "LICCATDESC": "Psychiatry",
+        "LICENSEDTTM": "2006-07-21T00:00:00.000Z",
+        "LICENSENO": "BU20635850",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 10020,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "834 E 4TH ST F",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Psychiatry",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18327657123258,
+            33.78242152585969
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "ANAHEIM TRAVEL",
+        "EXPDTTM": "2002-11-20T00:00:00.000Z",
+        "EXPDTTM_IN": "11/20/2002",
+        "FULLNAME": "SAMCO INC",
+        "GPSX": 6505970.95,
+        "GPSY": 1743250.9,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-12-03T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1991-11-05T00:00:00.000Z",
+        "LICCATDESC": "Travel Agency",
+        "LICENSEDTTM": "1991-11-05T00:00:00.000Z",
+        "LICENSENO": "BU91053070",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 10112,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "724 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Travel Agency",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

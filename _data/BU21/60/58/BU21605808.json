@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18892124885859,
+            33.820773739481744
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "CIELO ROTH PHOTOGRAPHY",
+        "EXPDTTM": "2017-06-01T00:00:00.000Z",
+        "EXPDTTM_IN": "6/1/2017",
+        "FULLNAME": "CIELO ROTH-CALDERON",
+        "GPSX": 6504281.83,
+        "GPSY": 1757211.47,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2016-06-01T00:00:00.000Z",
+        "LICCATDESC": "Photography Studio",
+        "LICENSEDTTM": "2016-08-22T00:00:00.000Z",
+        "LICENSENO": "BU21605808",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Pending",
+        "MILESTONE": "Pending",
+        "MILESTONEDATE": "2016-08-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 2342,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3520  LONG BEACH BLVD 203",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Photography Studio",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

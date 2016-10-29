@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19894537291759,
+            33.790625463888915
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "DAT-R-TECH",
+        "EXPDTTM": "2003-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2003",
+        "FULLNAME": "MARIA K & OTIS H LOSCH",
+        "GPSX": 6501215.29,
+        "GPSY": 1746245.59,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2003-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1998-02-14T00:00:00.000Z",
+        "LICCATDESC": "Electronic Assembly",
+        "LICENSEDTTM": "2000-01-26T00:00:00.000Z",
+        "LICENSENO": "BU20003810",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-03-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 12449,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1840  DAISY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Electronic Assembly",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

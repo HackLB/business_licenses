@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1370136651951,
+            33.78942934297031
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2008-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2008",
+        "FULLNAME": "SULTAN INTERNATIONAL LLC",
+        "GPSX": 6520033.2,
+        "GPSY": 1745778.84,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2008-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2005-05-02T00:00:00.000Z",
+        "LICCATDESC": "Import/Export - Office Use",
+        "LICENSEDTTM": "2006-04-21T00:00:00.000Z",
+        "LICENSENO": "BU20621460",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-03-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 72420,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1761  PARK AVE N",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Import/Export - Office Use",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

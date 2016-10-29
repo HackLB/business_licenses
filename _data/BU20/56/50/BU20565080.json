@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19195903039127,
+            33.7733134419972
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Wholesale",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "NATURAL FOOD PRODUCTS",
+        "EXPDTTM": "2007-11-09T00:00:00.000Z",
+        "EXPDTTM_IN": "11/9/2007",
+        "FULLNAME": "GUSTAVO PEREZ",
+        "GPSX": 6503326.12,
+        "GPSY": 1739941.14,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2007-11-09T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2004-11-09T00:00:00.000Z",
+        "LICCATDESC": "Direct Sales Product Distribution",
+        "LICENSEDTTM": "2005-12-22T00:00:00.000Z",
+        "LICENSENO": "BU20565080",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-11-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 113216,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "510  PINE AVE 418",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Direct Sales Product Distribution",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

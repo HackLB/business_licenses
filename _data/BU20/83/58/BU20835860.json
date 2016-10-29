@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12661106596444,
+            33.75729511175872
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "JAMIE LYNN TRENT",
+        "EXPDTTM": "2014-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2014",
+        "FULLNAME": "JAMIE LYNN TRENT",
+        "GPSX": 6523179.43916667,
+        "GPSY": 1734080.13666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2005-01-01T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty (booth )",
+        "LICENSEDTTM": "2008-07-29T00:00:00.000Z",
+        "LICENSENO": "BU20835860",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-04-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 90885,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5520  2ND ST 3",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Barber/Beauty (booth )",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14757284129111,
+            33.801383733057506
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2012-07-22T00:00:00.000Z",
+        "EXPDTTM_IN": "7/22/2012",
+        "FULLNAME": "TENSOLITE",
+        "GPSX": 6516831.04,
+        "GPSY": 1750133.91,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-07-22T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1985-07-01T00:00:00.000Z",
+        "LICCATDESC": "Manufacturing",
+        "LICENSEDTTM": "2001-08-28T00:00:00.000Z",
+        "LICENSENO": "BU20135610",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-06-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 101,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 43791,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2400  GRAND AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Manufacturing",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19986677785523,
+            33.789142679375495
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "TRANS AUTO EXPRESS",
+        "EXPDTTM": "2005-10-14T00:00:00.000Z",
+        "EXPDTTM_IN": "10/14/2005",
+        "FULLNAME": "FILIBERTO ZAGAL",
+        "GPSX": 6500934.24,
+        "GPSY": 1745706.52,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2004-10-14T00:00:00.000Z",
+        "LICCATDESC": "Auto Repair ??? General",
+        "LICENSEDTTM": "2004-10-14T00:00:00.000Z",
+        "LICENSENO": "BU20448080",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Denied",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-06-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 4287,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "621 W ESTHER ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto Repair ??? General",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

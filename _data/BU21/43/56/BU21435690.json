@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19092828799849,
+            33.82362131108851
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2015-02-20T00:00:00.000Z",
+        "EXPDTTM_IN": "2/20/2015",
+        "FULLNAME": "OZONEVO PROTECTION RESOURCES INC",
+        "GPSX": 6503674.16083333,
+        "GPSY": 1758248.92666667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-02-20T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2014-11-17T00:00:00.000Z",
+        "LICCATDESC": "Private Patrol Operator",
+        "LICENSEDTTM": "2014-11-17T00:00:00.000Z",
+        "LICENSENO": "BU21435690",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-12-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 124486,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3641  LOCUST AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Private Patrol Operator",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

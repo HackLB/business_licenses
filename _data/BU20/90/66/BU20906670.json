@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18460951064073,
+            33.776295031463135
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "WOMAN TO WOMAN LB REGIONAL DRUG COURT",
+        "EXPDTTM": "2014-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2014",
+        "FULLNAME": "NCADD LONG BEACH",
+        "GPSX": 6505561.79,
+        "GPSY": 1741022.04,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1994-05-01T00:00:00.000Z",
+        "LICCATDESC": "Social Service without Food Distribution",
+        "LICENSEDTTM": "2009-02-18T00:00:00.000Z",
+        "LICENSENO": "BU20906670",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-08-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 35,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 84910,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "780  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Social Service without Food Distribution",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

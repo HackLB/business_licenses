@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1927571650495,
+            33.77474712016456
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "ANA ESTRADA INSURANCE BROKERAGE & INCOME TAX",
+        "EXPDTTM": "2015-12-15T00:00:00.000Z",
+        "EXPDTTM_IN": "12/15/2015",
+        "FULLNAME": "ANA ESTRADA",
+        "GPSX": 6503084.55,
+        "GPSY": 1740463.36,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1996-12-04T00:00:00.000Z",
+        "LICCATDESC": "Insurance Broker",
+        "LICENSEDTTM": "1998-08-12T00:00:00.000Z",
+        "LICENSENO": "BU98031680",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-01-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 25779,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "633  PINE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Insurance Broker",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

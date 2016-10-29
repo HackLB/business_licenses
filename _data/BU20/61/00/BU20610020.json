@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.22196758564306,
+            33.786110249883805
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "PACIFIC PALLET COMPANY",
+        "EXPDTTM": "2017-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2017",
+        "FULLNAME": "STEVEN P AND SAM AMATO",
+        "GPSX": 6494216.16166667,
+        "GPSY": 1744617.02833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1969-11-01T00:00:00.000Z",
+        "LICCATDESC": "Manufacturing",
+        "LICENSEDTTM": "2006-02-23T00:00:00.000Z",
+        "LICENSENO": "BU20610020",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-12-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 10,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 52521,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2210  GAYLORD ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Manufacturing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

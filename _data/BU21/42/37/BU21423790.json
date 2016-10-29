@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19840788527482,
+            33.78512730708124
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "CRYSTAL SPORTWEAR INC",
+        "EXPDTTM": "2016-09-06T00:00:00.000Z",
+        "EXPDTTM_IN": "9/6/2016",
+        "FULLNAME": "CRYSTAL SPORTWEAR INC",
+        "GPSX": 6501374.66083333,
+        "GPSY": 1744244.33833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2014-07-30T00:00:00.000Z",
+        "LICCATDESC": "Manufacturing",
+        "LICENSEDTTM": "2014-07-30T00:00:00.000Z",
+        "LICENSENO": "BU21423790",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-08-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 24968,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1421  MAGNOLIA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Manufacturing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

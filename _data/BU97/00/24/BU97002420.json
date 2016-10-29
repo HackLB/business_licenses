@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19001411433517,
+            33.7675268612497
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "AHMAD & COMPANY",
+        "EXPDTTM": "2003-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2003",
+        "FULLNAME": "ASIF S AHMAD",
+        "GPSX": 6503913.24083333,
+        "GPSY": 1737834.1175,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1990-01-03T00:00:00.000Z",
+        "LICCATDESC": "Accounting",
+        "LICENSEDTTM": "1997-01-17T00:00:00.000Z",
+        "LICENSENO": "BU97002420",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-11-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 140817,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "249 E OCEAN BLVD 712",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Accounting",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

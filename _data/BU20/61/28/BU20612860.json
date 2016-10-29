@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10415453441941,
+            33.81823341905476
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "ADONANT CONSULTING LLC",
+        "EXPDTTM": "2006-03-09T00:00:00.000Z",
+        "EXPDTTM_IN": "3/9/2006",
+        "FULLNAME": "ADONANT CONSULTING LLC",
+        "GPSX": 6530028.75166667,
+        "GPSY": 1756249.44416667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-03-09T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2006-03-09T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "2006-03-09T00:00:00.000Z",
+        "LICENSENO": "BU20612860",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-03-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 115753,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3352  KNOXVILLE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

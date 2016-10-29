@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15206290311997,
+            33.78400111816312
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2009-06-22T00:00:00.000Z",
+        "EXPDTTM_IN": "6/22/2009",
+        "FULLNAME": "PATCH PROS INC",
+        "GPSX": 6515457.29916667,
+        "GPSY": 1743809.935,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-06-22T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2006-05-12T00:00:00.000Z",
+        "LICCATDESC": "Contracting - Misc.",
+        "LICENSEDTTM": "2006-05-12T00:00:00.000Z",
+        "LICENSENO": "BU20624700",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-02-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 31595,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1370  REDONDO AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting - Misc.",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

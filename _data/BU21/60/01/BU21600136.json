@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16497801135256,
+            33.77482526561443
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "NAZIM CHANDRANI",
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "LIBERTY TAX SERVICE",
+        "EXPDTTM": "2017-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2017",
+        "FULLNAME": "LA & LV TAX INC",
+        "GPSX": 6511527.13666667,
+        "GPSY": 1740476.77583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2016-01-01T00:00:00.000Z",
+        "LICCATDESC": "Tax Preparation",
+        "LICENSEDTTM": "2016-01-11T00:00:00.000Z",
+        "LICENSENO": "BU21600136",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-01-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 10,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 1732,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2232 E 7TH ST",
+        "STATELICNO": "C3618898",
+        "TYPEOFBUSINESS": "Tax Preparation",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

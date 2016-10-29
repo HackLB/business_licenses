@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21572025050718,
+            33.78303659910157
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "ROCKET #4",
+        "EXPDTTM": "2017-04-29T00:00:00.000Z",
+        "EXPDTTM_IN": "4/29/2017",
+        "FULLNAME": "ROCKET OIL CO INC",
+        "GPSX": 6496112.17,
+        "GPSY": 1743494.31,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2015-04-29T00:00:00.000Z",
+        "LICCATDESC": "Gas Station",
+        "LICENSEDTTM": "2015-04-29T00:00:00.000Z",
+        "LICENSENO": "BU21512640",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 16479,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1701 W ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Gas Station",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

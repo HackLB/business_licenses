@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14009077806558,
+            33.779200722978175
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "ELITE ELECTRIC CO",
+        "EXPDTTM": "2017-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2017",
+        "FULLNAME": "MARK BOORMAN",
+        "GPSX": 6519092.99,
+        "GPSY": 1742057.65,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2014-09-22T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Electrical",
+        "LICENSEDTTM": "2014-09-22T00:00:00.000Z",
+        "LICENSENO": "BU21429700",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-09-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 141106,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1001  PARK AVE 307",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Electrical",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

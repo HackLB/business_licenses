@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.2014362815282,
+            33.76632551886347
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2011-03-20T00:00:00.000Z",
+        "EXPDTTM_IN": "3/20/2011",
+        "FULLNAME": "THE VANTAGE GROUP LLC",
+        "GPSX": 6500440.68333333,
+        "GPSY": 1737403.675,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-03-20T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1998-03-20T00:00:00.000Z",
+        "LICCATDESC": "Computer Programming/Consulting",
+        "LICENSEDTTM": "2008-03-26T00:00:00.000Z",
+        "LICENSENO": "BU20813990",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-03-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 19486,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "400  OCEANGATE  302",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Computer Programming/Consulting",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

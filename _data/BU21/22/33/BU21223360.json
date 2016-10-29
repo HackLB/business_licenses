@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15701908482264,
+            33.76551010798131
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "BERSA SECURITY SOLUTIONS",
+        "EXPDTTM": "2013-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2013",
+        "FULLNAME": "SAMMY NAVA",
+        "GPSX": 6513940.6875,
+        "GPSY": 1737082.85166667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2013-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2012-07-18T00:00:00.000Z",
+        "LICCATDESC": "Alarm Installation/Sales",
+        "LICENSEDTTM": "2012-07-18T00:00:00.000Z",
+        "LICENSENO": "BU21223360",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-07-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 146204,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "237  ORIZABA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Alarm Installation/Sales",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

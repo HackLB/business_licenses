@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14556590273129,
+            33.77987004683935
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "BEST LOCKSMITH",
+        "EXPDTTM": "2006-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2006",
+        "FULLNAME": "PATRICK JAMES FORD",
+        "GPSX": 6517429.45,
+        "GPSY": 1742303.6,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1997-08-01T00:00:00.000Z",
+        "LICCATDESC": "Locksmith",
+        "LICENSEDTTM": "2000-10-06T00:00:00.000Z",
+        "LICENSENO": "BU20040360",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-11-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 132645,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1054  TERMINO AVE 2",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Locksmith",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

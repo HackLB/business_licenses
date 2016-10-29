@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14188395477852,
+            33.8193744183345
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "PRATT & WHITNEY ENGINES SERVICES, INC",
+        "EXPDTTM": "2014-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2014",
+        "FULLNAME": "PRATT & WHITNEY ENGINES SERVICES, INC",
+        "GPSX": 6518568.68,
+        "GPSY": 1756678.71,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-05-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2007-05-01T00:00:00.000Z",
+        "LICCATDESC": "Aircraft Repair/Repair",
+        "LICENSEDTTM": "2007-05-11T00:00:00.000Z",
+        "LICENSENO": "BU20720640",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-05-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 17,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 9866,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4401  DONALD DOUGLAS DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Aircraft Repair",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

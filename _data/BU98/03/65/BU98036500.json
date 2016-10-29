@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10986841666316,
+            33.78115992858838
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "RESEARCH FOUNDATION",
+        "EXPDTTM": "2016-09-17T00:00:00.000Z",
+        "EXPDTTM_IN": "9/17/2016",
+        "FULLNAME": "CALIFORNIA STATE UNIVERSITY LONG BEACH",
+        "GPSX": 6528278.36,
+        "GPSY": 1742759.24,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1998-09-17T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "1998-09-17T00:00:00.000Z",
+        "LICENSENO": "BU98036500",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-09-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 177575,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6300  STATE UNIVERSITY DR 332",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

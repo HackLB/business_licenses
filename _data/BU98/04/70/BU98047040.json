@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20308789216405,
+            33.87652700631326
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "MASTER TAX",
+        "EXPDTTM": "2003-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2003",
+        "FULLNAME": "ALMA GALTNEY",
+        "GPSX": 6500019.71166667,
+        "GPSY": 1777509.84666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1985-12-01T00:00:00.000Z",
+        "LICCATDESC": "Tax Preparation",
+        "LICENSEDTTM": "1998-12-03T00:00:00.000Z",
+        "LICENSENO": "BU98047040",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-11-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 60590,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6728  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tax Preparation",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

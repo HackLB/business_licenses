@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16947309286444,
+            33.77386557428541
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "ESSEC",
+        "EXPDTTM": "2014-03-03T00:00:00.000Z",
+        "EXPDTTM_IN": "3/3/2014",
+        "FULLNAME": "JONES, PAUL E",
+        "GPSX": 6510160.42,
+        "GPSY": 1740129.79,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2011-03-03T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "2011-03-03T00:00:00.000Z",
+        "LICENSENO": "BU21106610",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "ClosedWBal",
+        "MILESTONE": "Collections",
+        "MILESTONEDATE": "2015-01-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 150533,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "554  ROSE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

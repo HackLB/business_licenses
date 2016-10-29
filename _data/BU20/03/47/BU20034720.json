@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17332465090014,
+            33.82896100386789
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "MTR COMMUNICATIONS",
+        "EXPDTTM": "2017-05-25T00:00:00.000Z",
+        "EXPDTTM_IN": "5/25/2017",
+        "FULLNAME": "MICHAEL T REED",
+        "GPSX": 6509024.43,
+        "GPSY": 1760182.49,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-08-25T00:00:00.000Z",
+        "LICCATDESC": "Contracting - Misc.",
+        "LICENSEDTTM": "2000-08-25T00:00:00.000Z",
+        "LICENSENO": "BU20034720",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 113541,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1450 E ROOSEVELT RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting - Misc.",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

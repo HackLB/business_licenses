@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20924414670513,
+            33.80466783091504
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "RC TRAVEL & TOURS",
+        "EXPDTTM": "2005-10-19T00:00:00.000Z",
+        "EXPDTTM_IN": "10/19/2005",
+        "FULLNAME": "RONELL DE SARIO",
+        "GPSX": 6498096.55583333,
+        "GPSY": 1751362.33666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-10-19T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1994-10-19T00:00:00.000Z",
+        "LICCATDESC": "Travel Agency",
+        "LICENSEDTTM": "2004-11-10T00:00:00.000Z",
+        "LICENSENO": "BU20454250",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-09-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 135225,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1309 W WILLOW ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Travel Agency",
+        "ZIP": "90810"
+    },
+    "type": "Feature"
+}

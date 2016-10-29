@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1310613734556,
+            33.758952074179454
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Banking/Insurance",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "farmers insurance group",
+        "EXPDTTM": "2016-10-09T00:00:00.000Z",
+        "EXPDTTM_IN": "10/9/2016",
+        "FULLNAME": "troy kelly",
+        "GPSX": 6521827.42166667,
+        "GPSY": 1734684.8875,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2015-08-03T00:00:00.000Z",
+        "LICCATDESC": "Insurance Companies",
+        "LICENSEDTTM": "2015-08-03T00:00:00.000Z",
+        "LICENSENO": "BU21522740",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-09-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 1038,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5353  2ND ST 207",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Insurance Companies",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

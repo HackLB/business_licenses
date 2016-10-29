@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1527371834426,
+            33.78377184702403
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2009-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2009",
+        "FULLNAME": "EMMA'S PROFESSIONAL CLEANING INC",
+        "GPSX": 6515252.27,
+        "GPSY": 1743726.8075,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2007-12-15T00:00:00.000Z",
+        "LICCATDESC": "Cleaning Agency",
+        "LICENSEDTTM": "2008-01-02T00:00:00.000Z",
+        "LICENSENO": "BU20800080",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-09-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 64269,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1355  REDONDO AVE 7",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Cleaning Agency",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

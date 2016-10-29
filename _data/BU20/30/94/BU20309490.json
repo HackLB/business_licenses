@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18531749050538,
+            33.863934405317536
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "MERCADO LINDO",
+        "EXPDTTM": "2004-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2004",
+        "FULLNAME": "MODERN MARKET INC",
+        "GPSX": 6505405.42916667,
+        "GPSY": 1772916.67666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-03-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2003-02-26T00:00:00.000Z",
+        "LICCATDESC": "Food Retail Store",
+        "LICENSEDTTM": "2003-02-26T00:00:00.000Z",
+        "LICENSENO": "BU20309490",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-10-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 60783,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6001  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Retail Store",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

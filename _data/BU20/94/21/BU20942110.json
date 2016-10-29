@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16152696782663,
+            33.812417320821496
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2012-11-07T00:00:00.000Z",
+        "EXPDTTM_IN": "11/7/2012",
+        "FULLNAME": "CALIFORNIA FLIGHT CENTER INC",
+        "GPSX": 6512597.94916666,
+        "GPSY": 1754155.845,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-11-07T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2003-11-07T00:00:00.000Z",
+        "LICCATDESC": "Aircraft Rental",
+        "LICENSEDTTM": "2009-11-11T00:00:00.000Z",
+        "LICENSENO": "BU20942110",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-11-08T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 52141,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2601 E SPRING ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Aircraft Rental/Repair",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

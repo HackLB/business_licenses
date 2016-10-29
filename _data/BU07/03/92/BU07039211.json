@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15978917127693,
+            33.78231117572556
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Non-Residential Property",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2017-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2017",
+        "FULLNAME": "PAEK MINIT MARKET INC",
+        "GPSX": 6513108.44,
+        "GPSY": 1743198.56,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-09-19T00:00:00.000Z",
+        "LICCATDESC": "Commercial/Industrial Space  Rental",
+        "LICENSEDTTM": "2012-09-19T00:00:00.000Z",
+        "LICENSENO": "BU07039211",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-02-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 96816,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2700 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Commercial/Industrial Space  Rental",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

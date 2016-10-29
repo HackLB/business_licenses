@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18543774922682,
+            33.83074659912394
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "MONTCLAR & ASSOCIATES",
+        "EXPDTTM": "2017-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2017",
+        "FULLNAME": "RAYMOND V MONTCLAR",
+        "GPSX": 6505346.6375,
+        "GPSY": 1760838.87916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2015-07-06T00:00:00.000Z",
+        "LICCATDESC": "Tax Preparation",
+        "LICENSEDTTM": "2015-07-06T00:00:00.000Z",
+        "LICENSENO": "BU21519750",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 83113,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3999  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tax Preparation",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

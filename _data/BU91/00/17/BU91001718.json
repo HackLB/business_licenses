@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17759157910766,
+            33.86157012209207
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Residential Property",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2015-07-02T00:00:00.000Z",
+        "EXPDTTM_IN": "7/2/2015",
+        "FULLNAME": "ERIK CLARKE",
+        "GPSX": 6507749.445,
+        "GPSY": 1772052.0225,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2014-07-14T00:00:00.000Z",
+        "LICCATDESC": "Apartment House",
+        "LICENSEDTTM": "2014-07-14T00:00:00.000Z",
+        "LICENSENO": "BU91001718",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "CollcInBus",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-08-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 4,
+        "NUMVEH": 0,
+        "OBJECTID": 154161,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5881  ORANGE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Apartment House",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

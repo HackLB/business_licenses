@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15077267818492,
+            33.78287937260315
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "CRYSTAL AUTO SPA",
+        "EXPDTTM": "2014-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2014",
+        "FULLNAME": "CRYSTAL CAR WASH INC",
+        "GPSX": 6515848.76416667,
+        "GPSY": 1743401.11,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-11-09T00:00:00.000Z",
+        "LICCATDESC": "Food Retail Store",
+        "LICENSEDTTM": "2012-11-09T00:00:00.000Z",
+        "LICENSENO": "BU21237270",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-02-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 164455,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3525 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Retail Store",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

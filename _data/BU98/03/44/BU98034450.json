@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14245218884791,
+            33.782348932560765
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "IGUANA KELLEY'S",
+        "EXPDTTM": "2013-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2013",
+        "FULLNAME": "COOKE CONSULTING LLC",
+        "GPSX": 6518376.98,
+        "GPSY": 1743204.38,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1998-09-01T00:00:00.000Z",
+        "LICCATDESC": "Bar, Tavern, Lounge",
+        "LICENSEDTTM": "1998-09-01T00:00:00.000Z",
+        "LICENSENO": "BU98034450",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-07-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 162227,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4306 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Bar, Tavern, Lounge",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

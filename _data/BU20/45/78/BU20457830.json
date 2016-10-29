@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13538781728968,
+            33.80999070483509
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "AUTO INSURANCE SPECIALISTS INC",
+        "EXPDTTM": "2014-11-22T00:00:00.000Z",
+        "EXPDTTM_IN": "11/22/2014",
+        "FULLNAME": "AON CORPORATION",
+        "GPSX": 6520537.31458333,
+        "GPSY": 1753261.00708333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-11-22T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2004-12-01T00:00:00.000Z",
+        "LICCATDESC": "Insurance Broker",
+        "LICENSEDTTM": "2004-12-01T00:00:00.000Z",
+        "LICENSENO": "BU20457830",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-01-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 9,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 13194,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5000 E SPRING ST 100",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Insurance Broker",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

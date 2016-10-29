@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13726420435611,
+            33.76160010665652
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "DIAMOND PARKING LOT SL05",
+        "EXPDTTM": "2016-10-09T00:00:00.000Z",
+        "EXPDTTM_IN": "10/9/2016",
+        "FULLNAME": "DIAMOND PARKING SERVICES LLC",
+        "GPSX": 6519943.24,
+        "GPSY": 1735651.1,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2008-10-09T00:00:00.000Z",
+        "LICCATDESC": "Parking Service Lot",
+        "LICENSEDTTM": "2008-11-14T00:00:00.000Z",
+        "LICENSENO": "BU20852780",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-09-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 31005,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4827  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Parking Service Lot",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

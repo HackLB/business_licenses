@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15206460634168,
+            33.7701037128219
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2009-01-04T00:00:00.000Z",
+        "EXPDTTM_IN": "1/4/2009",
+        "FULLNAME": "PAT PARIS PRODUCTIONS INC",
+        "GPSX": 6515449.13,
+        "GPSY": 1738752.28,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2009-01-04T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1995-01-05T00:00:00.000Z",
+        "LICCATDESC": "Drafting/Graphics Design",
+        "LICENSEDTTM": "2002-01-17T00:00:00.000Z",
+        "LICENSENO": "BU20202540",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-12-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 74907,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3409  COLORADO ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Drafting/Graphics Design",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

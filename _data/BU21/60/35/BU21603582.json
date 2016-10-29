@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18527813551644,
+            33.85990513830339
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "RAMON'S BARBER AND BEAUTY SHOP",
+        "EXPDTTM": "2017-06-09T00:00:00.000Z",
+        "EXPDTTM_IN": "6/9/2017",
+        "FULLNAME": "RAMON MORALES",
+        "GPSX": 6505414.67416666,
+        "GPSY": 1771450.30666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2016-06-09T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty Shop Owner",
+        "LICENSEDTTM": "2016-06-09T00:00:00.000Z",
+        "LICENSENO": "BU21603582",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-07-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 2849,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "526  SOUTH ST",
+        "STATELICNO": "69563",
+        "TYPEOFBUSINESS": "Barber/Beauty Shop Owner",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

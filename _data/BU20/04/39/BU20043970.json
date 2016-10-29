@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.09335021138813,
+            33.81404609056852
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Vending",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "CORNERSTONE REFRESHMENT",
+        "EXPDTTM": "2004-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2004",
+        "FULLNAME": "JEFFREY W FIEN",
+        "GPSX": 6533309.25,
+        "GPSY": 1754722.34,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2004-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2000-10-01T00:00:00.000Z",
+        "LICCATDESC": "Vending Machines",
+        "LICENSEDTTM": "2000-11-01T00:00:00.000Z",
+        "LICENSENO": "BU20043970",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-06-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 1,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 72360,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "7221  ROSEBAY ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Vending Machines",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19406915560471,
+            33.80511138861949
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "WALGREENS #05650",
+        "EXPDTTM": "2017-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2017",
+        "FULLNAME": "WALGREEN CO",
+        "GPSX": 6502707.15,
+        "GPSY": 1751514.51,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2001-08-28T00:00:00.000Z",
+        "LICCATDESC": "Pharmacy",
+        "LICENSEDTTM": "2001-08-28T00:00:00.000Z",
+        "LICENSENO": "BU20135650",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-09-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 43,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 43795,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2627  PACIFIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pharmacy",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

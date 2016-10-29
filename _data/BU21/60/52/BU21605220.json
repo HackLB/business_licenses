@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18034988257902,
+            33.8191979416653
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "STEVE GABLE",
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2017-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2017",
+        "FULLNAME": "FRONTIER CALIFORNIA INC",
+        "GPSX": 6506884.35083333,
+        "GPSY": 1756633.21416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2016-04-01T00:00:00.000Z",
+        "LICCATDESC": "General Services ??? Other",
+        "LICENSEDTTM": "2016-08-09T00:00:00.000Z",
+        "LICENSENO": "BU21605220",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-08-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 60598,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3440  CALIFORNIA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "General Services ??? Other",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

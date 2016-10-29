@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13918746647879,
+            33.78283687246676
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "BAYSHORE SCHOOL & EDUCATIONAL",
+        "EXPDTTM": "2007-07-27T00:00:00.000Z",
+        "EXPDTTM_IN": "7/27/2007",
+        "FULLNAME": "LENORE & OTT, ROBERT HAYES-OTT",
+        "GPSX": 6519369.33916667,
+        "GPSY": 1743380.565,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-07-27T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1992-07-27T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "2003-05-16T00:00:00.000Z",
+        "LICENSENO": "BU20323220",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-09-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 110181,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4607 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

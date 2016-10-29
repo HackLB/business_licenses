@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11263095814495,
+            33.75841136737974
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2014-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2014",
+        "FULLNAME": "MARY K SUTTIE",
+        "GPSX": 6527429.565,
+        "GPSY": 1734481.3175,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2006-03-23T00:00:00.000Z",
+        "LICCATDESC": "Real Estate Agent",
+        "LICENSEDTTM": "2008-04-02T00:00:00.000Z",
+        "LICENSENO": "BU20815400",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-05-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 142188,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6265  2ND ST 103",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Real Estate Agent",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

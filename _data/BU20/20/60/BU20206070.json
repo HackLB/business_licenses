@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18900095588477,
+            33.78399274151188
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "WEAVER MOTORS",
+        "EXPDTTM": "2004-09-22T00:00:00.000Z",
+        "EXPDTTM_IN": "9/22/2004",
+        "FULLNAME": "STANLEY WEAVER",
+        "GPSX": 6504232.45,
+        "GPSY": 1743825.93,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-09-22T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2000-01-31T00:00:00.000Z",
+        "LICCATDESC": "Auto/Boat Sales",
+        "LICENSEDTTM": "2002-02-07T00:00:00.000Z",
+        "LICENSENO": "BU20206070",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-09-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 54001,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1400  LONG BEACH BLVD B",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto/Boat Sales",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

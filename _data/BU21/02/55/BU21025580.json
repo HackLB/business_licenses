@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11450359692485,
+            33.747452713606314
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "MIRTA MOYANO SKIN CARE INC",
+        "EXPDTTM": "2017-09-28T00:00:00.000Z",
+        "EXPDTTM_IN": "9/28/2017",
+        "FULLNAME": "MIRTA MOYANO SKIN CARE INC",
+        "GPSX": 6526855.785,
+        "GPSY": 1730493.78416666,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2010-08-09T00:00:00.000Z",
+        "LICCATDESC": "Aesthetician",
+        "LICENSEDTTM": "2010-08-09T00:00:00.000Z",
+        "LICENSENO": "BU21025580",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-09-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 74623,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "120  MARINA DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Aesthetician",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

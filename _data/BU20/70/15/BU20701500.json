@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12196945112227,
+            33.75164192018778
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2008-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2008",
+        "FULLNAME": "THE SULLA GROUP",
+        "GPSX": 6524587.9,
+        "GPSY": 1732021.03,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2008-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2004-01-01T00:00:00.000Z",
+        "LICCATDESC": "Real Estate Agent",
+        "LICENSEDTTM": "2007-01-10T00:00:00.000Z",
+        "LICENSENO": "BU20701500",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-06-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 146166,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5803  CORSO DI NAPOLI",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Real Estate Agent",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

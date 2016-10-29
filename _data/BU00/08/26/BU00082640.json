@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10699318580065,
+            33.80980880157544
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "RADIO SHACK #3125",
+        "EXPDTTM": "2016-05-06T00:00:00.000Z",
+        "EXPDTTM_IN": "5/6/2016",
+        "FULLNAME": "RADIOSHACK CORPORATION",
+        "GPSX": 6529163.22166667,
+        "GPSY": 1753184.4075,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-09-07T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1972-05-01T00:00:00.000Z",
+        "LICCATDESC": "Retail Sales",
+        "LICENSEDTTM": "1972-05-01T00:00:00.000Z",
+        "LICENSENO": "BU00082640",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-09-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 167149,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6414 E SPRING ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Retail Sales",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

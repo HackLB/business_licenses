@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1657792147481,
+            33.789687260092705
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "GATEWAY AUTO INSURANCE SERVICES INC",
+        "EXPDTTM": "2003-06-01T00:00:00.000Z",
+        "EXPDTTM_IN": "6/1/2003",
+        "FULLNAME": "GATEWAY AUTO INSURANCE SERVICES INC",
+        "GPSX": 6511292.55833333,
+        "GPSY": 1745885.86833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-06-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2000-06-01T00:00:00.000Z",
+        "LICCATDESC": "Insurance Broker",
+        "LICENSEDTTM": "2001-06-01T00:00:00.000Z",
+        "LICENSENO": "BU20122910",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-06-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 145260,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2100 E PACIFIC COAST HWY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Insurance Broker",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

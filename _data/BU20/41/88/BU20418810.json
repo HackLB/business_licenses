@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13796906184962,
+            33.77063989820359
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "GOOD 2 GLOW",
+        "EXPDTTM": "2006-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2006",
+        "FULLNAME": "ERICKA GOODRICH",
+        "GPSX": 6519733.50416667,
+        "GPSY": 1738941.2325,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-12-03T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2000-01-03T00:00:00.000Z",
+        "LICCATDESC": "Janitorial Service",
+        "LICENSEDTTM": "2004-04-27T00:00:00.000Z",
+        "LICENSENO": "BU20418810",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 50821,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "370  ROYCROFT AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Janitorial Service",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

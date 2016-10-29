@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19303175962361,
+            33.76756922507026
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "ERIC BOND FINANCIAL SERVICES",
+        "EXPDTTM": "2013-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2013",
+        "FULLNAME": "ERIC W BOND",
+        "GPSX": 6502996.08,
+        "GPSY": 1737851.2825,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2008-02-11T00:00:00.000Z",
+        "LICCATDESC": "Financial Services ??? Other",
+        "LICENSEDTTM": "2009-07-01T00:00:00.000Z",
+        "LICENSENO": "BU20925020",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-12-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 117384,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "111 W OCEAN BLVD 1360",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Financial Services ??? Other",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12670540719924,
+            33.80834799997956
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "BOND CONSULTING SERVICES",
+        "EXPDTTM": "2006-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2006",
+        "FULLNAME": "BOND ENTERPRISES INC",
+        "GPSX": 6523174.18166667,
+        "GPSY": 1752659.74416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2001-01-02T00:00:00.000Z",
+        "LICCATDESC": "Computer Programming/Consulting",
+        "LICENSEDTTM": "2001-01-02T00:00:00.000Z",
+        "LICENSENO": "BU20100170",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-09-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 71536,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2871  MONTAIR AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Computer Programming/Consulting",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

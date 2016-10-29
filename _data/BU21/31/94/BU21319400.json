@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11489807322465,
+            33.80805233168961
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2015-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2015",
+        "FULLNAME": "S R C CONSTRUCTION INC",
+        "GPSX": 6526761.0675,
+        "GPSY": 1752547.83166667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2013-06-27T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Building",
+        "LICENSEDTTM": "2013-06-27T00:00:00.000Z",
+        "LICENSENO": "BU21319400",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-03-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 136671,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2901  VUELTA GRANDE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Building",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18982030631905,
+            33.78462073514446
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2004-09-28T00:00:00.000Z",
+        "EXPDTTM_IN": "9/28/2004",
+        "FULLNAME": "HORN'S AUTO CENTER INC",
+        "GPSX": 6503983.895,
+        "GPSY": 1744054.94333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-09-28T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1992-09-28T00:00:00.000Z",
+        "LICCATDESC": "Towing",
+        "LICENSEDTTM": "2000-12-20T00:00:00.000Z",
+        "LICENSENO": "BU20049220",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-02-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 36019,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1427  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Towing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

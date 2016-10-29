@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12773200863917,
+            33.775707241280145
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "COASTAL SERVICES",
+        "EXPDTTM": "2006-04-10T00:00:00.000Z",
+        "EXPDTTM_IN": "4/10/2006",
+        "FULLNAME": "COASTAL INCOME PROPERTIES INC",
+        "GPSX": 6522847.21,
+        "GPSY": 1740781.27,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-04-10T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2002-10-15T00:00:00.000Z",
+        "LICCATDESC": "Real Estate Office",
+        "LICENSEDTTM": "2004-09-07T00:00:00.000Z",
+        "LICENSENO": "BU20441540",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-07-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 171784,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "717  TERRAINE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Real Estate Office",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

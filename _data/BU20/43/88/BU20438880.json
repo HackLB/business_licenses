@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19303596746407,
+            33.768903440301074
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "DOWNTOWN LONG BEACH ASSOCIATES",
+        "EXPDTTM": "2017-09-24T00:00:00.000Z",
+        "EXPDTTM_IN": "9/24/2017",
+        "FULLNAME": "DOWNTOWN LONG BEACH ASSOCIATES",
+        "GPSX": 6502995.73333333,
+        "GPSY": 1738336.84333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1992-09-25T00:00:00.000Z",
+        "LICCATDESC": "Marketing",
+        "LICENSEDTTM": "2004-08-19T00:00:00.000Z",
+        "LICENSENO": "BU20438880",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-10-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 155466,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "100 W BROADWAY  120",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Marketing",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

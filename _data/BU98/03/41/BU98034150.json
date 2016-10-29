@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16802592761366,
+            33.87432493127403
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "PISTONS",
+        "EXPDTTM": "2010-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2010",
+        "FULLNAME": "PISTONS LIMITED LIABILITY COMPANY",
+        "GPSX": 6510661.35583333,
+        "GPSY": 1776688.81166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1998-08-31T00:00:00.000Z",
+        "LICCATDESC": "Bar, Tavern, Lounge",
+        "LICENSEDTTM": "1998-08-31T00:00:00.000Z",
+        "LICENSENO": "BU98034150",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-02-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 8,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 85723,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2020 E ARTESIA BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Bar, Tavern, Lounge",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

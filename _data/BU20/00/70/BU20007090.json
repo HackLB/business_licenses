@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20373414620947,
+            33.87870607477916
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2004-02-16T00:00:00.000Z",
+        "EXPDTTM_IN": "2/16/2004",
+        "FULLNAME": "5 SITES INC",
+        "GPSX": 6499825.15,
+        "GPSY": 1778303.2575,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-02-16T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-02-16T00:00:00.000Z",
+        "LICCATDESC": "Gas Station",
+        "LICENSEDTTM": "2000-02-16T00:00:00.000Z",
+        "LICENSENO": "BU20007090",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-09-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 116976,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6850  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Gas Station",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.2133545099173,
+            33.83251239161523
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2003-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2003",
+        "FULLNAME": "SABEUS PHOTONICS INC",
+        "GPSX": 6496869.30416666,
+        "GPSY": 1761498.315,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-10-31T00:00:00.000Z",
+        "LICCATDESC": "Manufacturing",
+        "LICENSEDTTM": "2001-06-18T00:00:00.000Z",
+        "LICENSENO": "BU20125430",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2002-11-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 40,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 168064,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3995  VIA ORO AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Manufacturing",
+        "ZIP": "90810"
+    },
+    "type": "Feature"
+}

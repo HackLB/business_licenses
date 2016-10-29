@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15295513034783,
+            33.76473450416472
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "GALLERY 33",
+        "EXPDTTM": "2007-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2007",
+        "FULLNAME": "STEARNS & STEARNS INC",
+        "GPSX": 6515175.49666667,
+        "GPSY": 1736798.6825,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2001-09-19T00:00:00.000Z",
+        "LICCATDESC": "Artist Studio (Comml)",
+        "LICENSEDTTM": "2003-03-28T00:00:00.000Z",
+        "LICENSENO": "BU20314880",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-11-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 140930,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3323 E BROADWAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Artist Studio (Comml)",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

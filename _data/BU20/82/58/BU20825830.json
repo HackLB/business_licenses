@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13262079644902,
+            33.78744609218993
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2011-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2011",
+        "FULLNAME": "LIFE PATH RESOURCES GROUP LLC",
+        "GPSX": 6521367.08,
+        "GPSY": 1745055.29,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2011-03-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2004-03-01T00:00:00.000Z",
+        "LICCATDESC": "Financial Services ??? Other",
+        "LICENSEDTTM": "2008-05-29T00:00:00.000Z",
+        "LICENSENO": "BU20825830",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-04-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 44038,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5130  EL CEDRAL ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Financial Services ??? Other",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

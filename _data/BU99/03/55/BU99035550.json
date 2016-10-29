@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12142666118953,
+            33.80457276610877
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "BELMONT PACKAGING",
+        "EXPDTTM": "2017-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2017",
+        "FULLNAME": "JOHN & KIMBERLY D BOLTZ",
+        "GPSX": 6524776.17833333,
+        "GPSY": 1751283.85583333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-09-21T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "1999-09-21T00:00:00.000Z",
+        "LICENSENO": "BU99035550",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-09-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 170608,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2643  RADNOR AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

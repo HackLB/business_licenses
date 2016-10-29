@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14642935634959,
+            33.78193100344561
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "ADVANCED TECHNIQUE SERVICES",
+        "EXPDTTM": "2003-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2003",
+        "FULLNAME": "JOHN GRACE",
+        "GPSX": 6517168.14083333,
+        "GPSY": 1743054.02083333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2003-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2000-11-03T00:00:00.000Z",
+        "LICCATDESC": "Handyman",
+        "LICENSEDTTM": "2000-11-03T00:00:00.000Z",
+        "LICENSENO": "BU20044220",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-06-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 124115,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1210  UMATILLA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Handyman",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

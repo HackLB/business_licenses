@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18983140264992,
+            33.78298520653867
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "FRED LOYA INSURANCE",
+        "EXPDTTM": "2016-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2016",
+        "FULLNAME": "FRED LOYA INC",
+        "GPSX": 6503979.39916667,
+        "GPSY": 1743459.73583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2008-11-01T00:00:00.000Z",
+        "LICCATDESC": "Insurance Broker",
+        "LICENSEDTTM": "2008-10-21T00:00:00.000Z",
+        "LICENSENO": "BU20849140",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 158821,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1321  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Insurance Broker",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

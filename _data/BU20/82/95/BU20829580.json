@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18543829342528,
+            33.83629136434273
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "ATLANTIC ARCO",
+        "EXPDTTM": "2012-07-11T00:00:00.000Z",
+        "EXPDTTM_IN": "7/11/2012",
+        "FULLNAME": "BIBI CORP",
+        "GPSX": 6505350.195,
+        "GPSY": 1762856.76,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-07-11T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2008-06-19T00:00:00.000Z",
+        "LICCATDESC": "Gas Station",
+        "LICENSEDTTM": "2008-06-19T00:00:00.000Z",
+        "LICENSENO": "BU20829580",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-05-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 175609,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4385  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Gas Station",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

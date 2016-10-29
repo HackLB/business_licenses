@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18980450103335,
+            33.768296635967054
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "DIAMOND PARKING LOT 6210",
+        "EXPDTTM": "2009-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2009",
+        "FULLNAME": "DIAMOND PARKING INC",
+        "GPSX": 6503977.48,
+        "GPSY": 1738114.14,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-05-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1995-05-01T00:00:00.000Z",
+        "LICCATDESC": "Parking Service Lot",
+        "LICENSEDTTM": "2003-06-17T00:00:00.000Z",
+        "LICENSENO": "BU20328670",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-05-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 20565,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "101  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Parking Service Lot",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19037902550957,
+            33.86110359358395
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2006-02-18T00:00:00.000Z",
+        "EXPDTTM_IN": "2/18/2006",
+        "FULLNAME": "DRAZEM INC",
+        "GPSX": 6503866.82916667,
+        "GPSY": 1771889.3475,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-12-03T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2005-02-18T00:00:00.000Z",
+        "LICCATDESC": "Sales Representative",
+        "LICENSEDTTM": "2005-02-18T00:00:00.000Z",
+        "LICENSENO": "BU20509440",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 64710,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "247  HULLETT ST 1",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Sales Representative",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

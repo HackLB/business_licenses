@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18543503455196,
+            33.833608252335935
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2007-05-05T00:00:00.000Z",
+        "EXPDTTM_IN": "5/5/2007",
+        "FULLNAME": "WILLIAM T PARKER",
+        "GPSX": 6505349.38333333,
+        "GPSY": 1761880.30583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-05-05T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1988-05-01T00:00:00.000Z",
+        "LICCATDESC": "Chiropractics",
+        "LICENSEDTTM": "2002-04-26T00:00:00.000Z",
+        "LICENSENO": "BU20220000",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-05-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 40672,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4223  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Chiropractics",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

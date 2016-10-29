@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12228716389633,
+            33.77407160190719
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "SONGER FINANCIAL SERVICES",
+        "EXPDTTM": "2011-12-20T00:00:00.000Z",
+        "EXPDTTM_IN": "12/20/2011",
+        "FULLNAME": "JOHN THEODORE SONGER",
+        "GPSX": 6524501.24583333,
+        "GPSY": 1740183.95666667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2011-12-20T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2005-12-20T00:00:00.000Z",
+        "LICCATDESC": "Bookkeeping",
+        "LICENSEDTTM": "2009-07-27T00:00:00.000Z",
+        "LICENSENO": "BU20928390",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-01-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 91715,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "631  WINSLOW AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Bookkeeping",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

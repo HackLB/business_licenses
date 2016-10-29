@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16465941077503,
+            33.771511790217396
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "4THSTREET",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "DEJA VU",
+        "EXPDTTM": "2017-02-19T00:00:00.000Z",
+        "EXPDTTM_IN": "2/19/2017",
+        "FULLNAME": "DOGAT ENTERPRISES INC",
+        "GPSX": 6511621.98916667,
+        "GPSY": 1739270.75,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2005-01-21T00:00:00.000Z",
+        "LICCATDESC": "Antique Store",
+        "LICENSEDTTM": "2005-01-21T00:00:00.000Z",
+        "LICENSENO": "BU20504040",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 73043,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2238 E 4TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Antique Store",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

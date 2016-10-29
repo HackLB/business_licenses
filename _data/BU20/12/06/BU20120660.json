@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16631277815428,
+            33.87496847893983
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2012-05-17T00:00:00.000Z",
+        "EXPDTTM_IN": "5/17/2012",
+        "FULLNAME": "LARRY JACKSON",
+        "GPSX": 6511181.78,
+        "GPSY": 1776922.14916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-07-05T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-05-17T00:00:00.000Z",
+        "LICCATDESC": "Auto Repair ??? General",
+        "LICENSEDTTM": "2001-05-17T00:00:00.000Z",
+        "LICENSENO": "BU20120660",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-07-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 115986,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2201 E ARTESIA BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto Repair ??? General",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

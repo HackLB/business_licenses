@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15974726092614,
+            33.765339832174554
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2017-04-15T00:00:00.000Z",
+        "EXPDTTM_IN": "4/15/2017",
+        "FULLNAME": "BRIGITTA WESTALL INC",
+        "GPSX": 6513111.36,
+        "GPSY": 1737022.19,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2012-06-26T00:00:00.000Z",
+        "LICCATDESC": "Psychiatry",
+        "LICENSEDTTM": "2012-06-26T00:00:00.000Z",
+        "LICENSENO": "BU21220680",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-04-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 68212,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2734 E BROADWAY  8",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Psychiatry",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

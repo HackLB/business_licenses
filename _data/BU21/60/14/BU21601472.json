@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18977964957516,
+            33.81186524982691
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "THACKER ENTERPRISES",
+        "EXPDTTM": "2016-09-18T00:00:00.000Z",
+        "EXPDTTM_IN": "9/18/2016",
+        "FULLNAME": "TED THACKER",
+        "GPSX": 6504014.97,
+        "GPSY": 1753969.93,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-09-19T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2016-03-18T00:00:00.000Z",
+        "LICCATDESC": "Seasonal Sales",
+        "LICENSEDTTM": "2016-03-14T00:00:00.000Z",
+        "LICENSENO": "BU21601472",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-09-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 2104,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3009  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Seasonal Sales",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

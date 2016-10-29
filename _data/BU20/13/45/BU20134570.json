@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19064077378798,
+            33.854016960540896
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2005-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2005",
+        "FULLNAME": "HEALTH ESSENTIALS OF CALIFORNIA A MEDICAL CO",
+        "GPSX": 6503782.47,
+        "GPSY": 1769310.5,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-07-30T00:00:00.000Z",
+        "LICCATDESC": "Nurses Registry",
+        "LICENSEDTTM": "2001-08-17T00:00:00.000Z",
+        "LICENSENO": "BU20134570",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-11-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 13,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 42947,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "260 E MARKET ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Nurses Registry",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

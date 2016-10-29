@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19049117606868,
+            33.76642885334393
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2016-03-18T00:00:00.000Z",
+        "EXPDTTM_IN": "3/18/2016",
+        "FULLNAME": "THE BREAKERS OF LONG BEACH",
+        "GPSX": 6503767.48416667,
+        "GPSY": 1737434.79583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1997-03-20T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "1997-03-20T00:00:00.000Z",
+        "LICENSENO": "BU97011440",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-04-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 37,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 58694,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "210 E OCEAN BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

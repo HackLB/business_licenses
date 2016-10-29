@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18888849233691,
+            33.83055320119829
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2003-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2003",
+        "FULLNAME": "LONG BEACH MEMORIAL MED GROUP INC",
+        "GPSX": 6504298.4675,
+        "GPSY": 1760770.44833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1995-10-31T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "1999-09-28T00:00:00.000Z",
+        "LICENSENO": "BU99036540",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-11-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 30886,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3950  LONG BEACH BLVD 101",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

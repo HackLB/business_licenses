@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14093923601372,
+            33.782834945990295
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2016-08-15T00:00:00.000Z",
+        "EXPDTTM_IN": "8/15/2016",
+        "FULLNAME": "CASA GUERRERO EN CALIFORNIA INC",
+        "GPSX": 6518836.9975,
+        "GPSY": 1743380.605833,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-08-15T00:00:00.000Z",
+        "LICCATDESC": "Social Service without Food Distribution",
+        "LICENSEDTTM": "2012-08-28T00:00:00.000Z",
+        "LICENSENO": "BU21228700",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-09-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 42667,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4429 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Social Service without Food Distribution",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

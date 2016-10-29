@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1732034918882,
+            33.78235978410224
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "AREVALO'S BARBER BEAUTY SHOP",
+        "EXPDTTM": "2017-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2017",
+        "FULLNAME": "MARIA ELENA AREVALO",
+        "GPSX": 6509032.005,
+        "GPSY": 1743223.0025,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2016-04-01T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty Shop Owner",
+        "LICENSEDTTM": "2016-03-30T00:00:00.000Z",
+        "LICENSENO": "BU21601809",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-06-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 42076,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1438 E ANAHEIM ST",
+        "STATELICNO": "A305269",
+        "TYPEOFBUSINESS": "Barber/Beauty Shop Owner",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

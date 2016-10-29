@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.07447003502303,
+            33.82166608462244
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "STITCH'N",
+        "EXPDTTM": "2012-04-10T00:00:00.000Z",
+        "EXPDTTM_IN": "4/10/2012",
+        "FULLNAME": "SIDNEY VIANNA",
+        "GPSX": 6539046.62,
+        "GPSY": 1757490.67,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2012-04-10T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1998-02-12T00:00:00.000Z",
+        "LICCATDESC": "Contract Sewing (one machine)",
+        "LICENSEDTTM": "1998-02-12T00:00:00.000Z",
+        "LICENSENO": "BU98005240",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-04-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 149761,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3551  FELA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contract Sewing (one machine)",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

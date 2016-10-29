@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18920854114056,
+            33.83652711010163
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "JUST RIGHT HOME CARE",
+        "EXPDTTM": "2006-05-18T00:00:00.000Z",
+        "EXPDTTM_IN": "5/18/2006",
+        "FULLNAME": "JUST RIGHT HELP SERVICES INC",
+        "GPSX": 6504205.35666667,
+        "GPSY": 1762944.6875,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-05-18T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1991-05-18T00:00:00.000Z",
+        "LICCATDESC": "Employment Agency",
+        "LICENSEDTTM": "2000-12-29T00:00:00.000Z",
+        "LICENSENO": "BU20050110",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-04-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 7,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 178264,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4300  LONG BEACH BLVD 160",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Employment Agency",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

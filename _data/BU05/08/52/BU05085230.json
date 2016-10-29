@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19997052175529,
+            33.766804916416035
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "ABM PARKING SERVICES",
+        "EXPDTTM": "2013-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2013",
+        "FULLNAME": "AMPCO AUTO PARKS INC",
+        "GPSX": 6500886.54333334,
+        "GPSY": 1737577.25166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-05-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1983-05-01T00:00:00.000Z",
+        "LICCATDESC": "Parking Service Lot",
+        "LICENSEDTTM": "1983-05-01T00:00:00.000Z",
+        "LICENSENO": "BU05085230",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-04-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 13515,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "200  OCEANGATE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Parking Service Lot",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

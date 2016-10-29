@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18888893411285,
+            33.830919702318134
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "ADAM VELASCO D.C.",
+        "EXPDTTM": "2017-01-08T00:00:00.000Z",
+        "EXPDTTM_IN": "1/8/2017",
+        "FULLNAME": "ADAM D.C. VELASCO",
+        "GPSX": 6504298.58416666,
+        "GPSY": 1760903.8275,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2015-06-11T00:00:00.000Z",
+        "LICCATDESC": "Chiropractics",
+        "LICENSEDTTM": "2015-06-11T00:00:00.000Z",
+        "LICENSENO": "BU21517100",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-01-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 116003,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4000  LONG BEACH BLVD 105",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Chiropractics",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

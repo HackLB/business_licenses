@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.203201111503,
+            33.87456361035765
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "SHELL",
+        "EXPDTTM": "2017-01-09T00:00:00.000Z",
+        "EXPDTTM_IN": "1/9/2017",
+        "FULLNAME": "TAWWAKAL CORPORATION",
+        "GPSX": 6499983.9,
+        "GPSY": 1776795.39,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-01-09T00:00:00.000Z",
+        "LICCATDESC": "Gas Station",
+        "LICENSEDTTM": "2005-02-07T00:00:00.000Z",
+        "LICENSENO": "BU20507230",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-01-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 144321,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6605  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Gas Station",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

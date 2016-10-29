@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17837260861738,
+            33.86037055782661
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2017-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2017",
+        "FULLNAME": "LOREN FERRIS",
+        "GPSX": 6507511.54833333,
+        "GPSY": 1771615.89166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2015-09-01T00:00:00.000Z",
+        "LICCATDESC": "Pet Grooming",
+        "LICENSEDTTM": "2015-09-01T00:00:00.000Z",
+        "LICENSENO": "BU21523432",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-09-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 98096,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1131  SOUTH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pet Grooming",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

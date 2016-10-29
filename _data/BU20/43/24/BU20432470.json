@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17926271509826,
+            33.81871150116159
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "DARNELL HOME HEALTH SERVICES",
+        "EXPDTTM": "2005-10-10T00:00:00.000Z",
+        "EXPDTTM_IN": "10/10/2005",
+        "FULLNAME": "DARNELL HOME HEALTH SERVICES INC",
+        "GPSX": 6507214.26833333,
+        "GPSY": 1756455.595,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-10-10T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1996-09-26T00:00:00.000Z",
+        "LICCATDESC": "Employment Agency",
+        "LICENSEDTTM": "2004-07-15T00:00:00.000Z",
+        "LICENSENO": "BU20432470",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-10-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 24,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 41621,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1050 E WARDLOW RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Employment Agency",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

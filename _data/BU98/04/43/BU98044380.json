@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19419771879164,
+            33.831741030964196
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "BARTLETT ROOFING",
+        "EXPDTTM": "2016-11-14T00:00:00.000Z",
+        "EXPDTTM_IN": "11/14/2016",
+        "FULLNAME": "DENNIS BARTLETT",
+        "GPSX": 6502686.815,
+        "GPSY": 1761205.8025,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1991-11-20T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Roofing",
+        "LICENSEDTTM": "1998-11-12T00:00:00.000Z",
+        "LICENSENO": "BU98044380",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-11-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 53246,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "110 W SAN ANTONIO DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Roofing",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13694587798412,
+            33.78283819308589
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "INTERACTIVE CONSTRUCTION CO",
+        "EXPDTTM": "2010-09-03T00:00:00.000Z",
+        "EXPDTTM_IN": "9/3/2010",
+        "FULLNAME": "INTERACTIVE CONSTRUCTION CO INC",
+        "GPSX": 6520050.53,
+        "GPSY": 1743380.11,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-09-03T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2007-06-07T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Building",
+        "LICENSEDTTM": "2007-06-07T00:00:00.000Z",
+        "LICENSENO": "BU20725030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-08-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 142522,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4801 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Building",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

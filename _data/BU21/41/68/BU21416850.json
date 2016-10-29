@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1186193443404,
+            33.79152083909521
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Wholesale",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "BROADLEAF MEDICAL SUPPLY",
+        "EXPDTTM": "2014-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2014",
+        "FULLNAME": "JAMES P SCHILTZ",
+        "GPSX": 6525623.46,
+        "GPSY": 1746532.88583333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2014-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2014-05-19T00:00:00.000Z",
+        "LICCATDESC": "Direct Sales Product Distribution",
+        "LICENSEDTTM": "2014-05-19T00:00:00.000Z",
+        "LICENSENO": "BU21416850",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-05-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 119054,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5836  GARFORD ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Direct Sales Product Distribution",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

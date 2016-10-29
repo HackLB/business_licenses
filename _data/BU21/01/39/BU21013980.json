@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1200246020677,
+            33.774160031708384
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "D1 SALON",
+        "EXPDTTM": "2012-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2012",
+        "FULLNAME": "LUANNE HORNER",
+        "GPSX": 6525188.92,
+        "GPSY": 1740215.31,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2009-03-31T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty (booth )",
+        "LICENSEDTTM": "2010-04-30T00:00:00.000Z",
+        "LICENSENO": "BU21013980",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-06-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 94169,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5751 E PACIFIC COAST HWY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Barber/Beauty (booth )",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16805016989844,
+            33.84656975702392
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "CMSI #109",
+        "EXPDTTM": "2015-03-22T00:00:00.000Z",
+        "EXPDTTM_IN": "3/22/2015",
+        "FULLNAME": "CONVENIENCE MANAGEMENT SERVICE INC",
+        "GPSX": 6510637.11,
+        "GPSY": 1766588.04,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-03-22T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2013-03-25T00:00:00.000Z",
+        "LICCATDESC": "Gas Station",
+        "LICENSEDTTM": "2013-03-25T00:00:00.000Z",
+        "LICENSENO": "BU21309450",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-11-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 174529,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1990 E DEL AMO BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Gas Station",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

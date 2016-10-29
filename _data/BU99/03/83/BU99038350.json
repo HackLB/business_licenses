@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19200813758724,
+            33.76961657976503
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "FLEXO HINER & PARTNERS INC",
+        "EXPDTTM": "2006-02-05T00:00:00.000Z",
+        "EXPDTTM_IN": "2/5/2006",
+        "FULLNAME": "FLEXO HINER & PARTNERS INC",
+        "GPSX": 6503308.625,
+        "GPSY": 1738595.77666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-02-05T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1996-02-29T00:00:00.000Z",
+        "LICCATDESC": "Marketing",
+        "LICENSEDTTM": "1999-10-11T00:00:00.000Z",
+        "LICENSENO": "BU99038350",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-03-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 28234,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "200  PINE AVE 600",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Marketing",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13988451026091,
+            33.790855282171556
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "WILLIAM F CLARK MD",
+        "EXPDTTM": "2011-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2011",
+        "FULLNAME": "WILLIAM F CLARK MD",
+        "GPSX": 6519161.5775,
+        "GPSY": 1746298.98,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-05-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2002-05-17T00:00:00.000Z",
+        "LICCATDESC": "Psychiatry",
+        "LICENSEDTTM": "2008-05-16T00:00:00.000Z",
+        "LICENSENO": "BU20823940",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-07-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 23458,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4525  ATHERTON ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Psychiatry",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

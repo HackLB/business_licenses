@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16135063265726,
+            33.7702481119333
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "DEVIL DOLLS PRODUCTIONS",
+        "EXPDTTM": "2007-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2007",
+        "FULLNAME": "DEVIL DOLLS PRODUCTIONS LLC",
+        "GPSX": 6512626.88166667,
+        "GPSY": 1738809.23083333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2007-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2005-03-16T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "2006-09-14T00:00:00.000Z",
+        "LICENSENO": "BU20645500",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-09-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 99487,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "360  WISCONSIN AVE 301",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

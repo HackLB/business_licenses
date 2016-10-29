@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18920854114056,
+            33.83652711010163
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2006-07-02T00:00:00.000Z",
+        "EXPDTTM_IN": "7/2/2006",
+        "FULLNAME": "ACCENT CARE INC",
+        "GPSX": 6504205.35666667,
+        "GPSY": 1762944.6875,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-07-02T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2003-08-05T00:00:00.000Z",
+        "LICCATDESC": "Nurses Registry",
+        "LICENSEDTTM": "2003-08-05T00:00:00.000Z",
+        "LICENSENO": "BU20337240",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-10-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 44959,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4300  LONG BEACH BLVD 160",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Nurses Registry",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

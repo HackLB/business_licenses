@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16955832468297,
+            33.812673243220864
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Wholesale",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2015-01-02T00:00:00.000Z",
+        "EXPDTTM_IN": "1/2/2015",
+        "FULLNAME": "SAS SAFETY CORP",
+        "GPSX": 6510158.34,
+        "GPSY": 1754253,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-01-02T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2006-01-19T00:00:00.000Z",
+        "LICCATDESC": "Wholesale",
+        "LICENSEDTTM": "2006-01-19T00:00:00.000Z",
+        "LICENSENO": "BU20603150",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-02-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 43,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 168688,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3031  GARDENIA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Wholesale",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

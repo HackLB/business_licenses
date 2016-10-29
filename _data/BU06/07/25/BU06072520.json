@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19412637757469,
+            33.773455784551956
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "YOUNG HORIZONS",
+        "EXPDTTM": "2015-09-06T00:00:00.000Z",
+        "EXPDTTM_IN": "9/6/2015",
+        "FULLNAME": "YOUNG HORIZONS",
+        "GPSX": 6502667.51666667,
+        "GPSY": 1739994.2075,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-09-06T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1984-09-01T00:00:00.000Z",
+        "LICCATDESC": "Day Care/Preschool",
+        "LICENSEDTTM": "1984-09-01T00:00:00.000Z",
+        "LICENSENO": "BU06072520",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-06-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 70827,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": null,
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "507  PACIFIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Day Care/Preschool",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

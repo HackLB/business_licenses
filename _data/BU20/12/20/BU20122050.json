@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19001411433517,
+            33.7675268612497
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2006-01-26T00:00:00.000Z",
+        "EXPDTTM_IN": "1/26/2006",
+        "FULLNAME": "PRO-TEM SOLUTIONS INC",
+        "GPSX": 6503913.24083333,
+        "GPSY": 1737834.1175,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-01-26T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1994-09-26T00:00:00.000Z",
+        "LICCATDESC": "Employment Agency",
+        "LICENSEDTTM": "2001-05-29T00:00:00.000Z",
+        "LICENSENO": "BU20122050",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-01-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 10,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 127399,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "249 E OCEAN BLVD 912",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Employment Agency",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

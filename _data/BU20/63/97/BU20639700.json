@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19082874829782,
+            33.76946899845592
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2014-07-15T00:00:00.000Z",
+        "EXPDTTM_IN": "7/15/2014",
+        "FULLNAME": "EDEN L PAUL",
+        "GPSX": 6503666.98083333,
+        "GPSY": 1738541.385,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2014-07-15T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1999-07-26T00:00:00.000Z",
+        "LICCATDESC": "Instructor/Personal Trainer",
+        "LICENSEDTTM": "2006-08-14T00:00:00.000Z",
+        "LICENSENO": "BU20639700",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-09-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 105586,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "207 E BROADWAY  701",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Instructor/Personal Trainer",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

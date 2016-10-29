@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18283430472403,
+            33.8386978929313
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2014-08-16T00:00:00.000Z",
+        "EXPDTTM_IN": "8/16/2014",
+        "FULLNAME": "STANSBURY, THOMAS W DDS INC",
+        "GPSX": 6506142.6025,
+        "GPSY": 1763731.1075,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-08-16T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1979-08-01T00:00:00.000Z",
+        "LICCATDESC": "Dentist",
+        "LICENSEDTTM": "1979-08-01T00:00:00.000Z",
+        "LICENSENO": "BU04009770",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-08-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 103285,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": null,
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "911 E SAN ANTONIO DR 3",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dentist",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1170617803999,
+            33.805649453402935
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "SUITE REPOSE",
+        "EXPDTTM": "2012-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2012",
+        "FULLNAME": "LILLIAN ZELLMER",
+        "GPSX": 6526102.72333333,
+        "GPSY": 1751674.11833333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2012-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2005-01-10T00:00:00.000Z",
+        "LICCATDESC": "Sales Representative",
+        "LICENSEDTTM": "2005-01-10T00:00:00.000Z",
+        "LICENSENO": "BU20501700",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-01-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 12044,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5872  ROGENE ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Sales Representative",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

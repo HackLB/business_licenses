@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14233386212152,
+            33.762113247686564
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "BEL SHORE MOTEL",
+        "EXPDTTM": "2013-09-19T00:00:00.000Z",
+        "EXPDTTM_IN": "9/19/2013",
+        "FULLNAME": "JOHN COLANGELO",
+        "GPSX": 6518402.51,
+        "GPSY": 1735839.99,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-09-19T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1962-10-01T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "1962-10-01T00:00:00.000Z",
+        "LICENSENO": "BU01029360",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-11-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 118093,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4312  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

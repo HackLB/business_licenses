@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15964955051136,
+            33.87539492704603
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "HOBO CAR WASH #7",
+        "EXPDTTM": "2011-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2011",
+        "FULLNAME": "R T GOLEC",
+        "GPSX": 6513204.67333333,
+        "GPSY": 1777074.06416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1983-10-01T00:00:00.000Z",
+        "LICCATDESC": "Car Wash",
+        "LICENSEDTTM": "1983-10-01T00:00:00.000Z",
+        "LICENSENO": "BU06004170",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-10-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 73886,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": null,
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6650  PARAMOUNT BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Car Wash",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

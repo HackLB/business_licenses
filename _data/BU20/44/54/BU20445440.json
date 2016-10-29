@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15761560415449,
+            33.860474239372884
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "LAKEWOOD AUTO CARE",
+        "EXPDTTM": "2005-10-10T00:00:00.000Z",
+        "EXPDTTM_IN": "10/10/2005",
+        "FULLNAME": "LAKEWOOD AUTO CARE INC",
+        "GPSX": 6513813.5675,
+        "GPSY": 1771643.09166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-10-10T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-10-03T00:00:00.000Z",
+        "LICCATDESC": "Auto Repair ??? General",
+        "LICENSEDTTM": "2004-09-30T00:00:00.000Z",
+        "LICENSENO": "BU20445440",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-10-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 125378,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2903  SOUTH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto Repair ??? General",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

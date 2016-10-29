@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13289458616404,
+            33.8021955204809
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "CLEANDOM",
+        "EXPDTTM": "2009-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2009",
+        "FULLNAME": "LUKAS VETRAK",
+        "GPSX": 6521290.98,
+        "GPSY": 1750423.12,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2009-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2008-04-23T00:00:00.000Z",
+        "LICCATDESC": "Janitorial Service",
+        "LICENSEDTTM": "2008-04-22T00:00:00.000Z",
+        "LICENSENO": "BU20818820",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-05-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 102118,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5154 E 25TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Janitorial Service",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

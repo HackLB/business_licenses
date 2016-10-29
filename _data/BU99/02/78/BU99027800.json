@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19336544094095,
+            33.798541512624304
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "ALLIANCE HEALTH PACIFIC CLINIC",
+        "EXPDTTM": "2009-06-15T00:00:00.000Z",
+        "EXPDTTM_IN": "6/15/2009",
+        "FULLNAME": "WESTERN HEALTH COMMUNITY CLINICS",
+        "GPSX": 6502916.34333333,
+        "GPSY": 1749123.145,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-06-15T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1986-04-01T00:00:00.000Z",
+        "LICCATDESC": "Medical Office/Clinic",
+        "LICENSEDTTM": "1999-07-28T00:00:00.000Z",
+        "LICENSENO": "BU99027800",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-07-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 91160,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2272  PACIFIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Medical Office/Clinic",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

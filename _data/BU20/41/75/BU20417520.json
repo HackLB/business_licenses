@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16199052960468,
+            33.76867030243915
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2005-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2005",
+        "FULLNAME": "UNITED AVENUES INC",
+        "GPSX": 6512431.47083333,
+        "GPSY": 1738235.334167,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2005-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2004-04-19T00:00:00.000Z",
+        "LICCATDESC": "Property Management",
+        "LICENSEDTTM": "2004-04-19T00:00:00.000Z",
+        "LICENSENO": "BU20417520",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-01-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 122708,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "319  WISCONSIN AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Property Management",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

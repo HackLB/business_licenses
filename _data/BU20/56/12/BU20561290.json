@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13533723222292,
+            33.767089050606344
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2011-10-04T00:00:00.000Z",
+        "EXPDTTM_IN": "10/4/2011",
+        "FULLNAME": "ANESTHETISTS OF LOS ANGELES INC",
+        "GPSX": 6520531.66,
+        "GPSY": 1737647.89,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2011-10-04T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2005-11-28T00:00:00.000Z",
+        "LICCATDESC": "Nurses Registry",
+        "LICENSEDTTM": "2005-11-28T00:00:00.000Z",
+        "LICENSENO": "BU20561290",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-12-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 26102,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "287  ARGONNE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Nurses Registry",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

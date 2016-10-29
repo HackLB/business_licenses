@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16027592837197,
+            33.76717295332039
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "ENV AMERICA INCORPORATED",
+        "EXPDTTM": "2016-03-03T00:00:00.000Z",
+        "EXPDTTM_IN": "3/3/2016",
+        "FULLNAME": "ENV AMERICA INCORPORATED",
+        "GPSX": 6512951.735,
+        "GPSY": 1737689.57083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2008-03-03T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Engineering",
+        "LICENSEDTTM": "2010-06-02T00:00:00.000Z",
+        "LICENSENO": "BU21018020",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-04-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 128297,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "280  MOLINO AVE 303",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Engineering",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

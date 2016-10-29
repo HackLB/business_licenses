@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18842679913654,
+            33.77565514268207
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "CCS",
+        "EXPDTTM": "2017-06-22T00:00:00.000Z",
+        "EXPDTTM_IN": "6/22/2017",
+        "FULLNAME": "CONTINENTAL CURRENCY SERVICES INC",
+        "GPSX": 6504401.23833333,
+        "GPSY": 1740791.31916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2000-06-15T00:00:00.000Z",
+        "LICCATDESC": "Check Cashing",
+        "LICENSEDTTM": "2008-04-01T00:00:00.000Z",
+        "LICENSENO": "BU20815030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 77520,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "335 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Check Cashing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

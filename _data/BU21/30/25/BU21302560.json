@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18562765112769,
+            33.85075661157896
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "S.O.S TAX SERVICES",
+        "EXPDTTM": "2015-01-15T00:00:00.000Z",
+        "EXPDTTM_IN": "1/15/2015",
+        "FULLNAME": "SOBON SOURN",
+        "GPSX": 6505302.41,
+        "GPSY": 1768121.13,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2013-01-25T00:00:00.000Z",
+        "LICCATDESC": "Tax Preparation",
+        "LICENSEDTTM": "2013-01-25T00:00:00.000Z",
+        "LICENSENO": "BU21302560",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "CollcInBus",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-03-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 134863,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "509 E 52ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tax Preparation",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

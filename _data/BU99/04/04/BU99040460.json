@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1193715446082,
+            33.75603219725849
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2002-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2002",
+        "FULLNAME": "CANAM TECHNOLOGY INC",
+        "GPSX": 6525379.56166667,
+        "GPSY": 1733617.8325,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2002-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1998-12-01T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "1999-10-22T00:00:00.000Z",
+        "LICENSENO": "BU99040460",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2002-11-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 154865,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5855  NAPLES PLZ 105",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

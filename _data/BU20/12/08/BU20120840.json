@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15491302149222,
+            33.80939667625894
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2016-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2016",
+        "FULLNAME": "TGIS CATERING INC",
+        "GPSX": 6514605.44,
+        "GPSY": 1753053.39,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2001-05-18T00:00:00.000Z",
+        "LICCATDESC": "Catering/Party Consulting",
+        "LICENSEDTTM": "2001-05-18T00:00:00.000Z",
+        "LICENSENO": "BU20120840",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-11-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 52924,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2950  AIRPORT LN",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Catering/Party Consulting",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

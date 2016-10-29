@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13905003867576,
+            33.824169603000264
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Non-Residential Property",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2006-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2006",
+        "FULLNAME": "THE BOEING CO",
+        "GPSX": 6519431.91,
+        "GPSY": 1758422.6,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1985-11-01T00:00:00.000Z",
+        "LICCATDESC": "Commercial/Industrial Space  Rental",
+        "LICENSEDTTM": "2006-08-07T00:00:00.000Z",
+        "LICENSENO": "BU07058111",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-08-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 119447,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3855  LAKEWOOD BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Commercial/Industrial Space  Rental",
+        "ZIP": "90846"
+    },
+    "type": "Feature"
+}

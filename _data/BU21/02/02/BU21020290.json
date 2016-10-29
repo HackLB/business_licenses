@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20277761114184,
+            33.86544848122136
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2017-05-05T00:00:00.000Z",
+        "EXPDTTM_IN": "5/5/2017",
+        "FULLNAME": "WILLIAM M STRINGFIELD",
+        "GPSX": 6500105.76333333,
+        "GPSY": 1773477.91833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1980-05-01T00:00:00.000Z",
+        "LICCATDESC": "Financial Services ??? Other",
+        "LICENSEDTTM": "2010-06-24T00:00:00.000Z",
+        "LICENSENO": "BU21020290",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 170442,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "105  VICTORIA ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Financial Services ??? Other",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

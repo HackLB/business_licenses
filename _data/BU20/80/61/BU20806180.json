@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21989819408884,
+            33.78855969482156
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Non-Residential Property",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "WEST COAST SHIP SUPPLY",
+        "EXPDTTM": "2014-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2014",
+        "FULLNAME": "MARWEST LLC",
+        "GPSX": 6494846.94833334,
+        "GPSY": 1745507.06583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2008-01-01T00:00:00.000Z",
+        "LICCATDESC": "Warehousing",
+        "LICENSEDTTM": "2008-02-07T00:00:00.000Z",
+        "LICENSENO": "BU20806180",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-08-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 40190,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2037 W 17TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Warehousing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10134808703704,
+            33.78248804877329
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Residential Property",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "LOGICAL PROPERTY MANAGEMENT",
+        "EXPDTTM": "2003-10-07T00:00:00.000Z",
+        "EXPDTTM_IN": "10/7/2003",
+        "FULLNAME": "ANDREW BRAMGLETT",
+        "GPSX": 6530868.12,
+        "GPSY": 1743239.86,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2003-12-02T00:00:00.000Z",
+        "LICCATDESC": "Room & Board",
+        "LICENSEDTTM": "2003-12-02T00:00:00.000Z",
+        "LICENSENO": "BU20355420",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Denied",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-12-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 4,
+        "NUMVEH": 0,
+        "OBJECTID": 159889,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6728  ALMADA ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Room & Board",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

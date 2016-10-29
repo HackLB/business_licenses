@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19275558245157,
+            33.78290588328601
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2017-02-20T00:00:00.000Z",
+        "EXPDTTM_IN": "2/20/2017",
+        "FULLNAME": "THE GUIDANCE CENTER",
+        "GPSX": 6503090.725,
+        "GPSY": 1743432.55916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2013-08-27T00:00:00.000Z",
+        "LICCATDESC": "Psychology",
+        "LICENSEDTTM": "2013-08-27T00:00:00.000Z",
+        "LICENSENO": "BU21325940",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-02-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 150,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 163612,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1301  PINE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Psychology",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

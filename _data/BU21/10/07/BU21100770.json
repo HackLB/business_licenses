@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18856034385628,
+            33.85456095152681
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "HIS NESTING PLACE",
+        "EXPDTTM": "2017-01-10T00:00:00.000Z",
+        "EXPDTTM_IN": "1/10/2017",
+        "FULLNAME": "HIS NESTING PLACE",
+        "GPSX": 6504414.52083333,
+        "GPSY": 1769507.28,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2011-01-10T00:00:00.000Z",
+        "LICCATDESC": "Shelter",
+        "LICENSEDTTM": "2011-01-10T00:00:00.000Z",
+        "LICENSENO": "BU21100770",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-01-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 10877,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "359 E MARKET ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Shelter",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

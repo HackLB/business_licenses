@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.22055313145016,
+            33.78491440725004
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "BAKER MARINE",
+        "EXPDTTM": "2004-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2004",
+        "FULLNAME": "DAVID BAKER",
+        "GPSX": 6494645.02416667,
+        "GPSY": 1744180.8825,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2003-10-29T00:00:00.000Z",
+        "LICCATDESC": "Boat Repair",
+        "LICENSEDTTM": "2003-10-29T00:00:00.000Z",
+        "LICENSENO": "BU20350750",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Denied",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-07-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 28604,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2131  COWLES ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Boat Repair",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

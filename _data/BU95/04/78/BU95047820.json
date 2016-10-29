@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12228435217746,
+            33.77580959360424
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "MOTEL 6 #1312",
+        "EXPDTTM": "2013-09-28T00:00:00.000Z",
+        "EXPDTTM_IN": "9/28/2013",
+        "FULLNAME": "MOTEL 6 OPERATING L P",
+        "GPSX": 6524502.87,
+        "GPSY": 1740816.46,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-09-28T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1986-12-01T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "1995-12-20T00:00:00.000Z",
+        "LICENSENO": "BU95047820",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 10,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 45422,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5665 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

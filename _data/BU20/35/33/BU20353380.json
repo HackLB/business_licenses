@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18892025096979,
+            33.821066389715625
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "EMERALD FINANCIAL",
+        "EXPDTTM": "2009-07-17T00:00:00.000Z",
+        "EXPDTTM_IN": "7/17/2009",
+        "FULLNAME": "EMERALD VILLA INC",
+        "GPSX": 6504282.33333333,
+        "GPSY": 1757317.9725,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-07-17T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2003-08-11T00:00:00.000Z",
+        "LICCATDESC": "Financial Services ??? Other",
+        "LICENSEDTTM": "2003-11-17T00:00:00.000Z",
+        "LICENSENO": "BU20353380",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-08-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 27955,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3530  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Financial Services ??? Other",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

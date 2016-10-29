@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15077267818492,
+            33.78287937260315
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "BELMONT AUTO SPA",
+        "EXPDTTM": "2010-07-27T00:00:00.000Z",
+        "EXPDTTM_IN": "7/27/2010",
+        "FULLNAME": "REDONDO ANAHEIM CAR WASH INC",
+        "GPSX": 6515848.76416667,
+        "GPSY": 1743401.11,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-07-27T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2005-07-28T00:00:00.000Z",
+        "LICCATDESC": "Car Wash",
+        "LICENSEDTTM": "2005-07-28T00:00:00.000Z",
+        "LICENSENO": "BU20539640",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-10-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 130058,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3525 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Car Wash",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

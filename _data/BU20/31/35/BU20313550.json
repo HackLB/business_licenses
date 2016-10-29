@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1460741294731,
+            33.80812856037603
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2009-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2009",
+        "FULLNAME": "CUBA TRAVEL SERVICES INC",
+        "GPSX": 6517289.94583333,
+        "GPSY": 1752587.86833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2000-09-20T00:00:00.000Z",
+        "LICCATDESC": "Travel Agency",
+        "LICENSEDTTM": "2003-03-21T00:00:00.000Z",
+        "LICENSENO": "BU20313550",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-06-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 7,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 26915,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3760  KILROY AIRPORT WAY 570",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Travel Agency",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

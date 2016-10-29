@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13237431484355,
+            33.783455768078504
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2016-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2016",
+        "FULLNAME": "AMERICAN LENDING",
+        "GPSX": 6521440.06583333,
+        "GPSY": 1743603.00166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2011-12-14T00:00:00.000Z",
+        "LICCATDESC": "Financial Services ??? Other",
+        "LICENSEDTTM": "2011-12-14T00:00:00.000Z",
+        "LICENSENO": "BU21139280",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-12-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 88904,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5199 E PACIFIC COAST HWY 410",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Financial Services ??? Other",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

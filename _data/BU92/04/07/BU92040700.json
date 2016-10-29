@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19331564280535,
+            33.81256658888976
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "GRAND PRIX ASSOCIATION OF LONG BEACH",
+        "EXPDTTM": "2005-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2005",
+        "FULLNAME": "GRAND PRIX ASSOCIATION OF",
+        "GPSX": 6502941.29,
+        "GPSY": 1754227.2125,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1992-08-31T00:00:00.000Z",
+        "LICCATDESC": "Promoting",
+        "LICENSEDTTM": "1992-08-31T00:00:00.000Z",
+        "LICENSENO": "BU92040700",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-06-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 20,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 6649,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3000  PACIFIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Promoting",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18803907923547,
+            33.80542610062566
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "MARK GUINAN",
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "QUEST DIAGNOSTICS INC #UR9",
+        "EXPDTTM": "2017-08-03T00:00:00.000Z",
+        "EXPDTTM_IN": "8/3/2017",
+        "FULLNAME": "QUEST DIAGNOSTICS INC",
+        "GPSX": 6504539.34,
+        "GPSY": 1751625.56,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2015-08-03T00:00:00.000Z",
+        "LICCATDESC": "Laboratory - Medical/Dental",
+        "LICENSEDTTM": "2015-08-11T00:00:00.000Z",
+        "LICENSENO": "BU21522980",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 928,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2650  ELM AVE 101",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laboratory - Medical/Dental",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17271579175247,
+            33.78174923070446
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "SKYLIGHT CONVALESCENT HOSPITAL",
+        "EXPDTTM": "2007-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2007",
+        "FULLNAME": "JASMINE HEALTHCARE SERVICES, LLC",
+        "GPSX": 6509179.83,
+        "GPSY": 1743000.55,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2004-10-21T00:00:00.000Z",
+        "LICCATDESC": "Convalescent Hospital or Home",
+        "LICENSEDTTM": "2004-10-21T00:00:00.000Z",
+        "LICENSENO": "BU20449650",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-03-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 65,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 76901,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1201  WALNUT AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Convalescent Hospital or Home",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

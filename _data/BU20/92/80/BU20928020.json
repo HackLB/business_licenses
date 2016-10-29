@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10636425018933,
+            33.80836916724736
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2010-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2010",
+        "FULLNAME": "STERLING INSPECTION LLC",
+        "GPSX": 6529353.73166667,
+        "GPSY": 1752660.28333333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2010-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2009-07-23T00:00:00.000Z",
+        "LICCATDESC": "General Services ??? Other",
+        "LICENSEDTTM": "2009-07-23T00:00:00.000Z",
+        "LICENSENO": "BU20928020",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-07-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 48449,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2851  IROQUOIS AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "General Services ??? Other",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

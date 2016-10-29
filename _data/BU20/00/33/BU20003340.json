@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15868033568617,
+            33.86153436052977
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "UNITED RENTALS",
+        "EXPDTTM": "2015-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2015",
+        "FULLNAME": "UNITED RENTALS NORTHWEST INC",
+        "GPSX": 6513490.9175,
+        "GPSY": 1772029.40416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-01-24T00:00:00.000Z",
+        "LICCATDESC": "Rentals - Misc.",
+        "LICENSEDTTM": "2000-01-24T00:00:00.000Z",
+        "LICENSENO": "BU20003340",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-11-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 31,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 110297,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5860  PARAMOUNT BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Rentals - Misc.",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

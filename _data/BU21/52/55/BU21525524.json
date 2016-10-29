@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18283430472403,
+            33.8386978929313
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2016-12-10T00:00:00.000Z",
+        "EXPDTTM_IN": "12/10/2016",
+        "FULLNAME": "MARIA F WESTON",
+        "GPSX": 6506142.6025,
+        "GPSY": 1763731.1075,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2015-12-10T00:00:00.000Z",
+        "LICCATDESC": "Massage/Body Wrap Tech",
+        "LICENSEDTTM": "2015-12-08T00:00:00.000Z",
+        "LICENSENO": "BU21525524",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-01-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 30804,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "911 E SAN ANTONIO DR 5",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Massage/Body Wrap Tech",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

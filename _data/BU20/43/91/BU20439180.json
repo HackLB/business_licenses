@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16955822393963,
+            33.78144538916832
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "MEAS PRIVATE SECURITY",
+        "EXPDTTM": "2009-06-01T00:00:00.000Z",
+        "EXPDTTM_IN": "6/1/2009",
+        "FULLNAME": "VIBOL MEAS",
+        "GPSX": 6510139.2,
+        "GPSY": 1742888.34,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2009-06-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2000-06-01T00:00:00.000Z",
+        "LICCATDESC": "Private Patrol Operator",
+        "LICENSEDTTM": "2004-08-20T00:00:00.000Z",
+        "LICENSENO": "BU20439180",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-10-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 123323,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1122  ROSE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Private Patrol Operator",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

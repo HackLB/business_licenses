@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19263891198288,
+            33.76643129008539
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "CLUB 49",
+        "EXPDTTM": "2004-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2004",
+        "FULLNAME": "GOURMET PROPERTIES LLC",
+        "GPSX": 6503114.68916667,
+        "GPSY": 1737436.92666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1999-02-10T00:00:00.000Z",
+        "LICCATDESC": "Hall Rental",
+        "LICENSEDTTM": "1999-02-10T00:00:00.000Z",
+        "LICENSENO": "BU99005150",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-05-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 47853,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "49 S PINE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Hall Rental",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

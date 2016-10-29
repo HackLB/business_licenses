@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15219856858829,
+            33.764643682034304
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "KIKI ORIGINALS",
+        "EXPDTTM": "2008-02-02T00:00:00.000Z",
+        "EXPDTTM_IN": "2/2/2008",
+        "FULLNAME": "KIM KESSLER",
+        "GPSX": 6515405.405833,
+        "GPSY": 1736765.280833,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-12-03T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2000-01-31T00:00:00.000Z",
+        "LICCATDESC": "Tailoring",
+        "LICENSEDTTM": "2007-12-06T00:00:00.000Z",
+        "LICENSENO": "BU20751100",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 82034,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3403 E BROADWAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tailoring",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

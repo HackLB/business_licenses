@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1771016303666,
+            33.841663061885974
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2016-10-23T00:00:00.000Z",
+        "EXPDTTM_IN": "10/23/2016",
+        "FULLNAME": "HARBOR REGIONAL CENTER",
+        "GPSX": 6507885.43,
+        "GPSY": 1764807.09,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1996-02-02T00:00:00.000Z",
+        "LICCATDESC": "Professional Services - Other",
+        "LICENSEDTTM": "2003-10-23T00:00:00.000Z",
+        "LICENSENO": "BU20349650",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-10-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 113979,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1155 E SAN ANTONIO DR B",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Professional Services - Other",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

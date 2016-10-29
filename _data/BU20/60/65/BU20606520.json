@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19524854683327,
+            33.851491668175996
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "SOUTH COAST DESIGN & PLANNING",
+        "EXPDTTM": "2006-10-25T00:00:00.000Z",
+        "EXPDTTM_IN": "10/25/2006",
+        "FULLNAME": "SOUTH COAST DESIGN & PLANNING INC",
+        "GPSX": 6502381.63,
+        "GPSY": 1768394.17,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-10-25T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2005-10-19T00:00:00.000Z",
+        "LICCATDESC": "Architecture",
+        "LICENSEDTTM": "2006-02-03T00:00:00.000Z",
+        "LICENSENO": "BU20606520",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-02-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 81420,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5256  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Architecture",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

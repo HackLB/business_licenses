@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18761238435982,
+            33.78207425692358
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "AMIGOS CHECK CASHING",
+        "EXPDTTM": "2013-03-18T00:00:00.000Z",
+        "EXPDTTM_IN": "3/18/2013",
+        "FULLNAME": "S & E ENTERPRISE INC",
+        "GPSX": 6504653.11,
+        "GPSY": 1743126.95,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-03-18T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2005-03-14T00:00:00.000Z",
+        "LICCATDESC": "Check Cashing",
+        "LICENSEDTTM": "2005-03-14T00:00:00.000Z",
+        "LICENSENO": "BU20513140",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-05-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 127375,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "400 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Check Cashing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

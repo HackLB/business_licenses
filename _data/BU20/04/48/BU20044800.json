@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13277368703126,
+            33.783457069050584
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "MICHAEL R DUVALL AND COMPANY",
+        "EXPDTTM": "2003-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2003",
+        "FULLNAME": "MICHAEL DUVALL",
+        "GPSX": 6521318.70333333,
+        "GPSY": 1743603.635,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1984-11-01T00:00:00.000Z",
+        "LICCATDESC": "Accounting",
+        "LICENSEDTTM": "2000-11-08T00:00:00.000Z",
+        "LICENSENO": "BU20044800",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-03-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 103235,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5175 E PACIFIC COAST HWY 202",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Accounting",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

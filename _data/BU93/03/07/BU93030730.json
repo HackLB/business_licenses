@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13538781728968,
+            33.80999070483509
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2003-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2003",
+        "FULLNAME": "MEDICAL EYE SERVICES INC",
+        "GPSX": 6520537.31458333,
+        "GPSY": 1753261.00708333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-05-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1993-06-17T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "1993-06-17T00:00:00.000Z",
+        "LICENSENO": "BU93030730",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-06-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 80,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 176978,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5000 E SPRING ST 500",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

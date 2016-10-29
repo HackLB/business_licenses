@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16416869387955,
+            33.77482426987122
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": "JESSICA MARANTZ",
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "CROSSFIT BELMONT HEIGHTS",
+        "EXPDTTM": "2017-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2017",
+        "FULLNAME": "BREAKWATER ATHLETIC LLC",
+        "GPSX": 6511773.10083333,
+        "GPSY": 1740476.01083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2015-08-24T00:00:00.000Z",
+        "LICCATDESC": "Fitness Center/Health Club",
+        "LICENSEDTTM": "2015-08-24T00:00:00.000Z",
+        "LICENSENO": "BU21523243",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 563,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2304 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Fitness Center/Health Club",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

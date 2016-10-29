@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14338589847894,
+            33.803897960712405
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "WORTHINGTON CARS & TRUCKS",
+        "EXPDTTM": "2011-05-03T00:00:00.000Z",
+        "EXPDTTM_IN": "5/3/2011",
+        "FULLNAME": "WORTHINGTON FORD INC",
+        "GPSX": 6518104.4225,
+        "GPSY": 1751047.06416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-05-03T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-05-04T00:00:00.000Z",
+        "LICCATDESC": "Auto Repair - Minor, Tune-Up, Smog Test",
+        "LICENSEDTTM": "2009-03-02T00:00:00.000Z",
+        "LICENSENO": "BU20908490",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-04-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 10,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 21821,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4201 E WILLOW ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto Repair - Minor, Tune-Up, Smog Test",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

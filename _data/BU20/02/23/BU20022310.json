@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21255173919364,
+            33.77218928574348
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2003-01-04T00:00:00.000Z",
+        "EXPDTTM_IN": "1/4/2003",
+        "FULLNAME": "WEST COAST CUSTOM YACHTS INC",
+        "GPSX": 6497066.68916667,
+        "GPSY": 1739544.62166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-01-04T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1995-01-04T00:00:00.000Z",
+        "LICCATDESC": "Boat Repair",
+        "LICENSEDTTM": "2000-05-30T00:00:00.000Z",
+        "LICENSENO": "BU20022310",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2002-11-08T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 25,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 87101,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1500  PIER C ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Boat Repair",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

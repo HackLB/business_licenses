@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17383435616829,
+            33.76947541529193
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "OFF DUTY TRAVEL",
+        "EXPDTTM": "1999-11-02T00:00:00.000Z",
+        "EXPDTTM_IN": "11/2/1999",
+        "FULLNAME": "ROBERT P MCDONNELL",
+        "GPSX": 6508832.18333333,
+        "GPSY": 1738534.35083333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-12-04T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1997-11-24T00:00:00.000Z",
+        "LICCATDESC": "Travel Agency",
+        "LICENSEDTTM": "1997-11-24T00:00:00.000Z",
+        "LICENSENO": "BU97044610",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 109527,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1400 E 3RD ST 3",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Travel Agency",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

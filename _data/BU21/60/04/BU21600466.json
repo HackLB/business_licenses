@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19960514483945,
+            33.781658742038964
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": null,
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": null,
+        "EXPDTTM_IN": null,
+        "FULLNAME": "BONNIE BOND",
+        "GPSX": 6501008.3325,
+        "GPSY": 1742982.7525,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-01-27T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": null,
+        "LICCATDESC": "Food Processing",
+        "LICENSEDTTM": "2016-01-27T00:00:00.000Z",
+        "LICENSENO": "BU21600466",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Void",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-01-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 7,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 1746,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1207  DAISY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Processing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

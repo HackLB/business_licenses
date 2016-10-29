@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14963251750362,
+            33.788538375574824
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "OCEAN LINER MODELS",
+        "EXPDTTM": "2013-10-13T00:00:00.000Z",
+        "EXPDTTM_IN": "10/13/2013",
+        "FULLNAME": "THOMAS NICOLAI",
+        "GPSX": 6516198.31,
+        "GPSY": 1745460.06,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2013-10-13T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-10-13T00:00:00.000Z",
+        "LICCATDESC": "Artist Studio (Resid)",
+        "LICENSEDTTM": "2000-10-20T00:00:00.000Z",
+        "LICENSENO": "BU20042320",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-01-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 120882,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3625 E 17TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Artist Studio (Resid)",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19216541944141,
+            33.770905422586424
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2007-07-07T00:00:00.000Z",
+        "EXPDTTM_IN": "7/7/2007",
+        "FULLNAME": "GRAHAM MANAGEMENT CORPORATION",
+        "GPSX": 6503261.71833333,
+        "GPSY": 1739064.91416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-07-07T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1982-07-01T00:00:00.000Z",
+        "LICCATDESC": "Property Management",
+        "LICENSEDTTM": "1997-07-11T00:00:00.000Z",
+        "LICENSENO": "BU97028310",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-07-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 61172,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "320  PINE AVE 1000",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Property Management",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

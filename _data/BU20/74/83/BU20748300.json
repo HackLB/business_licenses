@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18889323205815,
+            33.82956144800254
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2012-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2012",
+        "FULLNAME": "ARTHUR LORBER MD INC",
+        "GPSX": 6504296.35,
+        "GPSY": 1760409.52666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2002-08-29T00:00:00.000Z",
+        "LICCATDESC": "Medical Office/Clinic",
+        "LICENSEDTTM": "2007-11-15T00:00:00.000Z",
+        "LICENSENO": "BU20748300",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-04-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 89313,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3918  LONG BEACH BLVD 180",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Medical Office/Clinic",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

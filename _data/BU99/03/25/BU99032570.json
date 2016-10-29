@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10163805434603,
+            33.81113353246944
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "GEO-CART SYSTEMS",
+        "EXPDTTM": "2002-08-27T00:00:00.000Z",
+        "EXPDTTM_IN": "8/27/2002",
+        "FULLNAME": "JAMES A WOODS",
+        "GPSX": 6530790.54333333,
+        "GPSY": 1753664.82416667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2002-08-27T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-08-27T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "1999-08-27T00:00:00.000Z",
+        "LICENSENO": "BU99032570",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-07-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 128558,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3014  NIPOMO AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

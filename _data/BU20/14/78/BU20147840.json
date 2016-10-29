@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18463677136424,
+            33.830638654693544
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2011-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2011",
+        "FULLNAME": "C S I PATROL SERVICE INC",
+        "GPSX": 6505589.83333333,
+        "GPSY": 1760799.1475,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-11-26T00:00:00.000Z",
+        "LICCATDESC": "Private Patrol Operator",
+        "LICENSEDTTM": "2001-11-26T00:00:00.000Z",
+        "LICENSENO": "BU20147840",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-06-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 49805,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3970  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Private Patrol Operator",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

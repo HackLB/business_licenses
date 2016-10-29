@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12180884316103,
+            33.775734209555196
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "COAST CARWASH",
+        "EXPDTTM": "2011-12-15T00:00:00.000Z",
+        "EXPDTTM_IN": "12/15/2011",
+        "FULLNAME": "COAST CARWASH LP",
+        "GPSX": 6524647.35,
+        "GPSY": 1740788.85,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-12-15T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2006-12-15T00:00:00.000Z",
+        "LICCATDESC": "Car Wash",
+        "LICENSEDTTM": "2006-12-15T00:00:00.000Z",
+        "LICENSENO": "BU20659560",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-09-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 15,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 37765,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5677 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Car Wash",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

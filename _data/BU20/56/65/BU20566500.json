@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.07022516740996,
+            33.818223817857955
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Unique Businesses",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "CHARIOT RENT A CAR",
+        "EXPDTTM": "2009-01-03T00:00:00.000Z",
+        "EXPDTTM_IN": "1/3/2009",
+        "FULLNAME": "CHARIOT USA INC",
+        "GPSX": 6540335.11,
+        "GPSY": 1756237.01,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-01-03T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2005-12-29T00:00:00.000Z",
+        "LICCATDESC": "Vehicle Rental Agency",
+        "LICENSEDTTM": "2005-12-29T00:00:00.000Z",
+        "LICENSENO": "BU20566500",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-09-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 15,
+        "OBJECTID": 16591,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "8195 E WARDLOW RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Vehicle Rental Agency",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

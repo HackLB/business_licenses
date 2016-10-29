@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16072797718232,
+            33.88168922226186
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "EXACT FUMIGATION INC",
+        "EXPDTTM": "2009-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2009",
+        "FULLNAME": "EXACT FUMIGATION INC",
+        "GPSX": 6512880.9775,
+        "GPSY": 1779365.22916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2005-12-27T00:00:00.000Z",
+        "LICCATDESC": "Pest Control",
+        "LICENSEDTTM": "2005-12-28T00:00:00.000Z",
+        "LICENSENO": "BU20566340",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-03-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 30,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 151809,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2650 E 70TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pest Control",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

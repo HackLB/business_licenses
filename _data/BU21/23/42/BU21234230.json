@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.22121034107968,
+            33.78509450544601
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Non-Residential Property",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2015-10-16T00:00:00.000Z",
+        "EXPDTTM_IN": "10/16/2015",
+        "FULLNAME": "ISIS DESIGN INC",
+        "GPSX": 6494445.45583333,
+        "GPSY": 1744246.86416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-10-22T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2012-10-16T00:00:00.000Z",
+        "LICCATDESC": "Warehousing",
+        "LICENSEDTTM": "2012-10-16T00:00:00.000Z",
+        "LICENSENO": "BU21234230",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-10-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 55764,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2165  COWLES ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Warehousing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

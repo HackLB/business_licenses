@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17130661309082,
+            33.76752708235038
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "BROADWAY TAILOR SHOP",
+        "EXPDTTM": "2010-02-20T00:00:00.000Z",
+        "EXPDTTM_IN": "2/20/2010",
+        "FULLNAME": "ANA ESPINOZA",
+        "GPSX": 6509599.24583333,
+        "GPSY": 1737823.97833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-02-20T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2008-05-02T00:00:00.000Z",
+        "LICCATDESC": "Tailoring",
+        "LICENSEDTTM": "2008-05-01T00:00:00.000Z",
+        "LICENSENO": "BU20821100",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-03-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 101809,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1702 E BROADWAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tailoring",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

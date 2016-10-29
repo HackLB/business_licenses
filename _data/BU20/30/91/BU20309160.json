@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19303596746407,
+            33.768903440301074
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "GRUPO GALLEGOS",
+        "EXPDTTM": "2006-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2006",
+        "FULLNAME": "GRUPO GALLEGOS",
+        "GPSX": 6502995.73333333,
+        "GPSY": 1738336.84333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2003-01-01T00:00:00.000Z",
+        "LICCATDESC": "Advertising",
+        "LICENSEDTTM": "2003-02-25T00:00:00.000Z",
+        "LICENSENO": "BU20309160",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-02-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 13,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 24040,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "100 W BROADWAY  250",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Advertising",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

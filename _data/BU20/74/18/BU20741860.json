@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1897325936953,
+            33.822692798210866
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2017-01-15T00:00:00.000Z",
+        "EXPDTTM_IN": "1/15/2017",
+        "FULLNAME": "YMCA GLB METROPOLITAN OFFICE",
+        "GPSX": 6504036.7025,
+        "GPSY": 1757910.32916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2007-10-04T00:00:00.000Z",
+        "LICCATDESC": "PIA Only",
+        "LICENSEDTTM": "2007-10-04T00:00:00.000Z",
+        "LICENSENO": "BU20741860",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-01-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 500,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 120843,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3605  LONG BEACH BLVD 210",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "PIA Only",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

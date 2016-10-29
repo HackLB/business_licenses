@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.09693210280027,
+            33.78420482687927
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "CLEAN UP SERVICE",
+        "EXPDTTM": "2017-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2017",
+        "FULLNAME": "VERONICA AZCUE",
+        "GPSX": 6532210.69,
+        "GPSY": 1743863.32,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1994-03-03T00:00:00.000Z",
+        "LICCATDESC": "Janitorial Service",
+        "LICENSEDTTM": "2004-01-14T00:00:00.000Z",
+        "LICENSENO": "BU20401650",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-01-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 174426,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6953  ESPANITA ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Janitorial Service",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

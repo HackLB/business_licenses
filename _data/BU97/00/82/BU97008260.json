@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1350780354625,
+            33.758376044291495
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "PARKER APPRAISAL SERVICE",
+        "EXPDTTM": "2014-03-04T00:00:00.000Z",
+        "EXPDTTM_IN": "3/4/2014",
+        "FULLNAME": "DOYLE INDUSTRIES INC",
+        "GPSX": 6520606.18,
+        "GPSY": 1734476.87,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2014-03-04T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1993-02-22T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "1997-03-04T00:00:00.000Z",
+        "LICENSENO": "BU97008260",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-03-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 75961,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "149  COVINA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

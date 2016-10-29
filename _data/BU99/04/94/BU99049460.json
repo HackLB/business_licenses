@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20207168721295,
+            33.78309116984047
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Non-Residential Property",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "RETHREADS INC",
+        "EXPDTTM": "2002-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2002",
+        "FULLNAME": "RETHREADS INC",
+        "GPSX": 6500259.82,
+        "GPSY": 1743505.55,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2002-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1998-05-27T00:00:00.000Z",
+        "LICCATDESC": "Warehousing",
+        "LICENSEDTTM": "1999-12-28T00:00:00.000Z",
+        "LICENSENO": "BU99049460",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2002-12-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 174214,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "729 W ANAHEIM ST C",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Warehousing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

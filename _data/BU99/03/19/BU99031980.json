@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18306264393215,
+            33.78242149438522
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "NUNEZ UPHOLSTERY",
+        "EXPDTTM": "2017-09-17T00:00:00.000Z",
+        "EXPDTTM_IN": "9/17/2017",
+        "FULLNAME": "RIGOBERTO NUNEZ",
+        "GPSX": 6506035.96,
+        "GPSY": 1743250.77,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1999-09-17T00:00:00.000Z",
+        "LICCATDESC": "Upholstery Svc ??? Furn/Auto",
+        "LICENSEDTTM": "1999-08-24T00:00:00.000Z",
+        "LICENSENO": "BU99031980",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-09-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 111728,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "738 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Upholstery Svc ??? Furn/Auto",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

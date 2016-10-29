@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1083543141337,
+            33.79625475825776
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "SOUTH PACIFIC TANNING CO",
+        "EXPDTTM": "2015-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2015",
+        "FULLNAME": "NICOLE ABRAHAMS",
+        "GPSX": 6528744.4075,
+        "GPSY": 1748252.1675,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2008-07-01T00:00:00.000Z",
+        "LICCATDESC": "Tanning Salon",
+        "LICENSEDTTM": "2008-06-23T00:00:00.000Z",
+        "LICENSENO": "BU20830100",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-10-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 64529,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2221  PALO VERDE AVE 2A",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tanning Salon",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

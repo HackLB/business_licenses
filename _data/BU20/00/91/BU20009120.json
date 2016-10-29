@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1101056268606,
+            33.81692698270861
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2016-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2016",
+        "FULLNAME": "L JOHN ROSS DDS INC",
+        "GPSX": 6528220.53166666,
+        "GPSY": 1755775.92416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-01-20T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2000-03-02T00:00:00.000Z",
+        "LICCATDESC": "Dentist",
+        "LICENSEDTTM": "2000-03-02T00:00:00.000Z",
+        "LICENSENO": "BU20009120",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-01-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 158208,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3320  LOS COYOTES DIA 250",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dentist",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

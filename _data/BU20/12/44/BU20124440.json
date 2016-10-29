@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19148059683022,
+            33.815813358758454
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "J & S LANDCLEARING",
+        "EXPDTTM": "2002-06-01T00:00:00.000Z",
+        "EXPDTTM_IN": "6/1/2002",
+        "FULLNAME": "JAMES W COTTON",
+        "GPSX": 6503500.99,
+        "GPSY": 1755407.73,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2002-06-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1995-06-21T00:00:00.000Z",
+        "LICCATDESC": "Contracting - Misc.",
+        "LICENSEDTTM": "2001-06-12T00:00:00.000Z",
+        "LICENSENO": "BU20124440",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2002-10-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 155004,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3230  PINE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting - Misc.",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

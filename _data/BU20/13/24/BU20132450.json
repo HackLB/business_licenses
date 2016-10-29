@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.22250309112724,
+            33.80193110148822
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2017-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2017",
+        "FULLNAME": "THREE RIVERS TRUCKING INC",
+        "GPSX": 6494066.18,
+        "GPSY": 1750375.02,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1988-07-01T00:00:00.000Z",
+        "LICCATDESC": "Transportation Facility (Fleet Facility)",
+        "LICENSEDTTM": "2001-08-03T00:00:00.000Z",
+        "LICENSENO": "BU20132450",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 25,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 55916,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2300 W WILLOW ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Transportation Facility (Fleet Facility)",
+        "ZIP": "90810"
+    },
+    "type": "Feature"
+}

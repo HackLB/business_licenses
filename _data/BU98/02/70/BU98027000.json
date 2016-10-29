@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14677732864456,
+            33.775617048961415
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2014-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2014",
+        "FULLNAME": "MJM PLUMBING CO INC",
+        "GPSX": 6517059.04,
+        "GPSY": 1740756.35,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1998-07-13T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Plumbing",
+        "LICENSEDTTM": "1998-07-13T00:00:00.000Z",
+        "LICENSENO": "BU98027000",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-10-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 164732,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3903 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Plumbing",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

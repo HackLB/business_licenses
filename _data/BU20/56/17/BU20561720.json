@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20813344412677,
+            33.77829145393807
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Non-Residential Property",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2011-01-02T00:00:00.000Z",
+        "EXPDTTM_IN": "1/2/2011",
+        "FULLNAME": "KCAL TRUCKING INC",
+        "GPSX": 6498414.12,
+        "GPSY": 1741762.56,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-01-02T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2005-11-30T00:00:00.000Z",
+        "LICCATDESC": "Warehousing",
+        "LICENSEDTTM": "2005-11-30T00:00:00.000Z",
+        "LICENSENO": "BU20561720",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-01-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 149188,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1200 W 9TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Warehousing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

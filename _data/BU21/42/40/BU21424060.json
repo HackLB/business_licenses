@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.2032560001861,
+            33.78095287111282
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2017-07-23T00:00:00.000Z",
+        "EXPDTTM_IN": "7/23/2017",
+        "FULLNAME": "SF ENTERPRISES & LOGISTICS LLC",
+        "GPSX": 6499898.35,
+        "GPSY": 1742728.09,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2001-07-16T00:00:00.000Z",
+        "LICCATDESC": "Freight Forwarding",
+        "LICENSEDTTM": "2014-07-31T00:00:00.000Z",
+        "LICENSENO": "BU21424060",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-07-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 174054,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "838 W 12TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Freight Forwarding",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

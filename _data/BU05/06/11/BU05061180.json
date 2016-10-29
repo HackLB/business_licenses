@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19673445417932,
+            33.7893610754187
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "TOM REDGATE MEMORIAL HOSPITAL",
+        "EXPDTTM": "2017-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2017",
+        "FULLNAME": "BEHAVIORAL HEALTH SERVICES, INC",
+        "GPSX": 6501886.19666667,
+        "GPSY": 1745784.1225,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1983-03-01T00:00:00.000Z",
+        "LICCATDESC": "Hospital",
+        "LICENSEDTTM": "1983-03-01T00:00:00.000Z",
+        "LICENSENO": "BU05061180",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 164182,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1775  CHESTNUT AVE HOSPITAL",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Hospital",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

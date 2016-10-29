@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20022448799939,
+            33.76365862269675
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "MANSON CONSTRUCTION CO",
+        "EXPDTTM": "2017-08-03T00:00:00.000Z",
+        "EXPDTTM_IN": "8/3/2017",
+        "FULLNAME": "MANSON CONSTRUCTION CO",
+        "GPSX": 6500807.07083334,
+        "GPSY": 1736432.38,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2014-03-12T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Engineering",
+        "LICENSEDTTM": "2014-03-12T00:00:00.000Z",
+        "LICENSENO": "BU21408520",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 40,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 166882,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "340  GOLDEN SHORE  310",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Engineering",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

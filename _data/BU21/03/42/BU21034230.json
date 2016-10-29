@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20022448799939,
+            33.76365862269675
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "UNIVERSAL PROTECTION SERVICE LP",
+        "EXPDTTM": "2017-02-20T00:00:00.000Z",
+        "EXPDTTM_IN": "2/20/2017",
+        "FULLNAME": "UNIVERSAL PROTECTION SERVICES LP",
+        "GPSX": 6500807.07083333,
+        "GPSY": 1736432.38,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1991-02-28T00:00:00.000Z",
+        "LICCATDESC": "Private Patrol Operator",
+        "LICENSEDTTM": "2010-10-26T00:00:00.000Z",
+        "LICENSENO": "BU21034230",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-02-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 290,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 34001,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "340  GOLDEN SHORE  100",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Private Patrol Operator",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

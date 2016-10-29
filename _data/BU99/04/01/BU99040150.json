@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.08461509414639,
+            33.83002338902632
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "REMINGTON FACTORY OUTLET",
+        "EXPDTTM": "2004-10-28T00:00:00.000Z",
+        "EXPDTTM_IN": "10/28/2004",
+        "FULLNAME": "REMINGTON PRODUCTS COMPANY LLC",
+        "GPSX": 6535967.65,
+        "GPSY": 1760534.55,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-10-28T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-10-20T00:00:00.000Z",
+        "LICCATDESC": "Retail Sales",
+        "LICENSEDTTM": "1999-10-20T00:00:00.000Z",
+        "LICENSENO": "BU99040150",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-09-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 59921,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "7665  CARSON BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Retail Sales",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

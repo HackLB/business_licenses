@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19177099523762,
+            33.78207346516383
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2017-06-04T00:00:00.000Z",
+        "EXPDTTM_IN": "6/4/2017",
+        "FULLNAME": "PINE STREET LTD",
+        "GPSX": 6503389.35,
+        "GPSY": 1743129.04666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2004-06-04T00:00:00.000Z",
+        "LICCATDESC": "Dance Studio",
+        "LICENSEDTTM": "2004-06-04T00:00:00.000Z",
+        "LICENSENO": "BU20424960",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-07-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 163304,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1239  LOCUST AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dance Studio",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

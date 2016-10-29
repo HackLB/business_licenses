@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.2123962499342,
+            33.79918187388042
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2005-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2005",
+        "FULLNAME": "RIGOBERTO ROBLES",
+        "GPSX": 6497134.70333333,
+        "GPSY": 1749367.86,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2005-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-01-07T00:00:00.000Z",
+        "LICCATDESC": "Gardening/Landscape Maint.",
+        "LICENSEDTTM": "2003-01-27T00:00:00.000Z",
+        "LICENSENO": "BU20304130",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-01-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 4746,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2307  CASPIAN AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Gardening/Landscape Maint.",
+        "ZIP": "90810"
+    },
+    "type": "Feature"
+}

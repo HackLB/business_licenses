@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18889011416887,
+            33.83023243509398
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "KNOLLS DENTAL GROUP",
+        "EXPDTTM": "2017-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2017",
+        "FULLNAME": "LLOYD E RASNER DDS",
+        "GPSX": 6504297.755833,
+        "GPSY": 1760653.714167,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-06-20T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1985-01-01T00:00:00.000Z",
+        "LICCATDESC": "Dentist",
+        "LICENSEDTTM": "2007-01-24T00:00:00.000Z",
+        "LICENSENO": "BU20703380",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-06-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 12579,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3932  LONG BEACH BLVD A",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dentist",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

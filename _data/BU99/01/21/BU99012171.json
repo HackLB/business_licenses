@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19413101241142,
+            33.77122387511864
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "DOLLY VARDEN HOTEL",
+        "EXPDTTM": "2006-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2006",
+        "FULLNAME": "ACE MANAGEMENT LLC",
+        "GPSX": 6502664.53916667,
+        "GPSY": 1739181.95583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-03-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1999-04-06T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "2001-07-09T00:00:00.000Z",
+        "LICENSENO": "BU99012171",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-12-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 172716,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "335  PACIFIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

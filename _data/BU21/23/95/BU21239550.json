@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20273789005394,
+            33.766269268214344
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "FERNALD INC",
+        "EXPDTTM": "2014-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2014",
+        "FULLNAME": "FERNALD INC",
+        "GPSX": 6500045.0225,
+        "GPSY": 1737383.99916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-02-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2012-12-03T00:00:00.000Z",
+        "LICCATDESC": "Architecture",
+        "LICENSEDTTM": "2012-12-03T00:00:00.000Z",
+        "LICENSENO": "BU21239550",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-04-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 137915,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "11  GOLDEN SHORE  550",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Architecture",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

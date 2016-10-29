@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10642454406513,
+            33.77960183439782
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2016-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2016",
+        "FULLNAME": "ROBERT M JONES",
+        "GPSX": 6529324.33,
+        "GPSY": 1742191.08,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2005-03-30T00:00:00.000Z",
+        "LICCATDESC": "Interior Design",
+        "LICENSEDTTM": "2005-03-30T00:00:00.000Z",
+        "LICENSENO": "BU20516520",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 157220,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1008  PALO VERDE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Interior Design",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18990863913297,
+            33.834737574996495
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "NCADD LONG BEACH/WOMEN TO WOMEN RECOVERY",
+        "EXPDTTM": "2016-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2016",
+        "FULLNAME": "NCADD-LONG BEACH",
+        "GPSX": 6503991.51166667,
+        "GPSY": 1762293.83166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2014-08-14T00:00:00.000Z",
+        "LICCATDESC": "Social Service without Food Distribution",
+        "LICENSEDTTM": "2014-08-14T00:00:00.000Z",
+        "LICENSENO": "BU21425720",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-08-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 21,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 137147,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4201  LONG BEACH BLVD 304",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Social Service without Food Distribution",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

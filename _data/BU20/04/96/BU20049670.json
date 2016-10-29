@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14520712238075,
+            33.75900052899327
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "YANKEE DOODLES LTD",
+        "EXPDTTM": "2001-12-22T00:00:00.000Z",
+        "EXPDTTM_IN": "12/22/2001",
+        "FULLNAME": "YANKEE DOODLES LTD",
+        "GPSX": 6517527.51083333,
+        "GPSY": 1734708.43083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2000-12-22T00:00:00.000Z",
+        "LICCATDESC": "Restaurant & Ready to Eat Foods with Alcohol",
+        "LICENSEDTTM": "2000-12-22T00:00:00.000Z",
+        "LICENSENO": "BU20049670",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Denied",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2001-07-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 7,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 36757,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4100 E OCEAN BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Restaurant & Ready to Eat Foods with Alcohol",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

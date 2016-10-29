@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15475116987459,
+            33.86155329311926
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Wholesale",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2009-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2009",
+        "FULLNAME": "BAY CITY INTERMODAL INC",
+        "GPSX": 6514683.83166667,
+        "GPSY": 1772034.43416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2008-01-01T00:00:00.000Z",
+        "LICCATDESC": "Wholesale",
+        "LICENSEDTTM": "2008-01-25T00:00:00.000Z",
+        "LICENSENO": "BU20804220",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-05-08T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 9608,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3133 1/2  SOUTH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Wholesale",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21125860576214,
+            33.78402079249012
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "GOLDEN STAR CATERING",
+        "EXPDTTM": "2014-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2014",
+        "FULLNAME": "DAGOBERTO & MARTHA ESCOBEDO",
+        "GPSX": 6497468.755,
+        "GPSY": 1743849.605,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1998-10-08T00:00:00.000Z",
+        "LICCATDESC": "Food Processing",
+        "LICENSEDTTM": "2003-05-27T00:00:00.000Z",
+        "LICENSENO": "BU20324970",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-10-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 4722,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1431 W 14TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Processing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

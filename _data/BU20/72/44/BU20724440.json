@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21167093808955,
+            33.81972924132982
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "ZIP SORT SUPPORT",
+        "EXPDTTM": "2009-05-21T00:00:00.000Z",
+        "EXPDTTM_IN": "5/21/2009",
+        "FULLNAME": "VIRGINIA SMITH",
+        "GPSX": 6497370.82,
+        "GPSY": 1756845.12,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-12-03T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2004-05-19T00:00:00.000Z",
+        "LICCATDESC": "Employment Agent",
+        "LICENSEDTTM": "2007-06-05T00:00:00.000Z",
+        "LICENSENO": "BU20724440",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 155808,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3444  DENVER AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Employment Agent",
+        "ZIP": "90810"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10819554990849,
+            33.81921394481093
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "GO DOGS GO",
+        "EXPDTTM": "2017-08-11T00:00:00.000Z",
+        "EXPDTTM_IN": "8/11/2017",
+        "FULLNAME": "DEBRA L CARLSON",
+        "GPSX": 6528801.64,
+        "GPSY": 1756607.58,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2000-08-11T00:00:00.000Z",
+        "LICCATDESC": "Pet Grooming",
+        "LICENSEDTTM": "2000-08-11T00:00:00.000Z",
+        "LICENSENO": "BU20033020",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 8,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 71487,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3440  LOS COYOTES DIA",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pet Grooming",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1921497982437,
+            33.86561674232669
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "CARD PROCESSING ACCESS",
+        "EXPDTTM": "2005-12-15T00:00:00.000Z",
+        "EXPDTTM_IN": "12/15/2005",
+        "FULLNAME": "ALMA D MARTINEZ",
+        "GPSX": 6503332.35583333,
+        "GPSY": 1773532.81416667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2005-12-15T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2004-12-17T00:00:00.000Z",
+        "LICCATDESC": "Sales Representative",
+        "LICENSEDTTM": "2004-12-17T00:00:00.000Z",
+        "LICENSENO": "BU20460620",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-05-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 107118,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "316  SMITH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Sales Representative",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

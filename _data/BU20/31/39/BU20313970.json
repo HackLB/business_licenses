@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19001411433517,
+            33.7675268612497
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "JOHN M DEIRMENJIAN MD A PROFESSIONAL CORP",
+        "EXPDTTM": "2008-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2008",
+        "FULLNAME": "JOHN M DEIRMENJIAN MD A PROFESSIONAL CORP",
+        "GPSX": 6503913.24083333,
+        "GPSY": 1737834.1175,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2008-02-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2001-01-31T00:00:00.000Z",
+        "LICCATDESC": "Psychiatry",
+        "LICENSEDTTM": "2003-03-25T00:00:00.000Z",
+        "LICENSENO": "BU20313970",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-03-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 4037,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "249 E OCEAN BLVD 325",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Psychiatry",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17571730325035,
+            33.833068966964795
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "BIXBY KNOLLS LAUNDERPET;DANA'S PET GROOMING",
+        "EXPDTTM": "2017-06-21T00:00:00.000Z",
+        "EXPDTTM_IN": "6/21/2017",
+        "FULLNAME": "LAUNDERPET INC",
+        "GPSX": 6508300.34666667,
+        "GPSY": 1761678.74416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2006-06-21T00:00:00.000Z",
+        "LICCATDESC": "Pet Grooming",
+        "LICENSEDTTM": "2006-06-21T00:00:00.000Z",
+        "LICENSENO": "BU20631570",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 162034,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4102  ORANGE AVE 113",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pet Grooming",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1135100149542,
+            33.756941542836444
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "HMI",
+        "EXPDTTM": "2009-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2009",
+        "FULLNAME": "HUNTINGTON MARINE INC",
+        "GPSX": 6527161.74916667,
+        "GPSY": 1733946.70583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-02-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2002-01-29T00:00:00.000Z",
+        "LICCATDESC": "Boat Repair",
+        "LICENSEDTTM": "2002-01-29T00:00:00.000Z",
+        "LICENSENO": "BU20204510",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-03-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 169376,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6400  MARINA DR 8",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Boat Repair",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

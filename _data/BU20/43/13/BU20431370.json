@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14929380499076,
+            33.77143451739507
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "PREFFERED PROPERTIES",
+        "EXPDTTM": "2005-06-15T00:00:00.000Z",
+        "EXPDTTM_IN": "6/15/2005",
+        "FULLNAME": "PERFERRED PROPERTIES REAL ESTATE SVCS INC",
+        "GPSX": 6516291.98833333,
+        "GPSY": 1739235.335,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-06-15T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1992-05-26T00:00:00.000Z",
+        "LICCATDESC": "Property Management",
+        "LICENSEDTTM": "2004-07-09T00:00:00.000Z",
+        "LICENSENO": "BU20431370",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-08-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 41254,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3640 E 4TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Property Management",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21914359469118,
+            33.78939734890931
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2012-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2012",
+        "FULLNAME": "UNITED RENTALS NORTHWEST INC",
+        "GPSX": 6495076.91,
+        "GPSY": 1745811.41,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2000-01-24T00:00:00.000Z",
+        "LICCATDESC": "Rentals - Misc.",
+        "LICENSEDTTM": "2000-01-24T00:00:00.000Z",
+        "LICENSENO": "BU20003350",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-09-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 20,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 110298,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2020 W PACIFIC COAST HWY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Rentals - Misc.",
+        "ZIP": "90810"
+    },
+    "type": "Feature"
+}

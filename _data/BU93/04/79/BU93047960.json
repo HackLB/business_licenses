@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16253516611302,
+            33.87878745156271
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2015-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2015",
+        "FULLNAME": "BEL ART PAPER STOCK CO INC",
+        "GPSX": 6512330.735,
+        "GPSY": 1778310.08833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1993-09-16T00:00:00.000Z",
+        "LICCATDESC": "Recycling Processor",
+        "LICENSEDTTM": "1993-09-16T00:00:00.000Z",
+        "LICENSENO": "BU93047960",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-04-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 168035,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2485 E 68TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Recycling Processor",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

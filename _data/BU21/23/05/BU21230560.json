@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11790130551742,
+            33.82909601832018
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2015-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2015",
+        "FULLNAME": "EXECUTIVE FIRE PROTECTION INC",
+        "GPSX": 6525857.68,
+        "GPSY": 1760207.24,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-09-13T00:00:00.000Z",
+        "LICCATDESC": "Contracting - Misc.",
+        "LICENSEDTTM": "2012-09-13T00:00:00.000Z",
+        "LICENSENO": "BU21230560",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-01-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 140766,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3848  RADNOR AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting - Misc.",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

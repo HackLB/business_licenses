@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18728675409423,
+            33.7676280030228
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Wholesale",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "DANIEL'S WHOLESALE",
+        "EXPDTTM": "2005-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2005",
+        "FULLNAME": "CHRISTOPHER DANIEL",
+        "GPSX": 6504742.27,
+        "GPSY": 1737869.37,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2005-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2002-10-31T00:00:00.000Z",
+        "LICCATDESC": "Direct Sales Product Distribution",
+        "LICENSEDTTM": "2002-11-21T00:00:00.000Z",
+        "LICENSENO": "BU20252260",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-02-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 99624,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "50  ELM AVE 2",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Direct Sales Product Distribution",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

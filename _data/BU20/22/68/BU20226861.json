@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18140182266926,
+            33.77216769011612
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Rental ??? Residential Property",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2015-07-02T00:00:00.000Z",
+        "EXPDTTM_IN": "7/2/2015",
+        "FULLNAME": "PETERSON FAMILY TRUST",
+        "GPSX": 6506533.93,
+        "GPSY": 1739518.21,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2002-06-11T00:00:00.000Z",
+        "LICCATDESC": "Apartment House",
+        "LICENSEDTTM": "2002-07-30T00:00:00.000Z",
+        "LICENSENO": "BU20226861",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "CollcInBus",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-08-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 11,
+        "NUMVEH": 0,
+        "OBJECTID": 19354,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "431  ALAMITOS AVE  Includes 429-433 alamitos ave",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Apartment House",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

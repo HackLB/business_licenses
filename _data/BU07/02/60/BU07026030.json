@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1528845063998,
+            33.86242536866815
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Wholesale",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2013-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2013",
+        "FULLNAME": "R S G INC",
+        "GPSX": 6515251.0375,
+        "GPSY": 1772350.93666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1985-08-01T00:00:00.000Z",
+        "LICCATDESC": "Wholesale",
+        "LICENSEDTTM": "1985-08-01T00:00:00.000Z",
+        "LICENSENO": "BU07026030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-01-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 21,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 45444,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3300  59TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Wholesale",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

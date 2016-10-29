@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11598596725037,
+            33.828794959385775
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2007-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2007",
+        "FULLNAME": "STOKES CHIROPRACTIC OFFICE INC",
+        "GPSX": 6526439.28,
+        "GPSY": 1760097,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1996-12-01T00:00:00.000Z",
+        "LICCATDESC": "Chiropractics",
+        "LICENSEDTTM": "2003-12-04T00:00:00.000Z",
+        "LICENSENO": "BU20355870",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-11-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 120722,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3840  WOODRUFF AVE 209",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Chiropractics",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

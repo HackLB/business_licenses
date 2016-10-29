@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10749729402205,
+            33.823686191093195
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "PJB INC",
+        "EXPDTTM": "2004-04-23T00:00:00.000Z",
+        "EXPDTTM_IN": "4/23/2004",
+        "FULLNAME": "PETERSON JONES BENJESTORF ELECTRICAL INC",
+        "GPSX": 6529015.48,
+        "GPSY": 1758234.92,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-04-23T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1994-11-23T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Electrical",
+        "LICENSEDTTM": "1997-09-04T00:00:00.000Z",
+        "LICENSENO": "BU97034410",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-08-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 8074,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3650  PALO VERDE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Electrical",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

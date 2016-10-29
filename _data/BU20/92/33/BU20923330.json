@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16827932508151,
+            33.84622716209258
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "TITAN DENTAL LAB",
+        "EXPDTTM": "2010-01-02T00:00:00.000Z",
+        "EXPDTTM_IN": "1/2/2010",
+        "FULLNAME": "FERNANDO BUAN",
+        "GPSX": 6510567.31666667,
+        "GPSY": 1766463.4775,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-01-02T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2007-01-03T00:00:00.000Z",
+        "LICCATDESC": "Laboratory - Medical/Dental",
+        "LICENSEDTTM": "2009-06-18T00:00:00.000Z",
+        "LICENSENO": "BU20923330",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-09-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 73255,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1942 E DEL AMO BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laboratory - Medical/Dental",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

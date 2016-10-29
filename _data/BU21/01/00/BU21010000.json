@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19330156513948,
+            33.77595137192698
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "CA CHECK CASHING",
+        "EXPDTTM": "2017-03-24T00:00:00.000Z",
+        "EXPDTTM_IN": "3/24/2017",
+        "FULLNAME": "CALIFORNIA CHECK CASHING LLC",
+        "GPSX": 6502919.94083333,
+        "GPSY": 1740901.93833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2010-03-24T00:00:00.000Z",
+        "LICCATDESC": "Check Cashing",
+        "LICENSEDTTM": "2010-03-29T00:00:00.000Z",
+        "LICENSENO": "BU21010000",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 100015,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "730  PACIFIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Check Cashing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

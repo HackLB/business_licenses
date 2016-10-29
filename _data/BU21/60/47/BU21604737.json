@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19071113892491,
+            33.770118541264615
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "BTS WORKS",
+        "EXPDTTM": "2017-07-19T00:00:00.000Z",
+        "EXPDTTM_IN": "7/19/2017",
+        "FULLNAME": "BRENDAN SHARKEY",
+        "GPSX": 6503703.175,
+        "GPSY": 1738777.70416667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2016-09-06T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2016-07-19T00:00:00.000Z",
+        "LICCATDESC": "Artist Studio (Resid)",
+        "LICENSEDTTM": "2016-07-19T00:00:00.000Z",
+        "LICENSENO": "BU21604737",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-09-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 89629,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "210 E 3RD ST 414",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Artist Studio (Resid)",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

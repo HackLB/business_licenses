@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13654983286722,
+            33.75730571397143
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2010-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2010",
+        "FULLNAME": "J D DOOLEY & ASSOC INC",
+        "GPSX": 6520158.26,
+        "GPSY": 1734087.95,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2010-03-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1994-03-18T00:00:00.000Z",
+        "LICCATDESC": "Sales Representative",
+        "LICENSEDTTM": "1994-03-18T00:00:00.000Z",
+        "LICENSENO": "BU94012260",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-12-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 60100,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5215 E 1ST ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Sales Representative",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

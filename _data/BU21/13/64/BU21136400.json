@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17291954884558,
+            33.76775710628334
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "NEXTEL OF CALIFORNIA INC",
+        "EXPDTTM": "2013-11-11T00:00:00.000Z",
+        "EXPDTTM_IN": "11/11/2013",
+        "FULLNAME": "NEXTEL OF CALIFORNIA INC",
+        "GPSX": 6509109.15,
+        "GPSY": 1737908.53,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-11-11T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2009-11-11T00:00:00.000Z",
+        "LICCATDESC": "Communication Facility - Cell Site",
+        "LICENSEDTTM": "2011-11-15T00:00:00.000Z",
+        "LICENSENO": "BU21136400",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-07-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 65493,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1506 E BROADWAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Communication Facility - Cell Site",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

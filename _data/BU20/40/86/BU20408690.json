@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15958108001135,
+            33.85990133755396
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "AJAS",
+        "EXPDTTM": "2009-03-15T00:00:00.000Z",
+        "EXPDTTM_IN": "3/15/2009",
+        "FULLNAME": "2706 SOUTH ST LLC",
+        "GPSX": 6513216.50583333,
+        "GPSY": 1771435.54,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2004-02-10T00:00:00.000Z",
+        "LICCATDESC": "Bar, Tavern, Lounge",
+        "LICENSEDTTM": "2004-02-26T00:00:00.000Z",
+        "LICENSENO": "BU20408690",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Revoked",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-05-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 2,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 114828,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2706  SOUTH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Bar, Tavern, Lounge",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11598596725037,
+            33.828794959385775
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "CLARKE CHIROPRACTIC CENTER",
+        "EXPDTTM": "2017-01-04T00:00:00.000Z",
+        "EXPDTTM_IN": "1/4/2017",
+        "FULLNAME": "DONALD A CLARKE DC A CHIROPRACTIC CORP",
+        "GPSX": 6526439.28,
+        "GPSY": 1760097,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-03-23T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1997-04-09T00:00:00.000Z",
+        "LICCATDESC": "Chiropractics",
+        "LICENSEDTTM": "2006-02-02T00:00:00.000Z",
+        "LICENSENO": "BU20606340",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-03-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 17915,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3840  WOODRUFF AVE 101",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Chiropractics",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

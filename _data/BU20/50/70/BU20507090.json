@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17490649660685,
+            33.82533183355875
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2006-02-04T00:00:00.000Z",
+        "EXPDTTM_IN": "2/4/2006",
+        "FULLNAME": "NUCLEAR IMAGING SERVICES INC",
+        "GPSX": 6508541.69333333,
+        "GPSY": 1758862.57416667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-02-04T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2005-02-04T00:00:00.000Z",
+        "LICCATDESC": "Employment Agency",
+        "LICENSEDTTM": "2005-02-04T00:00:00.000Z",
+        "LICENSENO": "BU20507090",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-04-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 55006,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3732  BRAYTON AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Employment Agency",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

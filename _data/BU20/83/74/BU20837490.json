@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18089492706555,
+            33.77148263065052
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "CA SMOG LAB TEST-ONLY",
+        "EXPDTTM": "2017-06-28T00:00:00.000Z",
+        "EXPDTTM_IN": "6/28/2017",
+        "FULLNAME": "TONY Y CHOI",
+        "GPSX": 6506687.54,
+        "GPSY": 1739268.62,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2008-07-02T00:00:00.000Z",
+        "LICCATDESC": "Auto Repair - Minor, Tune-Up, Smog Test",
+        "LICENSEDTTM": "2008-08-07T00:00:00.000Z",
+        "LICENSENO": "BU20837490",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 163181,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "912 E 4TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto Repair - Minor, Tune-Up, Smog Test",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16840212949259,
+            33.78231491343784
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "CHAN TAILOR",
+        "EXPDTTM": "2014-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2014",
+        "FULLNAME": "CHAN THOEUN HIM",
+        "GPSX": 6510491.05833333,
+        "GPSY": 1743204.19333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2013-11-19T00:00:00.000Z",
+        "LICCATDESC": "Tailoring",
+        "LICENSEDTTM": "2013-11-19T00:00:00.000Z",
+        "LICENSENO": "BU21335430",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-02-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 111209,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1906 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tailoring",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

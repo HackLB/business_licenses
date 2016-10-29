@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16221650759763,
+            33.879471749045756
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "STOR-IT VAULT",
+        "EXPDTTM": "2016-10-23T00:00:00.000Z",
+        "EXPDTTM_IN": "10/23/2016",
+        "FULLNAME": "STOR-IT VAULT LLC",
+        "GPSX": 6512427.8625,
+        "GPSY": 1778558.96416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2012-11-02T00:00:00.000Z",
+        "LICCATDESC": "Self Storage",
+        "LICENSEDTTM": "2012-11-02T00:00:00.000Z",
+        "LICENSENO": "BU21236340",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-10-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 36711,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6897  PARAMOUNT BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Self Storage",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21357476631853,
+            33.789253233621906
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "TONY'S AUTO SERVICE AND TOWING",
+        "EXPDTTM": "2017-04-16T00:00:00.000Z",
+        "EXPDTTM_IN": "4/16/2017",
+        "FULLNAME": "TONY BEROVINOS",
+        "GPSX": 6496768.96,
+        "GPSY": 1745755.32,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1998-07-16T00:00:00.000Z",
+        "LICCATDESC": "Towing with Impound",
+        "LICENSEDTTM": "1998-07-16T00:00:00.000Z",
+        "LICENSENO": "BU98027600",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-04-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 126832,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1750  CANAL AVE  4 Vehicles",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Towing with Impound",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18150430989884,
+            33.776365316875776
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "LICENSED HANDYMAN",
+        "EXPDTTM": "2011-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2011",
+        "FULLNAME": "WILLIAM J BARTLETT",
+        "GPSX": 6506505.54,
+        "GPSY": 1741045.9,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-12-03T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2010-10-14T00:00:00.000Z",
+        "LICCATDESC": "Handyman",
+        "LICENSEDTTM": "2010-10-14T00:00:00.000Z",
+        "LICENSENO": "BU21033150",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 121736,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "836 E 8TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Handyman",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

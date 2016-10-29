@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12474104091582,
+            33.82259412675571
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "S & J PROPERTY MAINTENANCE",
+        "EXPDTTM": "2013-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2013",
+        "FULLNAME": "JOHN EDWARD OLSON",
+        "GPSX": 6523777.38,
+        "GPSY": 1757843.54,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2013-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-01-19T00:00:00.000Z",
+        "LICCATDESC": "Handyman",
+        "LICENSEDTTM": "2012-01-19T00:00:00.000Z",
+        "LICENSENO": "BU21201950",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-08-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 73175,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3556  BELLFLOWER BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Handyman",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

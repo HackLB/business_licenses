@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15830291477545,
+            33.81867298513763
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2016-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2016",
+        "FULLNAME": "AERIAL PROMOTIONS INC",
+        "GPSX": 6513580.9375,
+        "GPSY": 1756430.8875,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1998-03-20T00:00:00.000Z",
+        "LICCATDESC": "Advertising",
+        "LICENSEDTTM": "1998-03-20T00:00:00.000Z",
+        "LICENSENO": "BU98010490",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-10-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 110061,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2870 E WARDLOW RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Advertising",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

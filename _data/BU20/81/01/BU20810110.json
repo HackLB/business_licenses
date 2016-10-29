@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.0803968110895,
+            33.80879889214447
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "JOES PREMIUM PAINTING",
+        "EXPDTTM": "2013-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2013",
+        "FULLNAME": "JOE PRIOR",
+        "GPSX": 6537242.63458334,
+        "GPSY": 1752809.343125,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2013-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2008-03-04T00:00:00.000Z",
+        "LICCATDESC": "Handyman",
+        "LICENSEDTTM": "2008-03-04T00:00:00.000Z",
+        "LICENSENO": "BU20810110",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-02-08T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 29145,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "7890 E SPRING ST 18H",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Handyman",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

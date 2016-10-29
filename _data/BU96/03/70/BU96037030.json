@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1680994200351,
+            33.767694223476184
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "WELLS HOUSE",
+        "EXPDTTM": "2013-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2013",
+        "FULLNAME": "RONALD MORGAN",
+        "GPSX": 6510574.15,
+        "GPSY": 1737883.16,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1996-09-30T00:00:00.000Z",
+        "LICCATDESC": "Convalescent Hospital or Home",
+        "LICENSEDTTM": "1996-09-30T00:00:00.000Z",
+        "LICENSENO": "BU96037030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-01-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 41,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 134032,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "245  CHERRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Convalescent Hospital or Home",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

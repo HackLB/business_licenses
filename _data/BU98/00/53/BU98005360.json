@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18543652511886,
+            33.83010000111506
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "ATLANTIC CHIROPRACTIC CENTERS",
+        "EXPDTTM": "2005-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2005",
+        "FULLNAME": "SHAWN P TIERNEY",
+        "GPSX": 6505346.575,
+        "GPSY": 1760603.565,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-02-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1997-02-01T00:00:00.000Z",
+        "LICCATDESC": "Chiropractics",
+        "LICENSEDTTM": "1998-02-13T00:00:00.000Z",
+        "LICENSENO": "BU98005360",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-03-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 149766,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3939  ATLANTIC AVE 203",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Chiropractics",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

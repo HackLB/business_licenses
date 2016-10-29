@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21903589669529,
+            33.78491096520315
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "J C EXPRESS",
+        "EXPDTTM": "2017-03-15T00:00:00.000Z",
+        "EXPDTTM_IN": "3/15/2017",
+        "FULLNAME": "JOAQUIN M CRUZ",
+        "GPSX": 6495106.0775,
+        "GPSY": 1744178.62166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2006-02-21T00:00:00.000Z",
+        "LICCATDESC": "Transportation Facility (Fleet Facility)",
+        "LICENSEDTTM": "2006-02-21T00:00:00.000Z",
+        "LICENSENO": "BU20609380",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 137118,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2009  COWLES ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Transportation Facility (Fleet Facility)",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

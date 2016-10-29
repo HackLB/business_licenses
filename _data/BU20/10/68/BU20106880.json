@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11339599726372,
+            33.811962623395424
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "FLAGSHIP MARINE",
+        "EXPDTTM": "2015-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2015",
+        "FULLNAME": "DAVID J SMITH",
+        "GPSX": 6527218.9975,
+        "GPSY": 1753970.37333333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1993-12-21T00:00:00.000Z",
+        "LICCATDESC": "Boat Cleaning/Repair (Mobile Service)",
+        "LICENSEDTTM": "2001-02-16T00:00:00.000Z",
+        "LICENSENO": "BU20106880",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-01-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 160625,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3048  SHADYPARK DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Boat Cleaning/Repair (Mobile Service)",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

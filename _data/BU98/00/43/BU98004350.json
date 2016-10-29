@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16960526950712,
+            33.87492530146177
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "MARISCO EL KIOSCO",
+        "EXPDTTM": "2017-02-05T00:00:00.000Z",
+        "EXPDTTM_IN": "2/5/2017",
+        "FULLNAME": "MARIA RAMOS",
+        "GPSX": 6510182.30583333,
+        "GPSY": 1776908.10583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1998-02-05T00:00:00.000Z",
+        "LICCATDESC": "Restaurant & Ready to Eat Foods with Alcohol",
+        "LICENSEDTTM": "1998-02-05T00:00:00.000Z",
+        "LICENSENO": "BU98004350",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 38171,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1903 E ARTESIA BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Restaurant & Ready to Eat Foods with Alcohol",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14642931837307,
+            33.782287965826455
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "CLUB TAN",
+        "EXPDTTM": "2017-01-04T00:00:00.000Z",
+        "EXPDTTM_IN": "1/4/2017",
+        "FULLNAME": "FRED FREY",
+        "GPSX": 6517168.34166667,
+        "GPSY": 1743183.92916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2000-07-28T00:00:00.000Z",
+        "LICCATDESC": "Tanning Salon",
+        "LICENSEDTTM": "2000-07-28T00:00:00.000Z",
+        "LICENSENO": "BU20030610",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-12-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 88258,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3924 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tanning Salon",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

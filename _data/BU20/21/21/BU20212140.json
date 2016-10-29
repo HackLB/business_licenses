@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18283430472403,
+            33.8386978929313
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "ARTHUR W HATFIELD DPM",
+        "EXPDTTM": "2012-05-15T00:00:00.000Z",
+        "EXPDTTM_IN": "5/15/2012",
+        "FULLNAME": "ARTHUR W HATFIELD",
+        "GPSX": 6506142.6025,
+        "GPSY": 1763731.1075,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-05-15T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1979-05-01T00:00:00.000Z",
+        "LICCATDESC": "Podiatry",
+        "LICENSEDTTM": "2002-03-18T00:00:00.000Z",
+        "LICENSENO": "BU20212140",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-06-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 69932,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "901 E SAN ANTONIO DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Podiatry",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

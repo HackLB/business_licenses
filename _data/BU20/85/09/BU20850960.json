@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19264173120722,
+            33.768412477323615
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "THE KREISLER GROUP LLC",
+        "EXPDTTM": "2011-11-09T00:00:00.000Z",
+        "EXPDTTM_IN": "11/9/2011",
+        "FULLNAME": "THE KREISLER GROUP LLC",
+        "GPSX": 6503115.21416667,
+        "GPSY": 1738157.93833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2008-07-15T00:00:00.000Z",
+        "LICCATDESC": "Advertising",
+        "LICENSEDTTM": "2008-11-03T00:00:00.000Z",
+        "LICENSENO": "BU20850960",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "ClosedWBal",
+        "MILESTONE": "Collections",
+        "MILESTONEDATE": "2012-08-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 172453,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "115  PINE AVE 330",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Advertising",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

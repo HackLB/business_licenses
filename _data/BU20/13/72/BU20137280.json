@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10699318580065,
+            33.80980880157544
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2003-04-21T00:00:00.000Z",
+        "EXPDTTM_IN": "4/21/2003",
+        "FULLNAME": "VISTA ACQUISITION LLC",
+        "GPSX": 6529163.22166667,
+        "GPSY": 1753184.4075,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-04-21T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2001-09-11T00:00:00.000Z",
+        "LICCATDESC": "Optician",
+        "LICENSEDTTM": "2001-09-11T00:00:00.000Z",
+        "LICENSENO": "BU20137280",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-01-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 163591,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6420 E SPRING ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Optician",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

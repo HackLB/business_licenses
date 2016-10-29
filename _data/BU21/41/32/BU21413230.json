@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.09170330342634,
+            33.7934494940231
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "THOMAS CONSULTING",
+        "EXPDTTM": "2017-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2017",
+        "FULLNAME": "JENNIFER GRAVOIS",
+        "GPSX": 6533802.7,
+        "GPSY": 1747226.22,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2014-04-17T00:00:00.000Z",
+        "LICCATDESC": "Writing",
+        "LICENSEDTTM": "2014-04-17T00:00:00.000Z",
+        "LICENSENO": "BU21413230",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 65023,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2068  STEVELY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Writing",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

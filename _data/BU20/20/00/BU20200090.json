@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15455734273559,
+            33.86738698730557
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "LIFE CARE NURSES REGISTRY",
+        "EXPDTTM": "2006-01-03T00:00:00.000Z",
+        "EXPDTTM_IN": "1/3/2006",
+        "FULLNAME": "LILY Y LIM",
+        "GPSX": 6514745.9425,
+        "GPSY": 1774157.36666667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-01-03T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2002-01-03T00:00:00.000Z",
+        "LICCATDESC": "Nurses Registry",
+        "LICENSEDTTM": "2002-01-03T00:00:00.000Z",
+        "LICENSENO": "BU20200090",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-01-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 26269,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3301  JANICE ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Nurses Registry",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

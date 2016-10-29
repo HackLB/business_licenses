@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20409307934173,
+            33.87370698521988
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "STORAGE USA",
+        "EXPDTTM": "2002-06-01T00:00:00.000Z",
+        "EXPDTTM_IN": "6/1/2002",
+        "FULLNAME": "KARL HAAS",
+        "GPSX": 6499712.50583333,
+        "GPSY": 1776484.1925,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2002-06-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1997-08-25T00:00:00.000Z",
+        "LICCATDESC": "Self Storage",
+        "LICENSEDTTM": "1997-08-25T00:00:00.000Z",
+        "LICENSENO": "BU97033270",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2002-12-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 176632,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "198 W ARTESIA BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Self Storage",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

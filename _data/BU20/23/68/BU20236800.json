@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18891080126609,
+            33.78104342453225
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "INFINITE SOLUTION ADCH",
+        "EXPDTTM": "2007-01-22T00:00:00.000Z",
+        "EXPDTTM_IN": "1/22/2007",
+        "FULLNAME": "INFINITE SOLUTION HEALTH CENTER",
+        "GPSX": 6504257.82916667,
+        "GPSY": 1742752.54083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-01-22T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2002-08-16T00:00:00.000Z",
+        "LICCATDESC": "Day Care/Adult",
+        "LICENSEDTTM": "2002-08-16T00:00:00.000Z",
+        "LICENSENO": "BU20236800",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-01-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 62899,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "315 E 11TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Day Care/Adult",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

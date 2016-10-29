@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21243943375535,
+            33.784018425908734
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "CUSTOM MACHINING & FABRICATION",
+        "EXPDTTM": "2015-04-05T00:00:00.000Z",
+        "EXPDTTM_IN": "4/5/2015",
+        "FULLNAME": "TOMAS ROJAS",
+        "GPSX": 6497109.92,
+        "GPSY": 1743849.5,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-04-05T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2004-04-05T00:00:00.000Z",
+        "LICCATDESC": "Machine Shop/Welding",
+        "LICENSEDTTM": "2009-07-14T00:00:00.000Z",
+        "LICENSENO": "BU20926760",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-06-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 33491,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1511 W 14TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Machine Shop/Welding",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

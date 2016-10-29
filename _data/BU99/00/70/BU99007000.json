@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1101056268606,
+            33.81692698270861
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "PEDIATRIC DENTAL SPECIALISTS",
+        "EXPDTTM": "2017-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2017",
+        "FULLNAME": "SANTOS CORTEZ DDS INC",
+        "GPSX": 6528220.53166666,
+        "GPSY": 1755775.92416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1985-05-01T00:00:00.000Z",
+        "LICCATDESC": "Dentist",
+        "LICENSEDTTM": "1999-02-25T00:00:00.000Z",
+        "LICENSENO": "BU99007000",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 18,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 59056,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3320  LOS COYOTES DIA 200",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dentist",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

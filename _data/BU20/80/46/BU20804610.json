@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14093923601372,
+            33.782834945990295
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2009-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2009",
+        "FULLNAME": "CENTRO CONTRA LA VIOLENCIA",
+        "GPSX": 6518836.9975,
+        "GPSY": 1743380.605833,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-12-03T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2008-01-31T00:00:00.000Z",
+        "LICCATDESC": "Social Service without Food Distribution",
+        "LICENSEDTTM": "2008-01-28T00:00:00.000Z",
+        "LICENSENO": "BU20804610",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 127527,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4429 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Social Service without Food Distribution",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

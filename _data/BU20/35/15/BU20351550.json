@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18543503455196,
+            33.833608252335935
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2016-11-04T00:00:00.000Z",
+        "EXPDTTM_IN": "11/4/2016",
+        "FULLNAME": "LONG BEACH OPTOMETRIC GROUP INC",
+        "GPSX": 6505349.38333333,
+        "GPSY": 1761880.30583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2003-11-04T00:00:00.000Z",
+        "LICCATDESC": "Optometry",
+        "LICENSEDTTM": "2003-11-04T00:00:00.000Z",
+        "LICENSENO": "BU20351550",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-11-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 40249,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4275  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Optometry",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.108351825977,
+            33.75191637655389
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "NAPLES YACHT SALES INC",
+        "EXPDTTM": "2007-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2007",
+        "FULLNAME": "NAPLES YACHT SALES INC",
+        "GPSX": 6528727.77,
+        "GPSY": 1732116.17,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1993-01-14T00:00:00.000Z",
+        "LICCATDESC": "Sales Representative",
+        "LICENSEDTTM": "2003-01-21T00:00:00.000Z",
+        "LICENSENO": "BU20302890",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-12-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 119176,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "231  MARINA DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Sales Representative",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

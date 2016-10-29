@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16080834648895,
+            33.78231058030898
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "ROYAL PRODUCTION",
+        "EXPDTTM": "2003-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2003",
+        "FULLNAME": "LONG  JAMES LAY",
+        "GPSX": 6512798.72333333,
+        "GPSY": 1743198.8375,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2002-07-19T00:00:00.000Z",
+        "LICCATDESC": "Mail Order",
+        "LICENSEDTTM": "2002-07-19T00:00:00.000Z",
+        "LICENSENO": "BU20232480",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-04-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 77002,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2610 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mail Order",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

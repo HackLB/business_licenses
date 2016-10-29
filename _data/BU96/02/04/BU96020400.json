@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12997635670942,
+            33.75887038474023
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "(BIS) BAYSHORE INFORMATION SERVICES",
+        "EXPDTTM": "2003-06-01T00:00:00.000Z",
+        "EXPDTTM_IN": "6/1/2003",
+        "FULLNAME": "ROY R. BISSINGER",
+        "GPSX": 6522157.2,
+        "GPSY": 1734654.73,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2003-06-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1996-05-17T00:00:00.000Z",
+        "LICCATDESC": "Mail Order",
+        "LICENSEDTTM": "1996-05-17T00:00:00.000Z",
+        "LICENSENO": "BU96020400",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-11-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 48340,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "201  BAY SHORE AVE 107",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mail Order",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

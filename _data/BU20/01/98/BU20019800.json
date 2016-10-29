@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18977845673051,
+            33.79765738465548
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Unique Businesses",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": null,
+        "EXPDTTM": "2005-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2005",
+        "FULLNAME": "GLOBALMED SYSTEM INC",
+        "GPSX": 6504005.57,
+        "GPSY": 1748799.31,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2000-05-11T00:00:00.000Z",
+        "LICCATDESC": "Medical Transportation -Wheelchair/Gurney",
+        "LICENSEDTTM": "2000-05-11T00:00:00.000Z",
+        "LICENSENO": "BU20019800",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-07-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 4,
+        "OBJECTID": 178563,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2223  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Medical Transportation -Wheelchair/Gurney",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14183646953252,
+            33.7750366458784
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "MUSICAL THEATRE WEST ASSOCIATION",
+        "EXPDTTM": "2017-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2017",
+        "FULLNAME": "MUSICAL THEATRE WEST ASSOCIATION",
+        "GPSX": 6518560.335,
+        "GPSY": 1740542.96916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1999-08-01T00:00:00.000Z",
+        "LICCATDESC": "Promoting",
+        "LICENSEDTTM": "2003-08-18T00:00:00.000Z",
+        "LICENSENO": "BU20339290",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 153325,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4350 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Promoting",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

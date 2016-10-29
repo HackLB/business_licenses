@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16526429679917,
+            33.858560193959846
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2017-01-15T00:00:00.000Z",
+        "EXPDTTM_IN": "1/15/2017",
+        "FULLNAME": "TOTAL DISTRIBUTION SERVICES INC",
+        "GPSX": 6511490.2325,
+        "GPSY": 1770950.25333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2011-01-15T00:00:00.000Z",
+        "LICCATDESC": "Transportation Facility (Fleet Facility)",
+        "LICENSEDTTM": "2011-01-13T00:00:00.000Z",
+        "LICENSENO": "BU21101270",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-01-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 24,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 168087,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5630  CHERRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Transportation Facility (Fleet Facility)",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

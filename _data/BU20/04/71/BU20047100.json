@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1684292048253,
+            33.76829368796506
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "ASCOT LOCK & KEY",
+        "EXPDTTM": "2016-11-05T00:00:00.000Z",
+        "EXPDTTM_IN": "11/5/2016",
+        "FULLNAME": "RICHARD E DORAME",
+        "GPSX": 6510474.28,
+        "GPSY": 1738101.49,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1999-11-03T00:00:00.000Z",
+        "LICCATDESC": "Locksmith",
+        "LICENSEDTTM": "2000-11-30T00:00:00.000Z",
+        "LICENSENO": "BU20047100",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-11-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 111074,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1905  APPLETON ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Locksmith",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

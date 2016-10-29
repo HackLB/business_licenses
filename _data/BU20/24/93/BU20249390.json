@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18462684234049,
+            33.832856871370375
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2004-02-12T00:00:00.000Z",
+        "EXPDTTM_IN": "2/12/2004",
+        "FULLNAME": "COM SEC INCORPORATED",
+        "GPSX": 6505594.33166666,
+        "GPSY": 1761606.4075,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-02-16T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Electrical",
+        "LICENSEDTTM": "2002-11-05T00:00:00.000Z",
+        "LICENSENO": "BU20249390",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Denied",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-03-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 30294,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4202  ATLANTIC AVE 212",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Electrical",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

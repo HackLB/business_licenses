@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15628631058577,
+            33.78230472837153
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "MEXIS AUTO SERVICE",
+        "EXPDTTM": "2009-02-19T00:00:00.000Z",
+        "EXPDTTM_IN": "2/19/2009",
+        "FULLNAME": "FRED VASQUEZ",
+        "GPSX": 6514172.9175,
+        "GPSY": 1743194.54,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-02-19T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2007-02-19T00:00:00.000Z",
+        "LICCATDESC": "Auto Repair - Minor, Tune-Up, Smog Test",
+        "LICENSEDTTM": "2007-02-16T00:00:00.000Z",
+        "LICENSENO": "BU20707110",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-12-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 11108,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3020 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto Repair - Minor, Tune-Up, Smog Test",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

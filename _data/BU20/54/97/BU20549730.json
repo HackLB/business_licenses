@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19171110821634,
+            33.76753794329679
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "RENAISSANCE HOTEL LONG BEACH",
+        "EXPDTTM": "2017-06-23T00:00:00.000Z",
+        "EXPDTTM_IN": "6/23/2017",
+        "FULLNAME": "SUNSTONE OCEAN LESSEE INC",
+        "GPSX": 6503397.46,
+        "GPSY": 1737839.13,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2005-09-23T00:00:00.000Z",
+        "LICCATDESC": "Hotel",
+        "LICENSEDTTM": "2005-09-23T00:00:00.000Z",
+        "LICENSENO": "BU20549730",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 175684,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "111 E OCEAN BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Hotel",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

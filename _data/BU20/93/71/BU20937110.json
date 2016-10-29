@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18049566094234,
+            33.7819064624229
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "EDS SHOE REPAIR",
+        "EXPDTTM": "2013-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2013",
+        "FULLNAME": "KING E PATTERSON",
+        "GPSX": 6506815.7,
+        "GPSY": 1743061.925,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2009-10-01T00:00:00.000Z",
+        "LICCATDESC": "Shoe Repair",
+        "LICENSEDTTM": "2009-10-01T00:00:00.000Z",
+        "LICENSENO": "BU20937110",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-04-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 87909,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1218  MARTIN LUTHER KING JR AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Shoe Repair",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

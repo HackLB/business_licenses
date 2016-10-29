@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18760411428656,
+            33.78003773837501
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": null,
+        "EXPDTTM": "2011-11-07T00:00:00.000Z",
+        "EXPDTTM_IN": "11/7/2011",
+        "FULLNAME": "ST MARY HEALTH VENTURES INC",
+        "GPSX": 6504654.24,
+        "GPSY": 1742385.8,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-11-07T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1984-11-01T00:00:00.000Z",
+        "LICCATDESC": "Pharmacy",
+        "LICENSEDTTM": "1997-05-01T00:00:00.000Z",
+        "LICENSENO": "BU97018930",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-09-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 75441,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1040  ELM AVE 104",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pharmacy",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

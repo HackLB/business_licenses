@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19407968950138,
+            33.80590766093982
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": "BARRY WEISS",
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "College Hospital Long Beach",
+        "EXPDTTM": "2016-09-10T00:00:00.000Z",
+        "EXPDTTM_IN": "9/10/2016",
+        "FULLNAME": "CHLB LLC",
+        "GPSX": 6502704.50916667,
+        "GPSY": 1751804.30083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2015-09-10T00:00:00.000Z",
+        "LICCATDESC": "Hospital",
+        "LICENSEDTTM": "2015-12-30T00:00:00.000Z",
+        "LICENSENO": "BU21525816",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-08-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 1695,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2683  PACIFIC AVE HOSPITAL",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Hospital",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

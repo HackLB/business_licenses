@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20177477744987,
+            33.8046907097995
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "SIGNS WILSON",
+        "EXPDTTM": "2017-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2017",
+        "FULLNAME": "WILSON MORA",
+        "GPSX": 6500365.82583333,
+        "GPSY": 1751366.02333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2014-03-01T00:00:00.000Z",
+        "LICCATDESC": "Drafting/Graphics Design",
+        "LICENSEDTTM": "2014-06-10T00:00:00.000Z",
+        "LICENSENO": "BU21419210",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Pending",
+        "MILESTONE": "Pending",
+        "MILESTONEDATE": "2014-06-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 29635,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "819 W WILLOW ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Drafting/Graphics Design",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

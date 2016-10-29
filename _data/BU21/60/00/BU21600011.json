@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14844775822968,
+            33.78288465293326
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "SPECIAL SERVICES",
+        "EXPDTTM": "2016-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2016",
+        "FULLNAME": "WILLIAM BRAMBLE",
+        "GPSX": 6516555.28,
+        "GPSY": 1743401.98,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-07-29T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2015-11-01T00:00:00.000Z",
+        "LICCATDESC": "Private Patrol Operator",
+        "LICENSEDTTM": "2016-01-04T00:00:00.000Z",
+        "LICENSENO": "BU21600011",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-07-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 1715,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3731 E ANAHEIM ST",
+        "STATELICNO": "15563",
+        "TYPEOFBUSINESS": "Private Patrol Operator",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

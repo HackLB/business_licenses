@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1869660388683,
+            33.87887391227461
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "1997-12-09T00:00:00.000Z",
+        "EXPDTTM_IN": "12/9/1997",
+        "FULLNAME": "FRAGMENT HOUSE MISSION",
+        "GPSX": 6504915.05333333,
+        "GPSY": 1778354.44583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "1997-12-09T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1997-11-26T00:00:00.000Z",
+        "LICCATDESC": "Recycling Center",
+        "LICENSEDTTM": "1997-11-26T00:00:00.000Z",
+        "LICENSENO": "BU97044900",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2001-11-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 29930,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6845  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Recycling Center",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

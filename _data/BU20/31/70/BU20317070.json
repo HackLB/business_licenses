@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19597693141597,
+            33.77716548964438
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "SMITHLEE BUSINESS CORP",
+        "EXPDTTM": "2004-04-10T00:00:00.000Z",
+        "EXPDTTM_IN": "4/10/2004",
+        "FULLNAME": "SMITHLEE BUSINESS CORP",
+        "GPSX": 6502107.72666667,
+        "GPSY": 1741345.36416667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2004-04-10T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2003-04-10T00:00:00.000Z",
+        "LICCATDESC": "Word Processing",
+        "LICENSEDTTM": "2003-04-10T00:00:00.000Z",
+        "LICENSENO": "BU20317070",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-04-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 172216,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "830  CHESTNUT AVE 7",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Word Processing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

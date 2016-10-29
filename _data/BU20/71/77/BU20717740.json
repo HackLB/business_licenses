@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15350856472736,
+            33.78167215728579
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "PINEAPPLE HAWAIIAN BBQ  13D01185",
+        "EXPDTTM": "2012-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2012",
+        "FULLNAME": "PINEAPPLE BBQ INC  13D01185      DISMSSD",
+        "GPSX": 6515016.6925,
+        "GPSY": 1742963.02916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-09-06T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2007-05-01T00:00:00.000Z",
+        "LICCATDESC": "Restaurant & Ready to Eat Foods",
+        "LICENSEDTTM": "2007-04-25T00:00:00.000Z",
+        "LICENSENO": "BU20717740",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-09-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 115896,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3288 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Restaurant & Ready to Eat Foods",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

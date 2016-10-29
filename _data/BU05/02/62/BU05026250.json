@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19379819220482,
+            33.82239838349734
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2009-05-20T00:00:00.000Z",
+        "EXPDTTM_IN": "5/20/2009",
+        "FULLNAME": "JOHN DEATS",
+        "GPSX": 6502801.6,
+        "GPSY": 1757805.54,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2009-05-20T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1982-05-01T00:00:00.000Z",
+        "LICCATDESC": "Mail Order",
+        "LICENSEDTTM": "1982-05-01T00:00:00.000Z",
+        "LICENSENO": "BU05026250",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-05-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 68943,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3600  PACIFIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mail Order",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

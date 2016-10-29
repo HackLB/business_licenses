@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18653217292635,
+            33.8545832442989
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "ATLANTIC RECOVERY SERVICES",
+        "EXPDTTM": "2004-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2004",
+        "FULLNAME": "ATLANTIC RECOVERY SERVICES",
+        "GPSX": 6505030.34416667,
+        "GPSY": 1769514.24416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-02-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2003-11-06T00:00:00.000Z",
+        "LICCATDESC": "Residential Care Facility",
+        "LICENSEDTTM": "2003-11-06T00:00:00.000Z",
+        "LICENSENO": "BU20351950",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-12-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 103108,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "489 E MARKET ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Residential Care Facility",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

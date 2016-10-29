@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17377712852227,
+            33.86260328352365
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "A TO Z ENTERPRISES",
+        "EXPDTTM": "2007-03-03T00:00:00.000Z",
+        "EXPDTTM_IN": "3/3/2007",
+        "FULLNAME": "GLORIA ZIESE",
+        "GPSX": 6508908.17,
+        "GPSY": 1772425.99083333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2007-03-03T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1986-03-01T00:00:00.000Z",
+        "LICCATDESC": "Advertising",
+        "LICENSEDTTM": "2004-03-18T00:00:00.000Z",
+        "LICENSENO": "BU20412390",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-04-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 91728,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5921  WALNUT AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Advertising",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

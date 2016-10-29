@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1828323999715,
+            33.8394794501604
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "JIMMY'S GEMCO",
+        "EXPDTTM": "2007-09-27T00:00:00.000Z",
+        "EXPDTTM_IN": "9/27/2007",
+        "FULLNAME": "EDWARD LEE",
+        "GPSX": 6506143.69833333,
+        "GPSY": 1764015.535,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-09-27T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1999-09-27T00:00:00.000Z",
+        "LICCATDESC": "Watch Repair",
+        "LICENSEDTTM": "1999-09-27T00:00:00.000Z",
+        "LICENSENO": "BU99036290",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-11-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 107716,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4490  CALIFORNIA PL",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Watch Repair",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

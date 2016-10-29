@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19406434924284,
+            33.85608352955195
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "JAYCO ENTERPRISES",
+        "EXPDTTM": "2013-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2013",
+        "FULLNAME": "JOHN CLEGG",
+        "GPSX": 6502744.42416667,
+        "GPSY": 1770064.56416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1981-01-01T00:00:00.000Z",
+        "LICCATDESC": "Auto Repair - Minor, Tune-Up, Smog Test",
+        "LICENSEDTTM": "1981-01-01T00:00:00.000Z",
+        "LICENSENO": "BU04094800",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-10-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 73392,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5501  DAIRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto Repair - Minor, Tune-Up, Smog Test",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15856189233361,
+            33.77285002451262
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2008-01-24T00:00:00.000Z",
+        "EXPDTTM_IN": "1/24/2008",
+        "FULLNAME": "KYUNG LEE-GREEN",
+        "GPSX": 6513475.965,
+        "GPSY": 1739754.79166667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2008-01-24T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2003-01-24T00:00:00.000Z",
+        "LICCATDESC": "Word Processing",
+        "LICENSEDTTM": "2007-01-12T00:00:00.000Z",
+        "LICENSENO": "BU20701990",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-01-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 108792,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2815 E 5TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Word Processing",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18765835767897,
+            33.84877630727505
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2006-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2006",
+        "FULLNAME": "HUMMINGBIRD EXPRESS",
+        "GPSX": 6504684.45833333,
+        "GPSY": 1767401.59333333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-05-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2005-07-27T00:00:00.000Z",
+        "LICCATDESC": "Courier Service (Mobile)",
+        "LICENSEDTTM": "2005-07-27T00:00:00.000Z",
+        "LICENSENO": "BU20539480",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-02-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 13755,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "423 E 51ST ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Courier Service (Mobile)",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

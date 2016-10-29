@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19100873446057,
+            33.85978695852133
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "KRU",
+        "EXPDTTM": "2010-12-21T00:00:00.000Z",
+        "EXPDTTM_IN": "12/21/2010",
+        "FULLNAME": "AARON HAMMACK",
+        "GPSX": 6503674.73666667,
+        "GPSY": 1771410.555,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2011-09-21T00:00:00.000Z",
+        "LICCATDESC": "Curb Painting",
+        "LICENSEDTTM": "2011-09-21T00:00:00.000Z",
+        "LICENSENO": "BU21130360",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "ClosedWBal",
+        "MILESTONE": "Collections",
+        "MILESTONEDATE": "2014-12-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 108415,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "222  SOUTH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Curb Painting",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

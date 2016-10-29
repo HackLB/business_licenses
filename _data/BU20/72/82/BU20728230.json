@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16795082096274,
+            33.78506762045222
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "CHERRY MARKET",
+        "EXPDTTM": "2010-07-01T00:00:00.000Z",
+        "EXPDTTM_IN": "7/1/2010",
+        "FULLNAME": "THU NGO",
+        "GPSX": 6510629.88,
+        "GPSY": 1744205.75,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-07-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2007-07-01T00:00:00.000Z",
+        "LICCATDESC": "Check Cashing",
+        "LICENSEDTTM": "2007-06-29T00:00:00.000Z",
+        "LICENSENO": "BU20728230",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-08-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 145290,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1429  CHERRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Check Cashing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

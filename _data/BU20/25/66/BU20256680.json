@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19834526017749,
+            33.84741307350773
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2005-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2005",
+        "FULLNAME": "MARIO LARA",
+        "GPSX": 6501438.42,
+        "GPSY": 1766911.71,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2005-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2002-12-23T00:00:00.000Z",
+        "LICCATDESC": "Gardening/Landscape Maint.",
+        "LICENSEDTTM": "2002-12-23T00:00:00.000Z",
+        "LICENSENO": "BU20256680",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-07-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 86237,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5031  PACIFIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Gardening/Landscape Maint.",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

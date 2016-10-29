@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16862045395405,
+            33.76390055153576
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "TRUST",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "SURF MOTEL",
+        "EXPDTTM": "2006-08-15T00:00:00.000Z",
+        "EXPDTTM_IN": "8/15/2006",
+        "FULLNAME": "THE SURF TRUST",
+        "GPSX": 6510413.47,
+        "GPSY": 1736502.8,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-08-15T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1996-08-15T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "1996-08-15T00:00:00.000Z",
+        "LICENSENO": "BU96031630",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-10-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 47002,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2010 E OCEAN BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

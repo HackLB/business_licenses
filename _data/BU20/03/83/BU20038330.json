@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18728670546568,
+            33.767168816814134
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "SPECTRUM MEDIA",
+        "EXPDTTM": "2003-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2003",
+        "FULLNAME": "CADEZ MEDIA INC",
+        "GPSX": 6504741.97333333,
+        "GPSY": 1737702.25916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1991-08-20T00:00:00.000Z",
+        "LICCATDESC": "Advertising",
+        "LICENSEDTTM": "2000-09-25T00:00:00.000Z",
+        "LICENSENO": "BU20038330",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-08-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 12,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 73668,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "401 E OCEAN BLVD 500",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Advertising",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18467966221579,
+            33.8653272430324
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "Magic Hair & Nail",
+        "EXPDTTM": "2017-06-08T00:00:00.000Z",
+        "EXPDTTM_IN": "6/8/2017",
+        "FULLNAME": "THANH QUE THI NGUYEN",
+        "GPSX": 6505600.00083333,
+        "GPSY": 1773423.2075,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-09-08T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2015-06-08T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty Shop Owner",
+        "LICENSEDTTM": "2015-08-24T00:00:00.000Z",
+        "LICENSENO": "BU21523255",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-09-08T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 948,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6086  ATLANTIC AVE",
+        "STATELICNO": "A302415",
+        "TYPEOFBUSINESS": "Barber/Beauty Shop Owner",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

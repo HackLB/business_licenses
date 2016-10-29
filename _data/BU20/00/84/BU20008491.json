@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15705397200657,
+            33.783707320337506
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "UNITOG A WHOLLY OWNED SUBSIDIARY OF CINTAS",
+        "EXPDTTM": "2004-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2004",
+        "FULLNAME": "CINTAS CORPORATION",
+        "GPSX": 6513940.43083333,
+        "GPSY": 1743705.34583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-03-01T00:00:00.000Z",
+        "LICCATDESC": "Laundry - CommercialCustomers",
+        "LICENSEDTTM": "2003-06-02T00:00:00.000Z",
+        "LICENSENO": "BU20008491",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Denied",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-04-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 115,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 30220,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1351  ORIZABA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laundry - CommercialCustomers",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

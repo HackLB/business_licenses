@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20021952256494,
+            33.867000559684875
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "DON'S FISH MARKET",
+        "EXPDTTM": "2007-12-26T00:00:00.000Z",
+        "EXPDTTM_IN": "12/26/2007",
+        "FULLNAME": "DON'S FISH MARKET INC",
+        "GPSX": 6500883.49333333,
+        "GPSY": 1774041.2,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-12-26T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-12-27T00:00:00.000Z",
+        "LICCATDESC": "Restaurant & Ready to Eat Foods",
+        "LICENSEDTTM": "2001-12-27T00:00:00.000Z",
+        "LICENSENO": "BU20151770",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-09-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 150681,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6176  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Restaurant & Ready to Eat Foods",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

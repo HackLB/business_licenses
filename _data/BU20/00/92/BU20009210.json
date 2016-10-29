@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21512377190815,
+            33.78788772933094
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "AVALON MOTEL",
+        "EXPDTTM": "2008-03-02T00:00:00.000Z",
+        "EXPDTTM_IN": "3/2/2008",
+        "FULLNAME": "IVAN TSENG",
+        "GPSX": 6496297.21,
+        "GPSY": 1745259.38,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2008-03-02T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2000-03-02T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "2000-03-03T00:00:00.000Z",
+        "LICENSENO": "BU20009210",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-02-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 45612,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1680  SANTA FE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

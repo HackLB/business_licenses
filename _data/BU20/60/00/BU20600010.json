@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17137988011363,
+            33.77199918422702
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "RAMIRO GOMEZ LAWN SERVICE",
+        "EXPDTTM": "2008-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2008",
+        "FULLNAME": "RAMIRO GOMEZ",
+        "GPSX": 6509579.75166667,
+        "GPSY": 1739451.54083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2008-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2006-01-03T00:00:00.000Z",
+        "LICCATDESC": "Gardening/Landscape Maint.",
+        "LICENSEDTTM": "2006-01-03T00:00:00.000Z",
+        "LICENSENO": "BU20600010",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-03-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 132483,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1625 E 4TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Gardening/Landscape Maint.",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

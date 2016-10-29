@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18459551159398,
+            33.8251572804725
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2008-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2008",
+        "FULLNAME": "CASTLEHEAD INC ESCROW",
+        "GPSX": 6505598.70083333,
+        "GPSY": 1758804.3125,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2008-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2003-11-20T00:00:00.000Z",
+        "LICCATDESC": "Escrow Company",
+        "LICENSEDTTM": "2008-03-10T00:00:00.000Z",
+        "LICENSENO": "BU20811070",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-12-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 85227,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3728  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Escrow Company",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

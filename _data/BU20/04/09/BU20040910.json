@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12204151728008,
+            33.74870318736616
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2016-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2016",
+        "FULLNAME": "STEPHANIE J ANDERSON",
+        "GPSX": 6524564.69333333,
+        "GPSY": 1730951.565,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2000-10-01T00:00:00.000Z",
+        "LICCATDESC": "Artist Studio (Resid)",
+        "LICENSEDTTM": "2000-10-11T00:00:00.000Z",
+        "LICENSENO": "BU20040910",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-09-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 147799,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "55  63RD PL",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Artist Studio (Resid)",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17110297315995,
+            33.782908381937155
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": null,
+        "EXPDTTM": "2008-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2008",
+        "FULLNAME": "CAMBODIAN COORDINATING COUNCIL",
+        "GPSX": 6509670.66916667,
+        "GPSY": 1743421.55916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2008-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2003-03-31T00:00:00.000Z",
+        "LICCATDESC": "Promoting",
+        "LICENSEDTTM": "2005-02-02T00:00:00.000Z",
+        "LICENSENO": "BU20506440",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-03-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 150747,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1635 E ANAHEIM ST A",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Promoting",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

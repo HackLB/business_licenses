@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13632648910003,
+            33.761201413240556
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "AESTHETIC LASER CARE",
+        "EXPDTTM": "2008-11-15T00:00:00.000Z",
+        "EXPDTTM_IN": "11/15/2008",
+        "FULLNAME": "AESTHETIC LASER CARE MEDICAL CORPORATION",
+        "GPSX": 6520228.075,
+        "GPSY": 1735505.615833,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2008-11-15T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2004-11-04T00:00:00.000Z",
+        "LICCATDESC": "Aesthetician",
+        "LICENSEDTTM": "2004-11-04T00:00:00.000Z",
+        "LICENSENO": "BU20453080",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-11-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 65167,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "200  ARGONNE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Aesthetician",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

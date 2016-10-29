@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21852294186193,
+            33.824593577208276
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "WESTERN EXTERMINATOR CO",
+        "EXPDTTM": "2017-09-15T00:00:00.000Z",
+        "EXPDTTM_IN": "9/15/2017",
+        "FULLNAME": "WESTERN EXTERMINATOR CO",
+        "GPSX": 6495293.35,
+        "GPSY": 1758619.83,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1971-09-01T00:00:00.000Z",
+        "LICCATDESC": "Pest Control",
+        "LICENSEDTTM": "1971-09-01T00:00:00.000Z",
+        "LICENSENO": "BU01032610",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-09-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 27,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 56107,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1919 W WARDLOW RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pest Control",
+        "ZIP": "90810"
+    },
+    "type": "Feature"
+}

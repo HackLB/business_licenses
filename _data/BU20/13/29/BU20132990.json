@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14353463320036,
+            33.77188551819057
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2012-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2012",
+        "FULLNAME": "GARY A HAGEN",
+        "GPSX": 6518042.59916667,
+        "GPSY": 1739396.9175,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1993-01-01T00:00:00.000Z",
+        "LICCATDESC": "Optometry",
+        "LICENSEDTTM": "2001-08-07T00:00:00.000Z",
+        "LICENSENO": "BU20132990",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-06-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 14315,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4203 E 4TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Optometry",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16136488569275,
+            33.85966939273896
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2014-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2014",
+        "FULLNAME": "LIVE IN FIT INC",
+        "GPSX": 6512674.7925,
+        "GPSY": 1771351.99416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2013-09-01T00:00:00.000Z",
+        "LICCATDESC": "Fitness Center/Health Club",
+        "LICENSEDTTM": "2013-10-29T00:00:00.000Z",
+        "LICENSENO": "BU21332960",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-06-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 44499,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2618  SOUTH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Fitness Center/Health Club",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

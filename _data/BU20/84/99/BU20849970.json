@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16152696782663,
+            33.812417320821496
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2015-11-11T00:00:00.000Z",
+        "EXPDTTM_IN": "11/11/2015",
+        "FULLNAME": "TEMCO SKY NETWORK SERVICE INC",
+        "GPSX": 6512597.94916666,
+        "GPSY": 1754155.845,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2008-03-01T00:00:00.000Z",
+        "LICCATDESC": "Business/Professional School",
+        "LICENSEDTTM": "2008-10-24T00:00:00.000Z",
+        "LICENSENO": "BU20849970",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2015-12-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 171608,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2601 E SPRING ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business/Professional School",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16062441646412,
+            33.86059868392118
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2012-11-07T00:00:00.000Z",
+        "EXPDTTM_IN": "11/7/2012",
+        "FULLNAME": "AHERN RENTALS INC",
+        "GPSX": 6512900.14583333,
+        "GPSY": 1771689.82583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-11-07T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2005-11-22T00:00:00.000Z",
+        "LICCATDESC": "Rentals - Misc.",
+        "LICENSEDTTM": "2005-11-22T00:00:00.000Z",
+        "LICENSENO": "BU20560740",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-10-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 16,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 133086,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2635  SOUTH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Rentals - Misc.",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

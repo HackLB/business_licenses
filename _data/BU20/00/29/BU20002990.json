@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19931257262485,
+            33.81369373919808
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "PETSET",
+        "EXPDTTM": "2003-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2003",
+        "FULLNAME": "MATTHEW D DAWSON",
+        "GPSX": 6501120.36,
+        "GPSY": 1754640.97,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2003-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-01-21T00:00:00.000Z",
+        "LICCATDESC": "Pet Sitting",
+        "LICENSEDTTM": "2000-01-21T00:00:00.000Z",
+        "LICENSENO": "BU20002990",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-01-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 6999,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3101  DAISY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pet Sitting",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

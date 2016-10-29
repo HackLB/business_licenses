@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17988487967054,
+            33.82162792525764
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "GIRAFFE GROUP LTD",
+        "EXPDTTM": "2012-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2012",
+        "FULLNAME": "CHRISTA BARTELS",
+        "GPSX": 6507027.18083333,
+        "GPSY": 1757517.295,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2012-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1997-01-01T00:00:00.000Z",
+        "LICCATDESC": "Architecture",
+        "LICENSEDTTM": "2002-03-27T00:00:00.000Z",
+        "LICENSENO": "BU20214060",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-01-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 138099,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3569  LEWIS AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Architecture",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

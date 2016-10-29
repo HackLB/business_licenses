@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1354023421848,
+            33.76105081729229
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "LOGAN ELECTRIC",
+        "EXPDTTM": "2003-09-21T00:00:00.000Z",
+        "EXPDTTM_IN": "9/21/2003",
+        "FULLNAME": "MARK LOGAN",
+        "GPSX": 6520508.91,
+        "GPSY": 1735450.43,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2003-09-21T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2001-09-21T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Electrical",
+        "LICENSEDTTM": "2001-09-21T00:00:00.000Z",
+        "LICENSENO": "BU20139140",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-09-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 139292,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "204  GRANADA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Electrical",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

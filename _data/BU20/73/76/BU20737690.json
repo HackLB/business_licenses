@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21774634537543,
+            33.78224961036342
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2011-07-26T00:00:00.000Z",
+        "EXPDTTM_IN": "7/26/2011",
+        "FULLNAME": "PATRIOT ENVIRONMENTAL SERVICES INC",
+        "GPSX": 6495495.8475,
+        "GPSY": 1743209.23083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-07-26T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2002-07-25T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Engineering",
+        "LICENSEDTTM": "2007-09-05T00:00:00.000Z",
+        "LICENSENO": "BU20737690",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-09-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 46,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 102924,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1900 W ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Engineering",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

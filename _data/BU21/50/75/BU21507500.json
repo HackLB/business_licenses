@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20277761114184,
+            33.86544848122136
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2017-03-11T00:00:00.000Z",
+        "EXPDTTM_IN": "3/11/2017",
+        "FULLNAME": "T & R HI TECH INSTITUTE, INC",
+        "GPSX": 6500105.76333333,
+        "GPSY": 1773477.91833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2015-03-11T00:00:00.000Z",
+        "LICCATDESC": "Business/Professional School",
+        "LICENSEDTTM": "2015-03-11T00:00:00.000Z",
+        "LICENSENO": "BU21507500",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Pending",
+        "MILESTONE": "Pending",
+        "MILESTONEDATE": "2015-03-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 149463,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "123  VICTORIA ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business/Professional School",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1344979547888,
+            33.79016401717586
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "ENERGY SAVING SYSTEMS",
+        "EXPDTTM": "2006-09-17T00:00:00.000Z",
+        "EXPDTTM_IN": "9/17/2006",
+        "FULLNAME": "RICHARD E & KATHRYN A HORINE",
+        "GPSX": 6520797.99,
+        "GPSY": 1746045.17583333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-09-17T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1989-12-13T00:00:00.000Z",
+        "LICCATDESC": "Mail Order",
+        "LICENSEDTTM": "2001-09-26T00:00:00.000Z",
+        "LICENSENO": "BU20139630",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-08-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 75990,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5001  ATHERTON ST 401",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mail Order",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

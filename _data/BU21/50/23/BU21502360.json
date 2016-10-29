@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18543503455196,
+            33.833608252335935
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "ATLANTIC DRUGS",
+        "EXPDTTM": "2017-01-28T00:00:00.000Z",
+        "EXPDTTM_IN": "1/28/2017",
+        "FULLNAME": "LA DRUGS INC",
+        "GPSX": 6505349.38333333,
+        "GPSY": 1761880.30583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2015-01-29T00:00:00.000Z",
+        "LICCATDESC": "Pharmacy",
+        "LICENSEDTTM": "2015-01-23T00:00:00.000Z",
+        "LICENSENO": "BU21502360",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 172905,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4233  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pharmacy",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

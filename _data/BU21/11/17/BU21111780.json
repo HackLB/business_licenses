@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11775323239425,
+            33.77231863859338
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "COSTLINE INTERIORS",
+        "EXPDTTM": "2010-08-10T00:00:00.000Z",
+        "EXPDTTM_IN": "8/10/2010",
+        "FULLNAME": "JENNIFER L DEMPSEY",
+        "GPSX": 6525878.44666667,
+        "GPSY": 1739544.358125,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2010-08-10T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2006-08-10T00:00:00.000Z",
+        "LICCATDESC": "Interior Design",
+        "LICENSEDTTM": "2011-04-12T00:00:00.000Z",
+        "LICENSENO": "BU21111780",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-04-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 173193,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5924  BIXBY VILLAGE DR 134",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Interior Design",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

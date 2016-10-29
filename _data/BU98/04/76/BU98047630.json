@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13182654241976,
+            33.75727465471085
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "HILL MANAGEMENT SERVICES",
+        "EXPDTTM": "2003-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2003",
+        "FULLNAME": "JOHN L HILL",
+        "GPSX": 6521594.03,
+        "GPSY": 1734074.73,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2003-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1998-12-08T00:00:00.000Z",
+        "LICCATDESC": "Property Management",
+        "LICENSEDTTM": "1998-12-08T00:00:00.000Z",
+        "LICENSENO": "BU98047630",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-04-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 109013,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "155  CLAREMONT AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Property Management",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

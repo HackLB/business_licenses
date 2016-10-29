@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14122257659967,
+            33.77508199404667
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "DAVES COURTESY CLEANERS",
+        "EXPDTTM": "2003-11-05T00:00:00.000Z",
+        "EXPDTTM_IN": "11/5/2003",
+        "FULLNAME": "DAVID F HERNANDEZ",
+        "GPSX": 6518746.93,
+        "GPSY": 1740559.21,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-12-03T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2002-12-05T00:00:00.000Z",
+        "LICCATDESC": "Dry Cleaner",
+        "LICENSEDTTM": "2002-12-05T00:00:00.000Z",
+        "LICENSENO": "BU20254200",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 110520,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4412 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dry Cleaner",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

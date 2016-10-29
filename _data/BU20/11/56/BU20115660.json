@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1564432641611,
+            33.77086564264721
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2010-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2010",
+        "FULLNAME": "FAUX FUN INC",
+        "GPSX": 6514118.74166667,
+        "GPSY": 1739031.61,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2010-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2001-04-18T00:00:00.000Z",
+        "LICCATDESC": "Artist Studio (Resid)",
+        "LICENSEDTTM": "2001-04-18T00:00:00.000Z",
+        "LICENSENO": "BU20115660",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-11-08T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 177177,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "376  ORIZABA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Artist Studio (Resid)",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

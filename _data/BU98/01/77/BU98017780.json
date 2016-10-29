@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10087788583598,
+            33.7651872129407
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2017-05-15T00:00:00.000Z",
+        "EXPDTTM_IN": "5/15/2017",
+        "FULLNAME": "AES ALAMITOS LLC",
+        "GPSX": 6531004.69,
+        "GPSY": 1736943.45,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1998-05-08T00:00:00.000Z",
+        "LICCATDESC": "Utilities",
+        "LICENSEDTTM": "1998-05-08T00:00:00.000Z",
+        "LICENSENO": "BU98017780",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 87,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 172771,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "690  STUDEBAKER RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Utilities",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

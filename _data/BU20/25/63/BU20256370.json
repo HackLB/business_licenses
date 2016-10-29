@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18469022261364,
+            33.79257952508387
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "COMMUNITY ADULT DAY HEALTH CARE CENTER",
+        "EXPDTTM": "2011-01-15T00:00:00.000Z",
+        "EXPDTTM_IN": "1/15/2011",
+        "FULLNAME": "COMMUNITY PHYSICAL THERAPY CENTER INC",
+        "GPSX": 6505548.15,
+        "GPSY": 1746948.46,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-01-15T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2002-12-19T00:00:00.000Z",
+        "LICCATDESC": "Day Care/Adult",
+        "LICENSEDTTM": "2002-12-19T00:00:00.000Z",
+        "LICENSENO": "BU20256370",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-03-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 100622,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1954  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Day Care/Adult",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

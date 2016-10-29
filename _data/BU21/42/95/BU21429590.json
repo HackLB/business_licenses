@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18999172316788,
+            33.77025043525158
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2016-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2016",
+        "FULLNAME": "CROSSFIT INTERSECT",
+        "GPSX": 6503921.92,
+        "GPSY": 1738825.29,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2014-05-01T00:00:00.000Z",
+        "LICCATDESC": "Fitness Center/Health Club",
+        "LICENSEDTTM": "2014-09-19T00:00:00.000Z",
+        "LICENSENO": "BU21429590",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-01-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 141095,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "242 E 3RD ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Fitness Center/Health Club",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

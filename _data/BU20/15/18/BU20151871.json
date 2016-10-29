@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19289536496511,
+            33.845468442914274
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "STEWARD-PEARCE MORTUARY",
+        "EXPDTTM": "2006-12-28T00:00:00.000Z",
+        "EXPDTTM_IN": "12/28/2006",
+        "FULLNAME": "PEARCE MORTUARY INC",
+        "GPSX": 6503091.94,
+        "GPSY": 1766200.79,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-12-28T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-12-28T00:00:00.000Z",
+        "LICCATDESC": "Mortuary",
+        "LICENSEDTTM": "2005-10-11T00:00:00.000Z",
+        "LICENSENO": "BU20151871",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-06-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 6477,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4934  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mortuary",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

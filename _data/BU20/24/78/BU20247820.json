@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16716816738588,
+            33.779222221636346
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "LAM'S BARBER & BEAUTY SALON",
+        "EXPDTTM": "2017-05-07T00:00:00.000Z",
+        "EXPDTTM_IN": "5/7/2017",
+        "FULLNAME": "LAMYONG BUNMA",
+        "GPSX": 6510864.17416667,
+        "GPSY": 1742078.05083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2002-10-24T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty Shop Owner",
+        "LICENSEDTTM": "2002-10-24T00:00:00.000Z",
+        "LICENSENO": "BU20247820",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 105695,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2015 E 10TH ST A",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Barber/Beauty Shop Owner",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

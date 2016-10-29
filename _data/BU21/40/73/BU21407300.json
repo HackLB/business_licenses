@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1669255077172,
+            33.77338534575289
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "ELEMENTAL FPS",
+        "EXPDTTM": "2015-02-16T00:00:00.000Z",
+        "EXPDTTM_IN": "2/16/2015",
+        "FULLNAME": "JOHN STISOWAIN",
+        "GPSX": 6510934.39083333,
+        "GPSY": 1739953.72583333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2014-03-03T00:00:00.000Z",
+        "LICCATDESC": "Instructor/Personal Trainer",
+        "LICENSEDTTM": "2014-03-03T00:00:00.000Z",
+        "LICENSENO": "BU21407300",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "ClosedWBal",
+        "MILESTONE": "Collections",
+        "MILESTONEDATE": "2015-08-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 114327,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "497  ST LOUIS AVE 106",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Instructor/Personal Trainer",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

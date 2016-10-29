@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11279786757305,
+            33.79268714656312
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "SECURE FEELING LOCKSMITH",
+        "EXPDTTM": "2004-06-01T00:00:00.000Z",
+        "EXPDTTM_IN": "6/1/2004",
+        "FULLNAME": "TIMOTHY G BENNETT",
+        "GPSX": 6527392.82666667,
+        "GPSY": 1746955.30083333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2004-06-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1998-06-26T00:00:00.000Z",
+        "LICCATDESC": "Locksmith",
+        "LICENSEDTTM": "2002-07-18T00:00:00.000Z",
+        "LICENSENO": "BU20232310",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-05-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 145484,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6131  LOS SANTOS DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Locksmith",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

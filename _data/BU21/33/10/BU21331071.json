@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13877859869879,
+            33.76228056408926
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Banking/Insurance",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2014-10-09T00:00:00.000Z",
+        "EXPDTTM_IN": "10/9/2014",
+        "FULLNAME": "WELLS FARGO",
+        "GPSX": 6519483.26,
+        "GPSY": 1735899.37,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-10-09T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2013-10-09T00:00:00.000Z",
+        "LICCATDESC": "Financial Institutions",
+        "LICENSEDTTM": "2014-01-29T00:00:00.000Z",
+        "LICENSENO": "BU21331071",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-01-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 28709,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4601  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Financial Institutions",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

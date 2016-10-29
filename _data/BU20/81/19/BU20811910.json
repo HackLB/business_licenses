@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14883598836099,
+            33.77807486956562
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2009-11-22T00:00:00.000Z",
+        "EXPDTTM_IN": "11/22/2009",
+        "FULLNAME": "GOUEL-PINEL CORP",
+        "GPSX": 6516434.71,
+        "GPSY": 1741651.74,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2009-11-22T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2006-11-22T00:00:00.000Z",
+        "LICCATDESC": "Flower Arranging",
+        "LICENSEDTTM": "2008-03-14T00:00:00.000Z",
+        "LICENSENO": "BU20811910",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-10-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 170216,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "850  EUCLID AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Flower Arranging",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

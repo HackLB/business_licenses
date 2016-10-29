@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18686719135134,
+            33.76960686756033
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "BRUSHSTROKES AND BEVERAGES",
+        "EXPDTTM": "2016-03-15T00:00:00.000Z",
+        "EXPDTTM_IN": "3/15/2016",
+        "FULLNAME": "MICHAEL MOSSELLI",
+        "GPSX": 6504871.13166667,
+        "GPSY": 1738589.2975,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2014-08-01T00:00:00.000Z",
+        "LICCATDESC": "Artist Studio (Comml)",
+        "LICENSEDTTM": "2014-08-05T00:00:00.000Z",
+        "LICENSENO": "BU21424560",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-10-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 4011,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "431 E BROADWAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Artist Studio (Comml)",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

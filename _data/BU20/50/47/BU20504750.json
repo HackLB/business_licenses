@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1998993722504,
+            33.76792106971647
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "MORGAN STANLEY",
+        "EXPDTTM": "2007-08-24T00:00:00.000Z",
+        "EXPDTTM_IN": "8/24/2007",
+        "FULLNAME": "MORGAN STANLEY DW INC",
+        "GPSX": 6500908.97666667,
+        "GPSY": 1737983.40833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-08-24T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1978-08-01T00:00:00.000Z",
+        "LICCATDESC": "Stocks & Bonds Broker",
+        "LICENSEDTTM": "2005-01-26T00:00:00.000Z",
+        "LICENSENO": "BU20504750",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-06-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 28,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 73347,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1  WORLD TRADE CENTER  2000",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Stocks & Bonds Broker",
+        "ZIP": "90831"
+    },
+    "type": "Feature"
+}

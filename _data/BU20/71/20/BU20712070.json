@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19330253766402,
+            33.7829047366675
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "MONICA'S BAKERY",
+        "EXPDTTM": "2017-03-27T00:00:00.000Z",
+        "EXPDTTM_IN": "3/27/2017",
+        "FULLNAME": "ADRIAN VARILLAS",
+        "GPSX": 6502924.51166667,
+        "GPSY": 1743432.46083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2007-03-21T00:00:00.000Z",
+        "LICCATDESC": "Food Processing",
+        "LICENSEDTTM": "2007-03-21T00:00:00.000Z",
+        "LICENSENO": "BU20712070",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 37243,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "133 W ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Processing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

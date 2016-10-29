@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14549077607116,
+            33.78230810039144
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "BLOCKBUSTER #02653",
+        "EXPDTTM": "2010-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2010",
+        "FULLNAME": "BLOCKBUSTER INC",
+        "GPSX": 6517453.565,
+        "GPSY": 1743190.8425,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2001-08-13T00:00:00.000Z",
+        "LICCATDESC": "Rentals - Misc.",
+        "LICENSEDTTM": "2001-08-13T00:00:00.000Z",
+        "LICENSENO": "BU20133900",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-01-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 48488,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4000 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Rentals - Misc.",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17662911888054,
+            33.81934041658657
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "POSTMATE USA    04S00803",
+        "EXPDTTM": "2004-02-20T00:00:00.000Z",
+        "EXPDTTM_IN": "2/20/2004",
+        "FULLNAME": "JAMES A  04S00803  JU WILLIAMS",
+        "GPSX": 6508014.64416667,
+        "GPSY": 1756683.0575,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-02-20T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2002-09-09T00:00:00.000Z",
+        "LICCATDESC": "Mailbox Rental",
+        "LICENSEDTTM": "2002-09-09T00:00:00.000Z",
+        "LICENSENO": "BU20240170",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-01-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 167931,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3423  ORANGE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mailbox Rental",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

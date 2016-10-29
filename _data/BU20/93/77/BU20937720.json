@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18888849233691,
+            33.83055320119829
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "MED ART",
+        "EXPDTTM": "2015-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2015",
+        "FULLNAME": "CAROL A BECKERMAN",
+        "GPSX": 6504298.4675,
+        "GPSY": 1760770.44833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-03-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2009-03-09T00:00:00.000Z",
+        "LICCATDESC": "Marketing",
+        "LICENSEDTTM": "2009-10-06T00:00:00.000Z",
+        "LICENSENO": "BU20937720",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-01-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 56609,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3950  LONG BEACH BLVD 103",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Marketing",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

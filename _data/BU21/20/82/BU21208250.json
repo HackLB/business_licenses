@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1695276417917,
+            33.76718368567367
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "CEDARS PARKING SERVICE",
+        "EXPDTTM": "2015-03-16T00:00:00.000Z",
+        "EXPDTTM_IN": "3/16/2015",
+        "FULLNAME": "EZZAT ATOUI",
+        "GPSX": 6510139.74,
+        "GPSY": 1737698.09,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-03-16T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2012-03-16T00:00:00.000Z",
+        "LICCATDESC": "Valet Service",
+        "LICENSEDTTM": "2012-03-12T00:00:00.000Z",
+        "LICENSENO": "BU21208250",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-02-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 29152,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1800 E BROADWAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Valet Service",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

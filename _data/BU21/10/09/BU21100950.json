@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19070404151843,
+            33.769743650519665
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "THE BODY LOFT",
+        "EXPDTTM": "2015-01-02T00:00:00.000Z",
+        "EXPDTTM_IN": "1/2/2015",
+        "FULLNAME": "FEARLESS LIVING INC",
+        "GPSX": 6503705.07333333,
+        "GPSY": 1738641.26666667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-01-02T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2009-01-02T00:00:00.000Z",
+        "LICCATDESC": "Instructor/Personal Trainer",
+        "LICENSEDTTM": "2011-01-12T00:00:00.000Z",
+        "LICENSENO": "BU21100950",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-01-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 82118,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "216  THE PROMENADE NORTH  200",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Instructor/Personal Trainer",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

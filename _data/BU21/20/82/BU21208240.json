@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1847801965935,
+            33.7696334811021
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "STUDIO LONG BEACH LLC",
+        "EXPDTTM": "2013-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2013",
+        "FULLNAME": "STUDIO LONG BEACH LLC",
+        "GPSX": 6505505.46,
+        "GPSY": 1738597.81,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-03-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2012-03-01T00:00:00.000Z",
+        "LICCATDESC": "Artist Studio (Comml)",
+        "LICENSEDTTM": "2012-03-12T00:00:00.000Z",
+        "LICENSENO": "BU21208240",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-07-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 29151,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "218  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Artist Studio (Comml)",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

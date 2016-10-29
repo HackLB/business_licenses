@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.138335172325,
+            33.76144577163872
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "LAW OFFICES OF JOHNSON & PINEDA",
+        "EXPDTTM": "2007-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2007",
+        "FULLNAME": "JENNIFER L JOHNSON",
+        "GPSX": 6519617.62666667,
+        "GPSY": 1735595.37916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2005-06-22T00:00:00.000Z",
+        "LICCATDESC": "Attorney",
+        "LICENSEDTTM": "2005-06-22T00:00:00.000Z",
+        "LICENSENO": "BU20532930",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-07-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 171303,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4720  2ND ST 6",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Attorney",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

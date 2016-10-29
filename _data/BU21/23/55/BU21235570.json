@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16152696782663,
+            33.812417320821496
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2016-10-26T00:00:00.000Z",
+        "EXPDTTM_IN": "10/26/2016",
+        "FULLNAME": "ACCESSIBLE AVIATION INTERNATIONAL INC",
+        "GPSX": 6512597.94916666,
+        "GPSY": 1754155.845,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-10-26T00:00:00.000Z",
+        "LICCATDESC": "Aircraft Rental",
+        "LICENSEDTTM": "2012-10-26T00:00:00.000Z",
+        "LICENSENO": "BU21235570",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Pending",
+        "MILESTONE": "Pending",
+        "MILESTONEDATE": "2015-05-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 6082,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2601 E SPRING ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Aircraft Rental/Repair",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

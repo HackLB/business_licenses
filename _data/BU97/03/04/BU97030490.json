@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12493774594608,
+            33.79370402555539
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2014-08-10T00:00:00.000Z",
+        "EXPDTTM_IN": "8/10/2014",
+        "FULLNAME": "THE FISH TALE",
+        "GPSX": 6523704.56416667,
+        "GPSY": 1747329.73333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-08-10T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1977-08-01T00:00:00.000Z",
+        "LICCATDESC": "Restaurant & Ready to Eat Foods",
+        "LICENSEDTTM": "1997-07-30T00:00:00.000Z",
+        "LICENSENO": "BU97030490",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-07-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 35,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 122443,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5506  BRITTON DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Restaurant & Ready to Eat Foods",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

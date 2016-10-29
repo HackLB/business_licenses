@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.07022516740996,
+            33.818223817857955
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "CURVES OF LONG BEACH",
+        "EXPDTTM": "2009-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2009",
+        "FULLNAME": "C & D FITNESS CORP",
+        "GPSX": 6540335.11,
+        "GPSY": 1756237.01,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-03-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2004-01-05T00:00:00.000Z",
+        "LICCATDESC": "Fitness Center/Health Club",
+        "LICENSEDTTM": "2004-11-30T00:00:00.000Z",
+        "LICENSENO": "BU20457770",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-08-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 13189,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "8161 E WARDLOW RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Fitness Center/Health Club",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12445242151288,
+            33.77510286204686
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Banking/Insurance",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "MIRANDA MARKETING INSURANCE SERVICES",
+        "EXPDTTM": "2011-12-22T00:00:00.000Z",
+        "EXPDTTM_IN": "12/22/2011",
+        "FULLNAME": "MIRANDA AGENCY INC",
+        "GPSX": 6523843.6475,
+        "GPSY": 1740560.06916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-12-22T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2003-05-19T00:00:00.000Z",
+        "LICCATDESC": "Insurance Companies",
+        "LICENSEDTTM": "2008-02-12T00:00:00.000Z",
+        "LICENSENO": "BU20807110",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-12-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 34050,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5534 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Insurance Companies",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

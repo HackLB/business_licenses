@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18653392432003,
+            33.85004389699041
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2008-10-28T00:00:00.000Z",
+        "EXPDTTM_IN": "10/28/2008",
+        "FULLNAME": "CAROLINA PARTIDA",
+        "GPSX": 6505026.74666667,
+        "GPSY": 1767862.265,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2008-10-28T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2007-03-09T00:00:00.000Z",
+        "LICCATDESC": "Locksmith",
+        "LICENSEDTTM": "2007-03-09T00:00:00.000Z",
+        "LICENSENO": "BU20710480",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-12-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 11802,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "485 1/2  MORNINGSIDE ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Locksmith",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

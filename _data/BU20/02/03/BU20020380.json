@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17182163654151,
+            33.771998469665455
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "SIERRA LIQUOR",
+        "EXPDTTM": "2004-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2004",
+        "FULLNAME": "SALVADOR CISNEROS",
+        "GPSX": 6509445.49,
+        "GPSY": 1739451.51,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-05-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2000-05-01T00:00:00.000Z",
+        "LICCATDESC": "Food Retail Store w/ Alcohol",
+        "LICENSEDTTM": "2000-05-17T00:00:00.000Z",
+        "LICENSENO": "BU20020380",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-05-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 109156,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1601 E 4TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Retail Store w/ Alcohol",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

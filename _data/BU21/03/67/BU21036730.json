@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17664694895059,
+            33.81906951789164
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2013-11-11T00:00:00.000Z",
+        "EXPDTTM_IN": "11/11/2013",
+        "FULLNAME": "NEXTEL OF CALIFORNIA INC",
+        "GPSX": 6508009.055,
+        "GPSY": 1756584.48,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-11-11T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2009-11-11T00:00:00.000Z",
+        "LICCATDESC": "Communication Facility - Cell Site",
+        "LICENSEDTTM": "2010-11-15T00:00:00.000Z",
+        "LICENSENO": "BU21036730",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-07-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 128617,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3401  ORANGE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Communication Facility - Cell Site",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

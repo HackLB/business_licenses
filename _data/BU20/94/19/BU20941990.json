@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18436675955374,
+            33.83896872378243
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "ORCHARD SUPPLY HARDWARE",
+        "EXPDTTM": "2010-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2010",
+        "FULLNAME": "ORCHARD SUPPLY HARDWARE CORPORATION",
+        "GPSX": 6505677.4,
+        "GPSY": 1763830.52,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2009-11-10T00:00:00.000Z",
+        "LICCATDESC": "Seasonal Sales",
+        "LICENSEDTTM": "2009-11-10T00:00:00.000Z",
+        "LICENSENO": "BU20941990",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-01-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 8971,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4480  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Seasonal Sales",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

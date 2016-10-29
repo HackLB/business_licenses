@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16564363003204,
+            33.77563113170288
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "OMS MARINE MATE",
+        "EXPDTTM": "2012-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2012",
+        "FULLNAME": "ERIC CHRISTIAN OMS",
+        "GPSX": 6511325.3275,
+        "GPSY": 1740770.38583333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2012-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2009-07-17T00:00:00.000Z",
+        "LICCATDESC": "Boat Cleaning/Repair (Mobile Service)",
+        "LICENSEDTTM": "2009-08-06T00:00:00.000Z",
+        "LICENSENO": "BU20929820",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-01-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 174148,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "701  DAWSON AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Boat Cleaning/Repair (Mobile Service)",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

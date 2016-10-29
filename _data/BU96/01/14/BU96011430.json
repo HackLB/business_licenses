@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15392730759756,
+            33.861170735755096
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2015-12-18T00:00:00.000Z",
+        "EXPDTTM_IN": "12/18/2015",
+        "FULLNAME": "PUBLIC STORAGE INC",
+        "GPSX": 6514933.745,
+        "GPSY": 1771894.82833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1996-03-13T00:00:00.000Z",
+        "LICCATDESC": "Self Storage",
+        "LICENSEDTTM": "1996-03-13T00:00:00.000Z",
+        "LICENSENO": "BU96011430",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-01-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 68333,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3207  SOUTH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Self Storage",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

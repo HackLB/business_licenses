@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18855371880704,
+            33.77226284650602
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "ALBERTSONS 6163",
+        "EXPDTTM": "2013-12-10T00:00:00.000Z",
+        "EXPDTTM_IN": "12/10/2013",
+        "FULLNAME": "NEW ALBERTSONS INC",
+        "GPSX": 6504360.35,
+        "GPSY": 1739556.84,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-12-10T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2002-12-03T00:00:00.000Z",
+        "LICCATDESC": "Rentals - Misc.",
+        "LICENSEDTTM": "2003-04-23T00:00:00.000Z",
+        "LICENSENO": "BU20319030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-01-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 42571,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "450  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Rentals - Misc.",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

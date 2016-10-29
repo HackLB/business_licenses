@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1323101922602,
+            33.75886786848496
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "JUNIO & TAYLOR APC",
+        "EXPDTTM": "2007-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2007",
+        "FULLNAME": "JAMES E JUNIO",
+        "GPSX": 6521447.77333333,
+        "GPSY": 1734654.74,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1999-02-22T00:00:00.000Z",
+        "LICCATDESC": "Accounting",
+        "LICENSEDTTM": "1999-02-22T00:00:00.000Z",
+        "LICENSENO": "BU99006240",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-11-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 97764,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5320  2ND ST 2",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Accounting",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

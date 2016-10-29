@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16072797718232,
+            33.88168922226186
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2009-03-02T00:00:00.000Z",
+        "EXPDTTM_IN": "3/2/2009",
+        "FULLNAME": "PREFERRED FUMIGATION INC",
+        "GPSX": 6512880.9775,
+        "GPSY": 1779365.22916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-03-02T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2009-03-02T00:00:00.000Z",
+        "LICCATDESC": "Pest Control",
+        "LICENSEDTTM": "2009-03-02T00:00:00.000Z",
+        "LICENSENO": "BU20908550",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-05-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 7,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 128644,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2650 E 70TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pest Control",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

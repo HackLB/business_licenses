@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14031152727115,
+            33.78321184823207
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "ON-TRACK TAX SERVICE",
+        "EXPDTTM": "2008-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2008",
+        "FULLNAME": "ROBERT L ROBINSON",
+        "GPSX": 6519027.94166667,
+        "GPSY": 1743517.50416667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2008-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2005-09-30T00:00:00.000Z",
+        "LICCATDESC": "Bookkeeping",
+        "LICENSEDTTM": "2005-09-30T00:00:00.000Z",
+        "LICENSENO": "BU20551180",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-12-08T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 48250,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1324  PROSPECT AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Bookkeeping",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

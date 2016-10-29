@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1895319855767,
+            33.82924005603679
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "BIXBY KNOLLS FLORIST",
+        "EXPDTTM": "2010-09-07T00:00:00.000Z",
+        "EXPDTTM_IN": "9/7/2010",
+        "FULLNAME": "THOMAS E WORTHY",
+        "GPSX": 6504102.12833333,
+        "GPSY": 1760292.92916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1996-09-07T00:00:00.000Z",
+        "LICCATDESC": "Flower Shop",
+        "LICENSEDTTM": "2001-02-12T00:00:00.000Z",
+        "LICENSENO": "BU20106210",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "ClosedWBal",
+        "MILESTONE": "Collections",
+        "MILESTONEDATE": "2011-08-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 137625,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3901  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Flower Shop",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

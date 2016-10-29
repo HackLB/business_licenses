@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12571306083073,
+            33.79457101517123
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "LOS ALTOS SHOE REPAIR",
+        "EXPDTTM": "2007-12-27T00:00:00.000Z",
+        "EXPDTTM_IN": "12/27/2007",
+        "FULLNAME": "DANIEL K KO",
+        "GPSX": 6523469.38083333,
+        "GPSY": 1747645.54833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-12-27T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-12-29T00:00:00.000Z",
+        "LICCATDESC": "Shoe Repair",
+        "LICENSEDTTM": "1999-12-29T00:00:00.000Z",
+        "LICENSENO": "BU99049720",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-11-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 44987,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2131  BELLFLOWER BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Shoe Repair",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

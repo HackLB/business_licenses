@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15214596075383,
+            33.778810602842206
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "REDONDO MAIL",
+        "EXPDTTM": "2004-12-06T00:00:00.000Z",
+        "EXPDTTM_IN": "12/6/2004",
+        "FULLNAME": "BIRGER TOERNBLOM",
+        "GPSX": 6515429.2,
+        "GPSY": 1741921,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-12-06T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1999-12-06T00:00:00.000Z",
+        "LICCATDESC": "Mailbox Rental",
+        "LICENSEDTTM": "1999-12-02T00:00:00.000Z",
+        "LICENSENO": "BU99046590",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-01-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 23629,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "996  REDONDO AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mailbox Rental",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16810956771843,
+            33.78231437939197
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "OWENS PHARMA RESEARCH CENTER",
+        "EXPDTTM": "2006-05-12T00:00:00.000Z",
+        "EXPDTTM_IN": "5/12/2006",
+        "FULLNAME": "SUPERIOR CLINICAL RESEARCH MGMT LLC",
+        "GPSX": 6510579.96416667,
+        "GPSY": 1743203.85,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-05-12T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2005-05-12T00:00:00.000Z",
+        "LICCATDESC": "Laboratory - Medical/Dental",
+        "LICENSEDTTM": "2005-10-27T00:00:00.000Z",
+        "LICENSENO": "BU20555860",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-01-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 16893,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1934 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laboratory - Medical/Dental",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

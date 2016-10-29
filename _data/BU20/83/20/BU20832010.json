@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17867400337266,
+            33.77580913820299
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "LONG BEACH MOTEL",
+        "EXPDTTM": "2013-06-26T00:00:00.000Z",
+        "EXPDTTM_IN": "6/26/2013",
+        "FULLNAME": "DMLB GROUP INC",
+        "GPSX": 6507365.34,
+        "GPSY": 1740841.95,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-06-26T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2008-06-26T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "2008-07-02T00:00:00.000Z",
+        "LICENSENO": "BU20832010",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-08-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 55268,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1063 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

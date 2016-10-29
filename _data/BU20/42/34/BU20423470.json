@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17382678075344,
+            33.77831106095482
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2016-05-25T00:00:00.000Z",
+        "EXPDTTM_IN": "5/25/2016",
+        "FULLNAME": "ATLANTIC RECOVERY SERVICES",
+        "GPSX": 6508840.04666667,
+        "GPSY": 1741749.88666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2004-04-15T00:00:00.000Z",
+        "LICCATDESC": "Residential Care Facility",
+        "LICENSEDTTM": "2004-05-26T00:00:00.000Z",
+        "LICENSENO": "BU20423470",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-06-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 22101,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1415 E 9TH ST B",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Residential Care Facility",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

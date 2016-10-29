@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14948159175266,
+            33.78219837547641
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "WHEEL KING",
+        "EXPDTTM": "2006-06-12T00:00:00.000Z",
+        "EXPDTTM_IN": "6/12/2006",
+        "FULLNAME": "BLACK REIGN INC",
+        "GPSX": 6516240.74,
+        "GPSY": 1743152.69,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-06-12T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2006-09-22T00:00:00.000Z",
+        "LICCATDESC": "Vehicle Parts without Installation",
+        "LICENSEDTTM": "2006-09-22T00:00:00.000Z",
+        "LICENSENO": "BU20646980",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-02-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 60895,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3636 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Vehicle Parts without Installation",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

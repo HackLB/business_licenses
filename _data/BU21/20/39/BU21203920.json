@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19340293544184,
+            33.8187471479327
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "ROYAL MAJESTY HOME CARE INC",
+        "EXPDTTM": "2016-02-28T00:00:00.000Z",
+        "EXPDTTM_IN": "2/28/2016",
+        "FULLNAME": "ROYAL MAJESTY HOME CARE INC",
+        "GPSX": 6502919.1,
+        "GPSY": 1756476.53,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-01-22T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2012-02-03T00:00:00.000Z",
+        "LICCATDESC": "Nurses Registry",
+        "LICENSEDTTM": "2012-02-03T00:00:00.000Z",
+        "LICENSENO": "BU21203920",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-01-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 10,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 95569,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "150 W WARDLOW RD",
+        "STATELICNO": "980001411",
+        "TYPEOFBUSINESS": "Nurses Registry",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

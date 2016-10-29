@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15184144686677,
+            33.78296150062283
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "THE DRYCLEANERS",
+        "EXPDTTM": "2010-06-28T00:00:00.000Z",
+        "EXPDTTM_IN": "6/28/2010",
+        "FULLNAME": "THOMAS HONG",
+        "GPSX": 6515524.02416667,
+        "GPSY": 1743431.4875,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-06-28T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1990-04-23T00:00:00.000Z",
+        "LICCATDESC": "Dry Cleaning Plant",
+        "LICENSEDTTM": "1990-04-23T00:00:00.000Z",
+        "LICENSENO": "BU90024370",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-01-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 101947,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": null,
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3427 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dry Cleaning Plant",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10822678532163,
+            33.757651199985496
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2003-06-10T00:00:00.000Z",
+        "EXPDTTM_IN": "6/10/2003",
+        "FULLNAME": "DOLLY SINE",
+        "GPSX": 6528768.02916667,
+        "GPSY": 1734203.19958334,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-06-10T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1998-06-19T00:00:00.000Z",
+        "LICCATDESC": "Aesthetician",
+        "LICENSEDTTM": "1998-06-19T00:00:00.000Z",
+        "LICENSENO": "BU98023780",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-08-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 138321,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6477 E PACIFIC COAST HWY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Aesthetician",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

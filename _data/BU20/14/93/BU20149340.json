@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13046945755454,
+            33.80948323402497
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2003-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2003",
+        "FULLNAME": "PEGGY OFIELD",
+        "GPSX": 6522031.21833333,
+        "GPSY": 1753074.34916667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2003-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2001-09-01T00:00:00.000Z",
+        "LICCATDESC": "Word Processing",
+        "LICENSEDTTM": "2001-12-05T00:00:00.000Z",
+        "LICENSENO": "BU20149340",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-03-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 123414,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2931  CHARLEMAGNE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Word Processing",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

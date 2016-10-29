@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21255173919364,
+            33.77218928574348
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2003-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2003",
+        "FULLNAME": "WALSH MARITIME INC",
+        "GPSX": 6497066.68916667,
+        "GPSY": 1739544.62166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2000-04-26T00:00:00.000Z",
+        "LICCATDESC": "Boat Repair",
+        "LICENSEDTTM": "2000-04-26T00:00:00.000Z",
+        "LICENSENO": "BU20017450",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-11-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 165023,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1500  PIER C ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Boat Repair",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

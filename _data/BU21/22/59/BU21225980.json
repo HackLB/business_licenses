@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1358885949612,
+            33.82762575546851
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "METRO PCS CALIFORNIA LLC",
+        "EXPDTTM": "2017-07-10T00:00:00.000Z",
+        "EXPDTTM_IN": "7/10/2017",
+        "FULLNAME": "METRO PCS CALIFORNIA LLC",
+        "GPSX": 6520393.86,
+        "GPSY": 1759679.07,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-08-02T00:00:00.000Z",
+        "LICCATDESC": "Communication Facility - Cell Site",
+        "LICENSEDTTM": "2012-08-02T00:00:00.000Z",
+        "LICENSENO": "BU21225980",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-07-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 47048,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5000  LEW DAVIS ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Communication Facility - Cell Site",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

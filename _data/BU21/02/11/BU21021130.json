@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12439855413648,
+            33.821754035892795
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "NEWMAN PUBLICATIONS",
+        "EXPDTTM": "2017-05-15T00:00:00.000Z",
+        "EXPDTTM_IN": "5/15/2017",
+        "FULLNAME": "THERESA WOOLHETHER",
+        "GPSX": 6523881.03,
+        "GPSY": 1757537.68,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1992-05-15T00:00:00.000Z",
+        "LICCATDESC": "Word Processing",
+        "LICENSEDTTM": "2010-06-30T00:00:00.000Z",
+        "LICENSENO": "BU21021130",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 134283,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3527  MARBER AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Word Processing",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

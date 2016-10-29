@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1733956472103,
+            33.78221441713295
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "SPRINT PCS",
+        "EXPDTTM": "2010-07-26T00:00:00.000Z",
+        "EXPDTTM_IN": "7/26/2010",
+        "FULLNAME": "COX PCS ASSETS LLC",
+        "GPSX": 6508973.52,
+        "GPSY": 1743170.2,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-07-26T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2000-07-26T00:00:00.000Z",
+        "LICCATDESC": "Communication Facility - Cell Site",
+        "LICENSEDTTM": "2000-07-26T00:00:00.000Z",
+        "LICENSENO": "BU20030280",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-08-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 70798,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1430 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Communication Facility - Cell Site",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18459493992766,
+            33.82592836163427
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "WRIGLEY ELECTRONICS",
+        "EXPDTTM": "2007-10-18T00:00:00.000Z",
+        "EXPDTTM_IN": "10/18/2007",
+        "FULLNAME": "ROBERTO QUIJANO",
+        "GPSX": 6505599.39,
+        "GPSY": 1759084.92833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-10-18T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1999-10-27T00:00:00.000Z",
+        "LICCATDESC": "Appliance Repair - Small / Electronics",
+        "LICENSEDTTM": "1999-10-27T00:00:00.000Z",
+        "LICENSENO": "BU99041340",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-10-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 13575,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3748  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Appliance Repair - Small / Electronics",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

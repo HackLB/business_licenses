@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14986777155873,
+            33.762164051574366
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2006-04-14T00:00:00.000Z",
+        "EXPDTTM_IN": "4/14/2006",
+        "FULLNAME": "JAMES BEAUCHAMP",
+        "GPSX": 6516112.51333333,
+        "GPSY": 1735861.8075,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-04-14T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2005-04-14T00:00:00.000Z",
+        "LICCATDESC": "Telemarketing",
+        "LICENSEDTTM": "2005-04-14T00:00:00.000Z",
+        "LICENSENO": "BU20519670",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-08-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 82242,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3619 E 1ST ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Telemarketing",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.09892844005354,
+            33.78172499313132
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2007-05-05T00:00:00.000Z",
+        "EXPDTTM_IN": "5/5/2007",
+        "FULLNAME": "PAUL VAN VALKENBURGH",
+        "GPSX": 6531603.15,
+        "GPSY": 1742961.43,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2007-05-05T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1983-05-01T00:00:00.000Z",
+        "LICCATDESC": "Writing",
+        "LICENSEDTTM": "1983-05-01T00:00:00.000Z",
+        "LICENSENO": "BU05070220",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-06-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 164826,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6903  ANAHEIM RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Writing",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

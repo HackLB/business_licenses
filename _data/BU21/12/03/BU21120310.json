@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14122257659967,
+            33.77508199404667
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "BELMONT PRINTING AND MAILING",
+        "EXPDTTM": "2014-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2014",
+        "FULLNAME": "TERRY MIN",
+        "GPSX": 6518746.93,
+        "GPSY": 1740559.21,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2011-06-17T00:00:00.000Z",
+        "LICCATDESC": "Printing ??? Offset",
+        "LICENSEDTTM": "2011-06-17T00:00:00.000Z",
+        "LICENSENO": "BU21120310",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-07-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 97868,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4412 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Printing ??? Offset",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

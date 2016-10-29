@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12498590476332,
+            33.75697439429608
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "MARY-LOU'S ALTERATIONS",
+        "EXPDTTM": "2007-11-28T00:00:00.000Z",
+        "EXPDTTM_IN": "11/28/2007",
+        "FULLNAME": "MARIE LUISE COPELAND",
+        "GPSX": 6523673.31,
+        "GPSY": 1733962.8,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-11-28T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1990-05-23T00:00:00.000Z",
+        "LICCATDESC": "Tailoring",
+        "LICENSEDTTM": "2000-05-02T00:00:00.000Z",
+        "LICENSENO": "BU20018400",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-09-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 165804,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5606  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tailoring",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

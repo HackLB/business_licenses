@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1771016303666,
+            33.841663061885974
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "BINL INCORPORATED",
+        "EXPDTTM": "2013-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2013",
+        "FULLNAME": "BINL INCORPORATED",
+        "GPSX": 6507885.43,
+        "GPSY": 1764807.09,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-08-01T00:00:00.000Z",
+        "LICCATDESC": "Freight Forwarding",
+        "LICENSEDTTM": "2000-10-10T00:00:00.000Z",
+        "LICENSENO": "BU20040620",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-08-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 83089,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1155 E SAN ANTONIO DR D",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Freight Forwarding",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

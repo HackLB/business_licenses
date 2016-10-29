@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.22381481649795,
+            33.786686709546544
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2016-10-11T00:00:00.000Z",
+        "EXPDTTM_IN": "10/11/2016",
+        "FULLNAME": "ALPERT & ALPERT IRON & METAL INC",
+        "GPSX": 6493655.30166667,
+        "GPSY": 1744828.0625,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2004-10-06T00:00:00.000Z",
+        "LICCATDESC": "Recycling Processor",
+        "LICENSEDTTM": "2004-10-06T00:00:00.000Z",
+        "LICENSENO": "BU20446480",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-09-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 54,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 26645,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2350 W 16TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Recycling Processor",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

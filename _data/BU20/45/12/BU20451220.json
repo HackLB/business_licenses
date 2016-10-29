@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20033458694404,
+            33.76657176490252
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2009-10-28T00:00:00.000Z",
+        "EXPDTTM_IN": "10/28/2009",
+        "FULLNAME": "EARTH TECH",
+        "GPSX": 6500775.71833333,
+        "GPSY": 1737492.62166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-10-28T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1990-10-30T00:00:00.000Z",
+        "LICCATDESC": "Engineering",
+        "LICENSEDTTM": "2004-10-27T00:00:00.000Z",
+        "LICENSENO": "BU20451220",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-01-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 181,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 41585,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "300  OCEANGATE  700",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Engineering",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

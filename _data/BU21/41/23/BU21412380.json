@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20213304082388,
+            33.764811504644584
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "SP PLUS CORPORATION",
+        "EXPDTTM": "2017-03-21T00:00:00.000Z",
+        "EXPDTTM_IN": "3/21/2017",
+        "FULLNAME": "SP PLUS CORPORATION",
+        "GPSX": 6500227.7975,
+        "GPSY": 1736853.1075,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2014-03-21T00:00:00.000Z",
+        "LICCATDESC": "Mobile Home Park",
+        "LICENSEDTTM": "2014-04-11T00:00:00.000Z",
+        "LICENSENO": "BU21412380",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-04-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 143576,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "101  GOLDEN SHORE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mobile Home Park",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14062963497148,
+            33.836628432558996
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2016-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2016",
+        "FULLNAME": "ANALYTICAL ACCOUNTING CONTROL SYSTEMS INC",
+        "GPSX": 6518958.47083333,
+        "GPSY": 1762957.35583333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-09-13T00:00:00.000Z",
+        "LICCATDESC": "Accounting",
+        "LICENSEDTTM": "2012-09-13T00:00:00.000Z",
+        "LICENSENO": "BU21230480",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-03-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 79285,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4315  BLACKTHORNE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Accounting",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

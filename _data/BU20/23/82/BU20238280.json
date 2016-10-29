@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14725776530409,
+            33.76271532765859
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "FAVOR ME",
+        "EXPDTTM": "2003-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2003",
+        "FULLNAME": "FAVOR ME INC",
+        "GPSX": 6516906.15,
+        "GPSY": 1736061.26,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2003-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2001-09-01T00:00:00.000Z",
+        "LICCATDESC": "Gift Basket Assembly",
+        "LICENSEDTTM": "2002-08-26T00:00:00.000Z",
+        "LICENSENO": "BU20238280",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-09-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 28573,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3833  2ND ST 204",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Gift Basket Assembly",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

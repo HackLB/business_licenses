@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19447778400524,
+            33.801041034298564
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Unique Businesses",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "CARL A STEWART",
+        "EXPDTTM": "2003-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2003",
+        "FULLNAME": "CARL A STEWART",
+        "GPSX": 6502580.14,
+        "GPSY": 1750033.44,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2003-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1999-10-21T00:00:00.000Z",
+        "LICCATDESC": "Peddling ??? Annual",
+        "LICENSEDTTM": "1999-10-21T00:00:00.000Z",
+        "LICENSENO": "BU99040280",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-10-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 30195,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2412  CEDAR AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Peddling ??? Annual",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

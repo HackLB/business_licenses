@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1998993722504,
+            33.76792106971647
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2016-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2016",
+        "FULLNAME": "LLOYD'S REGISTER OF NORTH AMERICA",
+        "GPSX": 6500908.97666667,
+        "GPSY": 1737983.40833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1990-04-19T00:00:00.000Z",
+        "LICCATDESC": "Professional Services - Other",
+        "LICENSEDTTM": "2000-11-15T00:00:00.000Z",
+        "LICENSENO": "BU20045520",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-02-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 167143,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1  WORLD TRADE CENTER  1880",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Professional Services - Other",
+        "ZIP": "90831"
+    },
+    "type": "Feature"
+}

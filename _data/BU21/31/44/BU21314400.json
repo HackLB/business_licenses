@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18466288205744,
+            33.85868373804233
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "COCO DENTAL LAB",
+        "EXPDTTM": "2017-06-06T00:00:00.000Z",
+        "EXPDTTM_IN": "6/6/2017",
+        "FULLNAME": "MOSES AVILA",
+        "GPSX": 6505600.65333333,
+        "GPSY": 1771005.46583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2013-05-08T00:00:00.000Z",
+        "LICCATDESC": "Laboratory - Medical/Dental",
+        "LICENSEDTTM": "2013-05-08T00:00:00.000Z",
+        "LICENSENO": "BU21314400",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-08T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 165355,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5630  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laboratory - Medical/Dental",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

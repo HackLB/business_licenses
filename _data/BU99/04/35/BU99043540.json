@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1479869215287,
+            33.86121104760625
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2005-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2005",
+        "FULLNAME": "QUALEX INC",
+        "GPSX": 6516737.28916667,
+        "GPSY": 1771906.79,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1999-11-10T00:00:00.000Z",
+        "LICCATDESC": "Photography Studio",
+        "LICENSEDTTM": "1999-11-10T00:00:00.000Z",
+        "LICENSENO": "BU99043540",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-09-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 72402,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3705  SOUTH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Photography Studio",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

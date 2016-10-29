@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16816927794359,
+            33.868036858722746
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Unique Businesses",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2016-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2016",
+        "FULLNAME": "ZORAIDA LUQUIN",
+        "GPSX": 6510614.0125,
+        "GPSY": 1774400.50416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-07-27T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2014-06-30T00:00:00.000Z",
+        "LICCATDESC": "Mobile Food Vending",
+        "LICENSEDTTM": "2014-06-30T00:00:00.000Z",
+        "LICENSENO": "BU21421150",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-07-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 123245,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6242  CHERRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mobile Food Vending",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18849056272326,
+            33.81779812154388
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2017-05-28T00:00:00.000Z",
+        "EXPDTTM_IN": "5/28/2017",
+        "FULLNAME": "CAL COAST TERMITE & PEST INC",
+        "GPSX": 6504410.62,
+        "GPSY": 1756128.32,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2013-12-05T00:00:00.000Z",
+        "LICCATDESC": "Pest Control",
+        "LICENSEDTTM": "2013-12-05T00:00:00.000Z",
+        "LICENSENO": "BU21336960",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 11,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 131944,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3333  ELM AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pest Control",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

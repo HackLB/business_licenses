@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1652960307721,
+            33.78288422822144
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "MONOROM NETH",
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "Cambodian Coordinating Council",
+        "EXPDTTM": "2016-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2016",
+        "FULLNAME": "CAMBODIAN COORDINATING COUNCIL",
+        "GPSX": 6511435.30833333,
+        "GPSY": 1743409.81583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2015-04-01T00:00:00.000Z",
+        "LICCATDESC": "Promoting",
+        "LICENSEDTTM": "2015-11-04T00:00:00.000Z",
+        "LICENSENO": "BU21524978",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-05-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 131768,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2201 E ANAHEIM ST 103",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Promoting",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

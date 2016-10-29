@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16793622393648,
+            33.76856261611926
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "N SHAPE PERSONAL TRAINING",
+        "EXPDTTM": "2012-01-15T00:00:00.000Z",
+        "EXPDTTM_IN": "1/15/2012",
+        "FULLNAME": "BEVERLY REED",
+        "GPSX": 6510624.28,
+        "GPSY": 1738199.11,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2012-01-15T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2008-01-15T00:00:00.000Z",
+        "LICCATDESC": "Instructor/Personal Trainer",
+        "LICENSEDTTM": "2010-03-09T00:00:00.000Z",
+        "LICENSENO": "BU21007370",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-04-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 18042,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "275 1/2  CHERRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Instructor/Personal Trainer",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

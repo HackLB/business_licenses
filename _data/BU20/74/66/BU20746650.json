@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1128648348906,
+            33.77441066044196
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Wholesale",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "BARNARD & ASSOCIATES",
+        "EXPDTTM": "2008-10-22T00:00:00.000Z",
+        "EXPDTTM_IN": "10/22/2008",
+        "FULLNAME": "HERBERT BARNARD",
+        "GPSX": 6527365.01,
+        "GPSY": 1740304,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2008-10-22T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1985-10-01T00:00:00.000Z",
+        "LICCATDESC": "Direct Sales Product Distribution",
+        "LICENSEDTTM": "2007-11-06T00:00:00.000Z",
+        "LICENSENO": "BU20746650",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-03-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 100872,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "650  WAKEFIELD CT",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Direct Sales Product Distribution",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

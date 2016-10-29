@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1246014903524,
+            33.75689749714823
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2012-10-17T00:00:00.000Z",
+        "EXPDTTM_IN": "10/17/2012",
+        "FULLNAME": "SUTHERLAND INTERIOR DESIGN INC",
+        "GPSX": 6523790.13,
+        "GPSY": 1733934.67,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-10-17T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1996-10-22T00:00:00.000Z",
+        "LICCATDESC": "Interior Design",
+        "LICENSEDTTM": "2005-06-14T00:00:00.000Z",
+        "LICENSENO": "BU20531360",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-01-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 8627,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5622  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Interior Design",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

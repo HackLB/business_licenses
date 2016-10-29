@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20277761114184,
+            33.86544848122136
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "WORLD TRADE PRINTING CENTER",
+        "EXPDTTM": "2005-10-12T00:00:00.000Z",
+        "EXPDTTM_IN": "10/12/2005",
+        "FULLNAME": "W T P C",
+        "GPSX": 6500105.76333333,
+        "GPSY": 1773477.91833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-10-12T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1999-10-12T00:00:00.000Z",
+        "LICCATDESC": "Printing ??? Offset",
+        "LICENSEDTTM": "1999-10-12T00:00:00.000Z",
+        "LICENSENO": "BU99038570",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-10-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 73205,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "151  VICTORIA ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Printing ??? Offset",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

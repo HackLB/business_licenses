@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16154235358755,
+            33.78961315720498
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "COAST MOTEL",
+        "EXPDTTM": "2004-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2004",
+        "FULLNAME": "SWAMISARAN PATEL",
+        "GPSX": 6512579.9375,
+        "GPSY": 1745856.80416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2003-08-29T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "2003-08-29T00:00:00.000Z",
+        "LICENSENO": "BU20341440",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-01-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 106475,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2520 E PACIFIC COAST HWY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

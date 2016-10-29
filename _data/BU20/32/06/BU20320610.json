@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14549077607116,
+            33.78230810039144
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "PC LINK COMPUTER",
+        "EXPDTTM": "2004-03-28T00:00:00.000Z",
+        "EXPDTTM_IN": "3/28/2004",
+        "FULLNAME": "MARINDA SOURINPHOUMY",
+        "GPSX": 6517453.565,
+        "GPSY": 1743190.8425,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-03-28T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2002-02-25T00:00:00.000Z",
+        "LICCATDESC": "Business Equipment Repair",
+        "LICENSEDTTM": "2003-04-30T00:00:00.000Z",
+        "LICENSENO": "BU20320610",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-07-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 48642,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4000 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Equipment Repair",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

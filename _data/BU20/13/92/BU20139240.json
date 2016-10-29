@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18543503455196,
+            33.833608252335935
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Banking/Insurance",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2009-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2009",
+        "FULLNAME": "CITI FINANCIAL",
+        "GPSX": 6505349.38333333,
+        "GPSY": 1761880.30583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-09-01T00:00:00.000Z",
+        "LICCATDESC": "Financial Institutions",
+        "LICENSEDTTM": "2001-09-24T00:00:00.000Z",
+        "LICENSENO": "BU20139240",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-11-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 128430,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4215  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Financial Institutions",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

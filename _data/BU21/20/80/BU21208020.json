@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18894154217652,
+            33.76748145969535
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2016-12-19T00:00:00.000Z",
+        "EXPDTTM_IN": "12/19/2016",
+        "FULLNAME": "OXY USA INC",
+        "GPSX": 6504239.21,
+        "GPSY": 1737816.98,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2012-03-12T00:00:00.000Z",
+        "LICCATDESC": "Engineering",
+        "LICENSEDTTM": "2012-03-12T00:00:00.000Z",
+        "LICENSENO": "BU21208020",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-02-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 40,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 69856,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "301 E OCEAN BLVD 300",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Engineering",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

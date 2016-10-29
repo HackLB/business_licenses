@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10774675382449,
+            33.75693895015159
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "JUST ALTERATIONS",
+        "EXPDTTM": "2015-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2015",
+        "FULLNAME": "MARILYN BORDESSA",
+        "GPSX": 6528913.67083333,
+        "GPSY": 1733943.83416666,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-12-18T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1991-01-17T00:00:00.000Z",
+        "LICCATDESC": "Tailoring",
+        "LICENSEDTTM": "1999-02-01T00:00:00.000Z",
+        "LICENSENO": "BU99003910",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 8,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 52624,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6545 E PACIFIC COAST HWY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tailoring",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

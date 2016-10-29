@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.160917967227,
+            33.76682295275296
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "SHOPLIFTERS",
+        "EXPDTTM": "2004-04-25T00:00:00.000Z",
+        "EXPDTTM_IN": "4/25/2004",
+        "FULLNAME": "PAUL VALLE",
+        "GPSX": 6512756.3875,
+        "GPSY": 1737562.5075,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2004-04-25T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2003-04-25T00:00:00.000Z",
+        "LICCATDESC": "Internet Sales/Service",
+        "LICENSEDTTM": "2003-04-25T00:00:00.000Z",
+        "LICENSENO": "BU20319740",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-10-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 42023,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "265  MOLINO AVE 4",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Internet Sales/Service",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

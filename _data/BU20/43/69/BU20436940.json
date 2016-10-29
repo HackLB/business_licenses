@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20157318990597,
+            33.87162337847896
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "PET WORLD",
+        "EXPDTTM": "2011-08-06T00:00:00.000Z",
+        "EXPDTTM_IN": "8/6/2011",
+        "FULLNAME": "STEVEN HONG",
+        "GPSX": 6500475.9175,
+        "GPSY": 1775724.375,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-08-06T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2004-08-06T00:00:00.000Z",
+        "LICCATDESC": "Pet Shop",
+        "LICENSEDTTM": "2004-08-06T00:00:00.000Z",
+        "LICENSENO": "BU20436940",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2011-08-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 58351,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6454  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pet Shop",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

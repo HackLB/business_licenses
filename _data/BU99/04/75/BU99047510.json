@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.112630975386,
+            33.758411346629096
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "PROFESSIONAL COMMUNITY MANAGEMENT",
+        "EXPDTTM": "2007-06-15T00:00:00.000Z",
+        "EXPDTTM_IN": "6/15/2007",
+        "FULLNAME": "PROFESSIONAL COMMUNITY MANAGEMENT",
+        "GPSX": 6527429.56,
+        "GPSY": 1734481.31,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-06-15T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1995-06-19T00:00:00.000Z",
+        "LICCATDESC": "Property Management",
+        "LICENSEDTTM": "1999-12-09T00:00:00.000Z",
+        "LICENSENO": "BU99047510",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-05-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 7,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 157854,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6201  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Property Management",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

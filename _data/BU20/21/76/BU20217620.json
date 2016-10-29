@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1499256885572,
+            33.78219164064787
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "ALL REPAIRS & MAINTENANCE",
+        "EXPDTTM": "2010-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2010",
+        "FULLNAME": "REHMANN INDUSTRIES",
+        "GPSX": 6516105.78,
+        "GPSY": 1743150.44,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2002-04-15T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Engineering",
+        "LICENSEDTTM": "2002-04-15T00:00:00.000Z",
+        "LICENSENO": "BU20217620",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-10-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 61159,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1228  LOMA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Engineering",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

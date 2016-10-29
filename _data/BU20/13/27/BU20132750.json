@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12336959060309,
+            33.77502349667985
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "CAFFE A GO GO",
+        "EXPDTTM": "2002-11-06T00:00:00.000Z",
+        "EXPDTTM_IN": "11/6/2002",
+        "FULLNAME": "CAFFE A GO GO INC",
+        "GPSX": 6524172.70083333,
+        "GPSY": 1740530.78,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2002-11-06T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2001-08-06T00:00:00.000Z",
+        "LICCATDESC": "Restaurant & Ready to Eat Foods",
+        "LICENSEDTTM": "2001-08-06T00:00:00.000Z",
+        "LICENSENO": "BU20132750",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2002-10-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 101195,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5590 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Restaurant & Ready to Eat Foods",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19277232815743,
+            33.77025991773443
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "BAU TRAN",
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "5TH AVE BAGELRY",
+        "EXPDTTM": null,
+        "EXPDTTM_IN": null,
+        "FULLNAME": "BAU'S BAGELS",
+        "GPSX": 6503076.81,
+        "GPSY": 1738830.35,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2016-09-09T00:00:00.000Z",
+        "LICCATDESC": "Restaurant & Ready to Eat Foods",
+        "LICENSEDTTM": "2016-09-08T00:00:00.000Z",
+        "LICENSENO": "BU21606365",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Pending",
+        "MILESTONE": "Pending",
+        "MILESTONEDATE": "2016-09-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 8,
+        "NUMSEATS": 28,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 109020,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "247  PINE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Restaurant & Ready to Eat Foods",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

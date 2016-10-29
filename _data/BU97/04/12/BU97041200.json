@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14471402340193,
+            33.775042672906935
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "BETTY'S PET WORLD",
+        "EXPDTTM": "2004-10-15T00:00:00.000Z",
+        "EXPDTTM_IN": "10/15/2004",
+        "FULLNAME": "ELIZABETH J GREGORY",
+        "GPSX": 6517685.805,
+        "GPSY": 1740546.40916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-10-15T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1991-08-15T00:00:00.000Z",
+        "LICCATDESC": "Pet Grooming",
+        "LICENSEDTTM": "1997-10-29T00:00:00.000Z",
+        "LICENSENO": "BU97041200",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-11-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 88632,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4100 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pet Grooming",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

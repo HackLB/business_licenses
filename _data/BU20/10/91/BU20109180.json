@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17666146557046,
+            33.82702534677093
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2004-03-06T00:00:00.000Z",
+        "EXPDTTM_IN": "3/6/2004",
+        "FULLNAME": "WORDS INC",
+        "GPSX": 6508009.73416667,
+        "GPSY": 1759479.81916667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2004-03-06T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-03-06T00:00:00.000Z",
+        "LICCATDESC": "Word Processing",
+        "LICENSEDTTM": "2001-03-06T00:00:00.000Z",
+        "LICENSENO": "BU20109180",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-07-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 129427,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3810  MARRON AVE 4",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Word Processing",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

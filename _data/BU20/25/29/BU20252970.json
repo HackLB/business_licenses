@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19001411433517,
+            33.7675268612497
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "NORTON LILLY INTERNATIONAL",
+        "EXPDTTM": "2013-10-19T00:00:00.000Z",
+        "EXPDTTM_IN": "10/19/2013",
+        "FULLNAME": "STATE STREET SHIPPING",
+        "GPSX": 6503913.24083333,
+        "GPSY": 1737834.11750001,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-10-19T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1996-02-16T00:00:00.000Z",
+        "LICCATDESC": "Ticket Office",
+        "LICENSEDTTM": "2002-11-26T00:00:00.000Z",
+        "LICENSENO": "BU20252970",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-12-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 9,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 162807,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "249 E OCEAN BLVD 685",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Ticket Office",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

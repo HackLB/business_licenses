@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12861181447538,
+            33.84270801067562
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "FIRST BAPTIST CHURCH OF LAKEWOOD PRESCHOOL",
+        "EXPDTTM": "2017-09-18T00:00:00.000Z",
+        "EXPDTTM_IN": "9/18/2017",
+        "FULLNAME": "FIRST BAPTIST CHURCH OF LAKEWOOD",
+        "GPSX": 6522611.02416667,
+        "GPSY": 1765164.98083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1978-09-01T00:00:00.000Z",
+        "LICCATDESC": "Day Care/Preschool",
+        "LICENSEDTTM": "1978-09-01T00:00:00.000Z",
+        "LICENSENO": "BU03073290",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-09-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 17,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 110342,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5336  ARBOR RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Day Care/Preschool",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

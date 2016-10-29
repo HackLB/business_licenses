@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12347718905951,
+            33.775556579951626
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "KINKO'S COPIES 1005",
+        "EXPDTTM": "2004-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2004",
+        "FULLNAME": "KINKO'S INC",
+        "GPSX": 6524140.23833333,
+        "GPSY": 1740724.82416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1988-09-01T00:00:00.000Z",
+        "LICCATDESC": "Printing ??? Offset",
+        "LICENSEDTTM": "1997-03-07T00:00:00.000Z",
+        "LICENSENO": "BU97009050",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-10-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 11,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 50636,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5591 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Printing ??? Offset",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

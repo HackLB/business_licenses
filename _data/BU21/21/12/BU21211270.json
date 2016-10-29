@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20925991655713,
+            33.83829217800789
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "CBL",
+        "EXPDTTM": "2015-04-10T00:00:00.000Z",
+        "EXPDTTM_IN": "4/10/2015",
+        "FULLNAME": "COAST BRIDGE LOGISTICS INC",
+        "GPSX": 6498117.24,
+        "GPSY": 1763599.11,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-04-10T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2012-04-04T00:00:00.000Z",
+        "LICCATDESC": "Transportation Facility (Fleet Facility)",
+        "LICENSEDTTM": "2012-04-04T00:00:00.000Z",
+        "LICENSENO": "BU21211270",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-04-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 147041,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1450  DOMINGUEZ ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Transportation Facility (Fleet Facility)",
+        "ZIP": "90810"
+    },
+    "type": "Feature"
+}

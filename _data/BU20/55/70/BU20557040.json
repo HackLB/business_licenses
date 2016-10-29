@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1582577897581,
+            33.816231915821724
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2016-03-01T00:00:00.000Z",
+        "EXPDTTM_IN": "3/1/2016",
+        "FULLNAME": "AEROSPACE INTERNATIONAL INC",
+        "GPSX": 6513593.24583333,
+        "GPSY": 1755542.49666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-04-15T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2005-11-01T00:00:00.000Z",
+        "LICCATDESC": "Aircraft Repair/Repair",
+        "LICENSEDTTM": "2005-11-01T00:00:00.000Z",
+        "LICENSENO": "BU20557040",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-04-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 50483,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3250  AIRFLITE WAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Aircraft Repair",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

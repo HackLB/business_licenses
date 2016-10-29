@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16166496854156,
+            33.78351465200597
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "JORGE AUTO DETAILING",
+        "EXPDTTM": "2007-06-05T00:00:00.000Z",
+        "EXPDTTM_IN": "6/5/2007",
+        "FULLNAME": "JORGE FERNANDEZ",
+        "GPSX": 6512539.11,
+        "GPSY": 1743637.45,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-06-05T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2006-06-05T00:00:00.000Z",
+        "LICCATDESC": "Auto Detailing",
+        "LICENSEDTTM": "2006-06-05T00:00:00.000Z",
+        "LICENSENO": "BU20628360",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-02-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 54013,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2525 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto Detailing",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

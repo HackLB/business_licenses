@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14618059775356,
+            33.80733853309754
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "MOFFATT & NICHOL",
+        "EXPDTTM": "2006-11-08T00:00:00.000Z",
+        "EXPDTTM_IN": "11/8/2006",
+        "FULLNAME": "MOFFATT & NICHOL",
+        "GPSX": 6517257.18333333,
+        "GPSY": 1752300.40333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-11-08T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1957-07-01T00:00:00.000Z",
+        "LICCATDESC": "Engineering",
+        "LICENSEDTTM": "2006-01-09T00:00:00.000Z",
+        "LICENSENO": "BU20600900",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-01-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 90,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 103668,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3780  KILROY AIRPORT WAY 600",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Engineering",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

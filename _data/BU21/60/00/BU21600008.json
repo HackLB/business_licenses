@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11450359692485,
+            33.747452713606314
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "MATT AYER",
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "London Boat Rentals",
+        "EXPDTTM": "2016-10-23T00:00:00.000Z",
+        "EXPDTTM_IN": "10/23/2016",
+        "FULLNAME": "ON THE DOCK INC",
+        "GPSX": 6526855.785,
+        "GPSY": 1730493.78416666,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2015-10-23T00:00:00.000Z",
+        "LICCATDESC": "Boats - Charter/Cruise/Taxi",
+        "LICENSEDTTM": "2016-01-04T00:00:00.000Z",
+        "LICENSENO": "BU21600008",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-01-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 2,
+        "OBJECTID": 1712,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "186  MARINA DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Boats - Charter/Cruise/Taxi",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19958304901421,
+            33.76364673171577
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "OXBOW CARBON AND MINERALS LLC",
+        "EXPDTTM": "2014-01-28T00:00:00.000Z",
+        "EXPDTTM_IN": "1/28/2014",
+        "FULLNAME": "OXBOW CARBON AND MINERALS LLC",
+        "GPSX": 6501002.03166667,
+        "GPSY": 1736427.66500001,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-01-28T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1998-03-31T00:00:00.000Z",
+        "LICCATDESC": "Import/Export - Office Use",
+        "LICENSEDTTM": "2007-01-29T00:00:00.000Z",
+        "LICENSENO": "BU20703970",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-03-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 10,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 15143,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "330  GOLDEN SHORE  210",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Import/Export - Office Use",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

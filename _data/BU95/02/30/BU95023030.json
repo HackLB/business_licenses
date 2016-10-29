@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14607460585543,
+            33.805637943674846
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "1997-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/1997",
+        "FULLNAME": "SAMUEL S STEPHENS AND ASSOCIATES INC",
+        "GPSX": 6517288.48416667,
+        "GPSY": 1751681.46666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "1997-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1995-06-15T00:00:00.000Z",
+        "LICCATDESC": "Residential Care Facility",
+        "LICENSEDTTM": "1995-06-15T00:00:00.000Z",
+        "LICENSENO": "BU95023030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-09-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 75,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 78262,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2666  GRAND AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Residential Care Facility",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

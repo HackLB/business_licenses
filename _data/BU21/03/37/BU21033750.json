@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16309352405287,
+            33.7666012109975
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "JONES LIQUOR",
+        "EXPDTTM": "2017-08-10T00:00:00.000Z",
+        "EXPDTTM_IN": "8/10/2017",
+        "FULLNAME": "MUNZER ABDOLHAI",
+        "GPSX": 6512095.00666667,
+        "GPSY": 1737482.875,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2010-10-20T00:00:00.000Z",
+        "LICCATDESC": "Food Retail Store w/ Alcohol",
+        "LICENSEDTTM": "2010-10-20T00:00:00.000Z",
+        "LICENSENO": "BU21033750",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 76801,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2435 E BROADWAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Retail Store w/ Alcohol",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

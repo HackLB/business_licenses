@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19558211201716,
+            33.76813408659356
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": "TEST TEST",
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2016-07-25T00:00:00.000Z",
+        "EXPDTTM_IN": "7/25/2016",
+        "FULLNAME": "TEST",
+        "GPSX": 6502221.32,
+        "GPSY": 1738058.35,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2015-07-25T00:00:00.000Z",
+        "LICCATDESC": "Accounting",
+        "LICENSEDTTM": "2015-07-25T00:00:00.000Z",
+        "LICENSENO": "BU1120",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Void",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-07-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 120551,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "333 W OCEAN BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Accounting",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

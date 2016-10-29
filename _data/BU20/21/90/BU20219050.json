@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.2229636426476,
+            33.78546921547672
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "RPM HARBOR SERVICES INC",
+        "EXPDTTM": "2017-01-02T00:00:00.000Z",
+        "EXPDTTM_IN": "1/2/2017",
+        "FULLNAME": "RPM TRANSPORTATION INC",
+        "GPSX": 6493912.9675,
+        "GPSY": 1744384.40833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2002-04-22T00:00:00.000Z",
+        "LICCATDESC": "Transportation Facility (Fleet Facility)",
+        "LICENSEDTTM": "2002-04-22T00:00:00.000Z",
+        "LICENSENO": "BU20219050",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-01-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 7,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 65849,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2338  GAYLORD ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Transportation Facility (Fleet Facility)",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

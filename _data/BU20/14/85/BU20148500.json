@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14047868905865,
+            33.78009814039765
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "SCHOONER YACHT SERVICE",
+        "EXPDTTM": "2006-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2006",
+        "FULLNAME": "RICHARD BRILES",
+        "GPSX": 6518975.56,
+        "GPSY": 1742384.41,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-01-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1996-10-03T00:00:00.000Z",
+        "LICCATDESC": "Boat Cleaning/Repair (Mobile Service)",
+        "LICENSEDTTM": "2001-11-28T00:00:00.000Z",
+        "LICENSENO": "BU20148500",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-02-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 20800,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1061  PARK AVE 107",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Boat Cleaning/Repair (Mobile Service)",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

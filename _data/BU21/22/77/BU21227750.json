@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15273739541531,
+            33.81002665031462
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "INTELLIGENT ENERGY INC",
+        "EXPDTTM": "2013-08-20T00:00:00.000Z",
+        "EXPDTTM_IN": "8/20/2013",
+        "FULLNAME": "INTELLIGENT ENERGY INC",
+        "GPSX": 6515266.72416667,
+        "GPSY": 1753281.6425,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-08-20T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-08-20T00:00:00.000Z",
+        "LICCATDESC": "Engineering",
+        "LICENSEDTTM": "2012-08-20T00:00:00.000Z",
+        "LICENSENO": "BU21227750",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-04-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 16,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 41665,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3450 E SPRING ST 203",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Engineering",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

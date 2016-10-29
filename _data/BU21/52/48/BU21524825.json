@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19986677785523,
+            33.789142679375495
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "KEYA GHAMARI",
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "AGP TOWING",
+        "EXPDTTM": "2016-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2016",
+        "FULLNAME": "R & J TOWING INC",
+        "GPSX": 6500934.24,
+        "GPSY": 1745706.52,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2015-11-01T00:00:00.000Z",
+        "LICCATDESC": "Towing with Impound",
+        "LICENSEDTTM": "2015-10-29T00:00:00.000Z",
+        "LICENSENO": "BU21524825",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-01-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 1678,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "621 W ESTHER ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Towing with Impound",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

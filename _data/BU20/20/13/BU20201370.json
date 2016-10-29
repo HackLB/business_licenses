@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17579217030163,
+            33.782886817227194
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "THAI BEACHES CORP",
+        "EXPDTTM": "2003-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2003",
+        "FULLNAME": "THAI BEACHES CORP",
+        "GPSX": 6508245.67,
+        "GPSY": 1743416.17,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2002-01-11T00:00:00.000Z",
+        "LICCATDESC": "Restaurant & Ready to Eat Foods with Alcohol",
+        "LICENSEDTTM": "2002-01-11T00:00:00.000Z",
+        "LICENSENO": "BU20201370",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-07-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 7,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 140095,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1223 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Restaurant & Ready to Eat Foods with Alcohol",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

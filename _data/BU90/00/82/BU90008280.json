@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17520304468502,
+            33.86038151457362
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2010-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2010",
+        "FULLNAME": "DIAGNOSTIC VETERINARY LABORATORIES INC",
+        "GPSX": 6508473.855,
+        "GPSY": 1771618.18666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1990-02-12T00:00:00.000Z",
+        "LICCATDESC": "Laboratory ??? Other",
+        "LICENSEDTTM": "1990-02-12T00:00:00.000Z",
+        "LICENSENO": "BU90008280",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-04-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 87490,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1401  SOUTH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laboratory ??? Other",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

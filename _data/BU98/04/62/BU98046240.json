@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1448824838545,
+            33.774156425433816
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "SMITH DEVELOPMENT SERVICES",
+        "EXPDTTM": "2005-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2005",
+        "FULLNAME": "SHANNON SMITH",
+        "GPSX": 6517634.1425,
+        "GPSY": 1740223.9525,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2005-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1998-11-25T00:00:00.000Z",
+        "LICCATDESC": "Property Management",
+        "LICENSEDTTM": "1998-11-25T00:00:00.000Z",
+        "LICENSENO": "BU98046240",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-12-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 146782,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4042  THERESA ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Property Management",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

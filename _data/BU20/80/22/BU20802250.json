@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13242309869085,
+            33.79477862209851
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "AQUARIUM MAINTENANCE",
+        "EXPDTTM": "2015-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2015",
+        "FULLNAME": "GERALDO RODRIGUEZ CASARES JR",
+        "GPSX": 6521430.67,
+        "GPSY": 1747723.72,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-08-24T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2006-02-16T00:00:00.000Z",
+        "LICCATDESC": "Mobile Services - Misc.",
+        "LICENSEDTTM": "2008-01-16T00:00:00.000Z",
+        "LICENSENO": "BU20802250",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-08-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 169959,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2125  FIDLER AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mobile Services - Misc.",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

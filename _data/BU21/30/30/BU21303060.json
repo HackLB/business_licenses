@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1135312955883,
+            33.807044855718694
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2016-11-28T00:00:00.000Z",
+        "EXPDTTM_IN": "11/28/2016",
+        "FULLNAME": "KERI SCHREINER",
+        "GPSX": 6527175.875,
+        "GPSY": 1752180.7125,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2013-01-30T00:00:00.000Z",
+        "LICCATDESC": "Writing",
+        "LICENSEDTTM": "2013-01-30T00:00:00.000Z",
+        "LICENSENO": "BU21303060",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 61261,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2785  VUELTA GRANDE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Writing",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

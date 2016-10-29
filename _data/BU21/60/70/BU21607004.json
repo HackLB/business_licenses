@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.125749207648,
+            33.79411437999632
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "SHANA RADNIA",
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "BELLFLOWER GAS INC",
+        "EXPDTTM": null,
+        "EXPDTTM_IN": null,
+        "FULLNAME": "BELLFLOWER GAS INC",
+        "GPSX": 6523458.19,
+        "GPSY": 1747479.38,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2016-10-03T00:00:00.000Z",
+        "LICCATDESC": "Gas Station",
+        "LICENSEDTTM": "2016-09-28T00:00:00.000Z",
+        "LICENSENO": "BU21607004",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Pending",
+        "MILESTONE": "Pending",
+        "MILESTONEDATE": "2016-09-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 3430,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2103  BELLFLOWER BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Gas Station",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

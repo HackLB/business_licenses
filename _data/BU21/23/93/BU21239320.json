@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13632648910003,
+            33.761201413240556
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "PARIS TAILORS",
+        "EXPDTTM": "2017-05-14T00:00:00.000Z",
+        "EXPDTTM_IN": "5/14/2017",
+        "FULLNAME": "TUYETVAN CAO",
+        "GPSX": 6520228.075,
+        "GPSY": 1735505.61583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2012-11-30T00:00:00.000Z",
+        "LICCATDESC": "Dry Cleaner",
+        "LICENSEDTTM": "2012-11-30T00:00:00.000Z",
+        "LICENSENO": "BU21239320",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 144875,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5003  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dry Cleaner",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

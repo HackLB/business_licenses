@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14614041744015,
+            33.78771149110092
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "JANET NAPOLITANO",
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "UC IRVINE HEALTH DEPARTMENT OF PATHOLOGY",
+        "EXPDTTM": "2016-12-15T00:00:00.000Z",
+        "EXPDTTM_IN": "12/15/2016",
+        "FULLNAME": "REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+        "GPSX": 6517259.005,
+        "GPSY": 1745157.5725,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2015-12-15T00:00:00.000Z",
+        "LICCATDESC": "Laboratory ??? Other",
+        "LICENSEDTTM": "2015-11-23T00:00:00.000Z",
+        "LICENSENO": "BU21525301",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-02-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 141778,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1649  TERMINO AVE",
+        "STATELICNO": "CLF00000975",
+        "TYPEOFBUSINESS": "Laboratory ??? Other",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

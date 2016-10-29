@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15066145812007,
+            33.80579943156127
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "JAVA STOP EXPRESS",
+        "EXPDTTM": "2012-12-11T00:00:00.000Z",
+        "EXPDTTM_IN": "12/11/2012",
+        "FULLNAME": "TOM DIMITROPOULOS",
+        "GPSX": 6515895.065,
+        "GPSY": 1751742.29333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-12-11T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1995-12-11T00:00:00.000Z",
+        "LICCATDESC": "Food Vending Carts",
+        "LICENSEDTTM": "1996-12-11T00:00:00.000Z",
+        "LICENSENO": "BU96046340",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-07-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 171349,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2600  REDONDO AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Vending Carts",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20207256567032,
+            33.78356546591336
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2016-02-08T00:00:00.000Z",
+        "EXPDTTM_IN": "2/8/2016",
+        "FULLNAME": "KEN'S PLUMBING INC",
+        "GPSX": 6500259.9,
+        "GPSY": 1743678.16,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1984-02-01T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Plumbing",
+        "LICENSEDTTM": "1998-02-12T00:00:00.000Z",
+        "LICENSENO": "BU98005230",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-03-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 56791,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "704 W 14TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Plumbing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

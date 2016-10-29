@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1945483903708,
+            33.764983190308875
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "HYATT THE PIKE LONG BEACH",
+        "EXPDTTM": "2017-07-15T00:00:00.000Z",
+        "EXPDTTM_IN": "7/15/2017",
+        "FULLNAME": "SELECT HOTELS GROUP LLC",
+        "GPSX": 6502533.29,
+        "GPSY": 1736911.04,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2011-10-21T00:00:00.000Z",
+        "LICCATDESC": "Hotel",
+        "LICENSEDTTM": "2011-10-21T00:00:00.000Z",
+        "LICENSENO": "BU21133680",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-07-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 50,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 39896,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "285  BAY ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Hotel",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

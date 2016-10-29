@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14948159175266,
+            33.78219837547641
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "PET PALACE",
+        "EXPDTTM": "2012-01-06T00:00:00.000Z",
+        "EXPDTTM_IN": "1/6/2012",
+        "FULLNAME": "NUVIA RODRIGUEZ",
+        "GPSX": 6516240.74,
+        "GPSY": 1743152.69,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-02-16T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-05-02T00:00:00.000Z",
+        "LICCATDESC": "Pet Grooming",
+        "LICENSEDTTM": "2012-05-02T00:00:00.000Z",
+        "LICENSENO": "BU21214770",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-02-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 131214,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3636 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pet Grooming",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

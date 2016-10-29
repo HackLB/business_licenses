@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13968584217506,
+            33.76890675434594
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "RAEN",
+        "EXPDTTM": "2007-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2007",
+        "FULLNAME": "SHERAE KIM",
+        "GPSX": 6519210.84416667,
+        "GPSY": 1738311.2125,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2007-05-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2005-06-22T00:00:00.000Z",
+        "LICCATDESC": "Jewelry Making",
+        "LICENSEDTTM": "2005-06-22T00:00:00.000Z",
+        "LICENSENO": "BU20532880",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-03-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 121244,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "323  QUINCY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Jewelry Making",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

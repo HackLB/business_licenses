@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11508033375532,
+            33.82985150967981
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "LAKEWOOD POST 496",
+        "EXPDTTM": "2017-04-24T00:00:00.000Z",
+        "EXPDTTM_IN": "4/24/2017",
+        "FULLNAME": "AMERICAN LEGION DEPT OF CALIFORNIA, THE",
+        "GPSX": 6526714.78,
+        "GPSY": 1760481.19,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1992-04-24T00:00:00.000Z",
+        "LICCATDESC": "Hall Rental",
+        "LICENSEDTTM": "1992-04-24T00:00:00.000Z",
+        "LICENSENO": "BU92019610",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-04-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 26390,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5938  PARKCREST ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Hall Rental",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

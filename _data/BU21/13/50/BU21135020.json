@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15206290311997,
+            33.78400111816312
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "DANIELS PLUMBING & SON",
+        "EXPDTTM": "2016-11-02T00:00:00.000Z",
+        "EXPDTTM_IN": "11/2/2016",
+        "FULLNAME": "DANIEL'S PLUMBING AND SON INC",
+        "GPSX": 6515457.29916667,
+        "GPSY": 1743809.935,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2011-11-02T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Plumbing",
+        "LICENSEDTTM": "2011-11-02T00:00:00.000Z",
+        "LICENSENO": "BU21135020",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-11-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 165704,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1370  REDONDO AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Plumbing",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10996008732765,
+            33.81115479489851
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "TOMRA PACIFIC INC",
+        "EXPDTTM": "2012-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2012",
+        "FULLNAME": "TOMRA PACIFIC INC",
+        "GPSX": 6528262.44333333,
+        "GPSY": 1753675.22333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2003-08-01T00:00:00.000Z",
+        "LICCATDESC": "Recycling Buy-Back Center (cans and bottles)",
+        "LICENSEDTTM": "2010-04-29T00:00:00.000Z",
+        "LICENSENO": "BU21013970",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-05-01T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 161480,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6235 E SPRING ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Recycling Buy-Back Center (cans and bottles)",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15404785098328,
+            33.863413181775556
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2017-09-12T00:00:00.000Z",
+        "EXPDTTM_IN": "9/12/2017",
+        "FULLNAME": "LONG BEACH ROOFING INC",
+        "GPSX": 6514898.39833333,
+        "GPSY": 1772710.965,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1991-10-02T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Roofing",
+        "LICENSEDTTM": "2006-07-14T00:00:00.000Z",
+        "LICENSENO": "BU20634940",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-09-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 60611,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3265  59TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Roofing",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

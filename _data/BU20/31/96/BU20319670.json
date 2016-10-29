@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18904891218935,
+            33.83415314325247
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "TRAVEL AND TRADE CAREER INSTITUTE",
+        "EXPDTTM": "2006-01-02T00:00:00.000Z",
+        "EXPDTTM_IN": "1/2/2006",
+        "FULLNAME": "TRANSPORTATION TRAINING CORP",
+        "GPSX": 6504252.21,
+        "GPSY": 1762080.65,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-01-02T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2003-04-25T00:00:00.000Z",
+        "LICCATDESC": "Business/Professional School",
+        "LICENSEDTTM": "2003-04-25T00:00:00.000Z",
+        "LICENSENO": "BU20319670",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-04-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 32,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 42016,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4150  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business/Professional School",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

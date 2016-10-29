@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.20975182900057,
+            33.78755211263303
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "TOWING ETC",
+        "EXPDTTM": "2009-05-15T00:00:00.000Z",
+        "EXPDTTM_IN": "5/15/2009",
+        "FULLNAME": "PAMELA JACKSON",
+        "GPSX": 6497929.32,
+        "GPSY": 1745133.79,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-05-15T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2008-05-15T00:00:00.000Z",
+        "LICCATDESC": "Towing",
+        "LICENSEDTTM": "2008-05-15T00:00:00.000Z",
+        "LICENSENO": "BU20823680",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-05-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 130096,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1341 W 16TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Towing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

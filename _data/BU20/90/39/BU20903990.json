@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.108351825977,
+            33.75191637655389
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Unique Businesses",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2017-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2017",
+        "FULLNAME": "OLD TOWN BAKING COMPANY",
+        "GPSX": 6528727.77,
+        "GPSY": 1732116.17,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1980-06-01T00:00:00.000Z",
+        "LICCATDESC": "Farmers Market",
+        "LICENSEDTTM": "2009-01-28T00:00:00.000Z",
+        "LICENSENO": "BU20903990",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-05-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 1,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 131525,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "231  MARINA DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Farmers Market",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

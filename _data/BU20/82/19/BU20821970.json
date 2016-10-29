@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17968405791777,
+            33.85406986056187
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2017-08-14T00:00:00.000Z",
+        "EXPDTTM_IN": "8/14/2017",
+        "FULLNAME": "ANYTIME PLUMBING & PIPE INC",
+        "GPSX": 6507109.285,
+        "GPSY": 1769323.62333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2008-05-07T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Plumbing",
+        "LICENSEDTTM": "2008-05-07T00:00:00.000Z",
+        "LICENSENO": "BU20821970",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 81988,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1054 E MARKET ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Plumbing",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

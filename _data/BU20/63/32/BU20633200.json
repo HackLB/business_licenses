@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19429323336583,
+            33.84897557622257
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "L B PAWN SHOP (INCLDS 5106-08)",
+        "EXPDTTM": "2014-09-06T00:00:00.000Z",
+        "EXPDTTM_IN": "9/6/2014",
+        "FULLNAME": "CHUPAL INC",
+        "GPSX": 6502669.93,
+        "GPSY": 1767477.94,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-09-06T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2006-07-03T00:00:00.000Z",
+        "LICCATDESC": "Pawn Shop",
+        "LICENSEDTTM": "2006-07-03T00:00:00.000Z",
+        "LICENSENO": "BU20633200",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-01-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 105205,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5106  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pawn Shop",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

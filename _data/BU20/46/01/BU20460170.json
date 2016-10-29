@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18745766261796,
+            33.77094150667871
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "BAY HOTEL",
+        "EXPDTTM": "2015-10-07T00:00:00.000Z",
+        "EXPDTTM_IN": "10/7/2015",
+        "FULLNAME": "MONICA MASUDA",
+        "GPSX": 6504692.5725,
+        "GPSY": 1739075.34416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-10-07T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2004-12-15T00:00:00.000Z",
+        "LICCATDESC": "Hotel",
+        "LICENSEDTTM": "2004-12-15T00:00:00.000Z",
+        "LICENSENO": "BU20460170",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-10-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 95854,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "318  ELM AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Hotel",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

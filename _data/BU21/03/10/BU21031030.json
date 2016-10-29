@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16212454267978,
+            33.771551342066765
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "4THSTREET",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "4TH STREET POSTAL",
+        "EXPDTTM": "2016-10-15T00:00:00.000Z",
+        "EXPDTTM_IN": "10/15/2016",
+        "FULLNAME": "4TH STREET POSTAL INC",
+        "GPSX": 6512392.43,
+        "GPSY": 1739283.89166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2010-09-24T00:00:00.000Z",
+        "LICCATDESC": "Mailbox Rental",
+        "LICENSEDTTM": "2010-09-24T00:00:00.000Z",
+        "LICENSENO": "BU21031030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-09-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 104639,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2436 E 4TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mailbox Rental",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

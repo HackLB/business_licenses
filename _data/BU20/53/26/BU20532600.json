@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14875889327095,
+            33.80183516629986
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2013-04-15T00:00:00.000Z",
+        "EXPDTTM_IN": "4/15/2013",
+        "FULLNAME": "NEWBRIDGE COLLEGE",
+        "GPSX": 6516470.93666666,
+        "GPSY": 1750298.73,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-04-15T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2004-03-25T00:00:00.000Z",
+        "LICCATDESC": "Business/Professional School",
+        "LICENSEDTTM": "2005-06-20T00:00:00.000Z",
+        "LICENSENO": "BU20532600",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-12-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 33,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 142411,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3799 E BURNETT ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business/Professional School",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

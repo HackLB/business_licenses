@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12557552816463,
+            33.75709361999791
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "CALIFORNIA SUMMER",
+        "EXPDTTM": "2006-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2006",
+        "FULLNAME": "TODD MILLER",
+        "GPSX": 6523494.13,
+        "GPSY": 1734006.41333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1994-03-07T00:00:00.000Z",
+        "LICCATDESC": "Tanning Salon",
+        "LICENSEDTTM": "1994-11-30T00:00:00.000Z",
+        "LICENSENO": "BU94060580",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-02-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 89109,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5580  2ND ST 101",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tanning Salon",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18463706452314,
+            33.832385055354756
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "SUPER PRINTING",
+        "EXPDTTM": "2007-10-10T00:00:00.000Z",
+        "EXPDTTM_IN": "10/10/2007",
+        "FULLNAME": "JEN-HO TSUI CHEN",
+        "GPSX": 6505590.91166667,
+        "GPSY": 1761434.7075,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-10-10T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2003-10-07T00:00:00.000Z",
+        "LICCATDESC": "Photocopying",
+        "LICENSEDTTM": "2003-10-07T00:00:00.000Z",
+        "LICENSENO": "BU20347360",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-10-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 143974,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4130  ATLANTIC AVE 102",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Photocopying",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

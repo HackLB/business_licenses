@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21580240747637,
+            33.81031017339261
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2009-02-05T00:00:00.000Z",
+        "EXPDTTM_IN": "2/5/2009",
+        "FULLNAME": "COMPREHENSIVE CHILD DEVELOPMENT INC",
+        "GPSX": 6496108.51333333,
+        "GPSY": 1753419.94583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-02-05T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2003-10-09T00:00:00.000Z",
+        "LICCATDESC": "Day Care/Preschool",
+        "LICENSEDTTM": "2003-10-22T00:00:00.000Z",
+        "LICENSENO": "BU20349630",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-01-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 113977,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2901  SANTA FE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Day Care/Preschool",
+        "ZIP": "90810"
+    },
+    "type": "Feature"
+}

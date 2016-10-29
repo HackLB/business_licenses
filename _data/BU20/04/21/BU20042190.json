@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.2127259180274,
+            33.803776614675
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2003-10-23T00:00:00.000Z",
+        "EXPDTTM_IN": "10/23/2003",
+        "FULLNAME": "TOMRA PACIFIC INC",
+        "GPSX": 6497038.08,
+        "GPSY": 1751040.22,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-10-23T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-10-03T00:00:00.000Z",
+        "LICCATDESC": "Recycling Buy-Back Center (cans and bottles)",
+        "LICENSEDTTM": "2000-10-20T00:00:00.000Z",
+        "LICENSENO": "BU20042190",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-09-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 120876,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1500 W WILLOW ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Recycling Buy-Back Center (cans and bottles)",
+        "ZIP": "90810"
+    },
+    "type": "Feature"
+}

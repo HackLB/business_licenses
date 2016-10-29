@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18354104826358,
+            33.85454138406058
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "FELIPE E SANDOVAL",
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2017-02-02T00:00:00.000Z",
+        "EXPDTTM_IN": "2/2/2017",
+        "FULLNAME": "EDDIE'S AUTO DETAIL, CORP.",
+        "GPSX": 6505938.50333333,
+        "GPSY": 1769497.33833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2016-02-02T00:00:00.000Z",
+        "LICCATDESC": "Auto Detailing",
+        "LICENSEDTTM": "2016-03-01T00:00:00.000Z",
+        "LICENSENO": "BU21601211",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-03-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 2128,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "711 E MARKET ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto Detailing",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12983744107117,
+            33.76585489348226
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2004-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2004",
+        "FULLNAME": "BALDWIN BUSINESS SERVICE INC",
+        "GPSX": 6522202.71,
+        "GPSY": 1737196.54,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2004-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1991-12-02T00:00:00.000Z",
+        "LICCATDESC": "Bookkeeping",
+        "LICENSEDTTM": "2002-08-27T00:00:00.000Z",
+        "LICENSENO": "BU20238520",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-12-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 3487,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5248  APPIAN WAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Bookkeeping",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

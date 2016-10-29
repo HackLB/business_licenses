@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14349828028423,
+            33.78376538856308
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "BAYFRONT YOUTH AND FAMILY SERVICES",
+        "EXPDTTM": "2016-04-27T00:00:00.000Z",
+        "EXPDTTM_IN": "4/27/2016",
+        "FULLNAME": "BAYFRONT YOUTH AND FAMILY SERVICES",
+        "GPSX": 6518059.82,
+        "GPSY": 1743720.32,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-04-27T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-04-19T00:00:00.000Z",
+        "LICCATDESC": "Residential Care Facility",
+        "LICENSEDTTM": "2012-04-19T00:00:00.000Z",
+        "LICENSENO": "BU21213010",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-04-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 85,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 52135,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4151  FOUNTAIN ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Residential Care Facility",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

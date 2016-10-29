@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12259563671327,
+            33.756510141296864
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "KELLYS RESTAURANT",
+        "EXPDTTM": "2013-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2013",
+        "FULLNAME": "KELLYS RESTAURANT HOLDINGS LLC",
+        "GPSX": 6524399.7,
+        "GPSY": 1733792.95,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2010-10-27T00:00:00.000Z",
+        "LICCATDESC": "Restaurant & Ready to Eat Foods with Alcohol",
+        "LICENSEDTTM": "2010-10-27T00:00:00.000Z",
+        "LICENSENO": "BU21034620",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-11-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 22,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 57898,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5716  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Restaurant & Ready to Eat Foods with Alcohol",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

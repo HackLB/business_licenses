@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1539868195706,
+            33.76414976366841
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "AMERICAN PARKING SERVICES",
+        "EXPDTTM": "2017-09-11T00:00:00.000Z",
+        "EXPDTTM_IN": "9/11/2017",
+        "FULLNAME": "CROSSROADS INVESTMENTS INC",
+        "GPSX": 6514861.58583333,
+        "GPSY": 1736586.3575,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2014-09-11T00:00:00.000Z",
+        "LICCATDESC": "Valet Service",
+        "LICENSEDTTM": "2014-09-11T00:00:00.000Z",
+        "LICENSENO": "BU21428480",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-09-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 119684,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3222 E BROADWAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Valet Service",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

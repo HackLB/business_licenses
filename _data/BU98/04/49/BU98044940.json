@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10902041292871,
+            33.757801351991176
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "Z-OPTOMETRIC",
+        "EXPDTTM": "2012-12-15T00:00:00.000Z",
+        "EXPDTTM_IN": "12/15/2012",
+        "FULLNAME": "MICHAEL FANAROF",
+        "GPSX": 6528526.84270834,
+        "GPSY": 1734258.105,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-12-15T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1987-09-01T00:00:00.000Z",
+        "LICCATDESC": "Optometry",
+        "LICENSEDTTM": "1998-11-17T00:00:00.000Z",
+        "LICENSENO": "BU98044940",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-02-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 178421,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6451 E PACIFIC COAST HWY 5",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Optometry",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

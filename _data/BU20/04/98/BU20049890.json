@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1099557739197,
+            33.809692847298166
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "DAY DENTAL CORP",
+        "EXPDTTM": "2002-12-27T00:00:00.000Z",
+        "EXPDTTM_IN": "12/27/2002",
+        "FULLNAME": "DAY DENTAL CORP",
+        "GPSX": 6528263.17166667,
+        "GPSY": 1753143.18,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2002-12-27T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2000-12-27T00:00:00.000Z",
+        "LICCATDESC": "Dental Office",
+        "LICENSEDTTM": "2000-12-27T00:00:00.000Z",
+        "LICENSENO": "BU20049890",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-02-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 123153,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6226 E SPRING ST 200",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dental Office",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

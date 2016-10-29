@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18463808494367,
+            33.832033462062014
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "STEARNS",
+        "EXPDTTM": "2017-04-02T00:00:00.000Z",
+        "EXPDTTM_IN": "4/2/2017",
+        "FULLNAME": "LIQUOR TOWN INC",
+        "GPSX": 6505590.36666667,
+        "GPSY": 1761306.75416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2014-04-02T00:00:00.000Z",
+        "LICCATDESC": "Food Retail Store w/ Alcohol",
+        "LICENSEDTTM": "2014-04-02T00:00:00.000Z",
+        "LICENSENO": "BU21411170",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Pending",
+        "MILESTONE": "Pending",
+        "MILESTONEDATE": "2015-06-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 55503,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4100  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Retail Store w/ Alcohol",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

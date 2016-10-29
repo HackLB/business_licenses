@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17635983993547,
+            33.76486861418509
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "CORPORATE STAFFING",
+        "EXPDTTM": "2006-01-03T00:00:00.000Z",
+        "EXPDTTM_IN": "1/3/2006",
+        "FULLNAME": "MICHAEL T GROSSO",
+        "GPSX": 6508061.6575,
+        "GPSY": 1736859.1425,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-01-03T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2003-01-03T00:00:00.000Z",
+        "LICCATDESC": "Employment Agent",
+        "LICENSEDTTM": "2004-01-15T00:00:00.000Z",
+        "LICENSENO": "BU20401750",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-02-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 174437,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "21  7TH PL 209",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Employment Agent",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

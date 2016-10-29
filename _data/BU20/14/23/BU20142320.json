@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18534555285194,
+            33.80187457799938
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": null,
+        "EXPDTTM": "2004-09-25T00:00:00.000Z",
+        "EXPDTTM_IN": "9/25/2004",
+        "FULLNAME": "AMERICAN HANDICAPPED AND DISAVANTAGES",
+        "GPSX": 6505355.26416667,
+        "GPSY": 1750331.54666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-09-25T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1999-10-13T00:00:00.000Z",
+        "LICCATDESC": "Telemarketing",
+        "LICENSEDTTM": "2001-10-15T00:00:00.000Z",
+        "LICENSENO": "BU20142320",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-08-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 25,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 85739,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2461  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Telemarketing",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

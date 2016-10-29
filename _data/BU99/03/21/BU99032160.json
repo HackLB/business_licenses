@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17399834584157,
+            33.812174254812746
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "KRUGER TOW",
+        "EXPDTTM": "2003-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2003",
+        "FULLNAME": "KRUGER TOW LLC",
+        "GPSX": 6508809.24,
+        "GPSY": 1754073.71,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1999-08-25T00:00:00.000Z",
+        "LICCATDESC": "Towing",
+        "LICENSEDTTM": "1999-08-25T00:00:00.000Z",
+        "LICENSENO": "BU99032160",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-01-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 111735,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1335 E SPRING ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Towing",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

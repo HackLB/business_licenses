@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18463678128971,
+            33.831204131997495
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "FEDEX KINKO'S #1722",
+        "EXPDTTM": "2017-02-25T00:00:00.000Z",
+        "EXPDTTM_IN": "2/25/2017",
+        "FULLNAME": "FEDEX OFFICE & PRINT SERVICES INC",
+        "GPSX": 6505590.20833333,
+        "GPSY": 1761004.93916667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2008-05-12T00:00:00.000Z",
+        "LICCATDESC": "Printing ??? Offset",
+        "LICENSEDTTM": "2009-04-20T00:00:00.000Z",
+        "LICENSENO": "BU20915350",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-02-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 40381,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4000  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Printing ??? Offset",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

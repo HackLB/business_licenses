@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11450359692485,
+            33.747452713606314
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "KHOURY'S RESTAURANT",
+        "EXPDTTM": "2008-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2008",
+        "FULLNAME": "CREATIVE CUISINE INC",
+        "GPSX": 6526855.785,
+        "GPSY": 1730493.78416666,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2008-02-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1992-07-02T00:00:00.000Z",
+        "LICCATDESC": "Restaurant & Ready to Eat Foods with Alcohol",
+        "LICENSEDTTM": "1997-03-03T00:00:00.000Z",
+        "LICENSENO": "BU97008210",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-05-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 30,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 75959,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "110  MARINA DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Restaurant & Ready to Eat Foods with Alcohol",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

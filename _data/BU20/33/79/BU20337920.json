@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18822643182122,
+            33.865260878955496
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "JOHN W LITTLEJOHN CONCRETE CONTRACTOR",
+        "EXPDTTM": "2012-01-02T00:00:00.000Z",
+        "EXPDTTM_IN": "1/2/2012",
+        "FULLNAME": "JOHN W LITTLEJOHN",
+        "GPSX": 6504523.1975,
+        "GPSY": 1773401.05333333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-04-27T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Cement",
+        "LICENSEDTTM": "2003-08-11T00:00:00.000Z",
+        "LICENSENO": "BU20337920",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "ClosedWBal",
+        "MILESTONE": "Collections",
+        "MILESTONEDATE": "2012-10-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 41461,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "419  61ST ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Cement",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

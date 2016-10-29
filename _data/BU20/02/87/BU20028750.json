@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10996008732765,
+            33.81115479489851
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "20/20 RECYCLE CENTERS",
+        "EXPDTTM": "2003-06-11T00:00:00.000Z",
+        "EXPDTTM_IN": "6/11/2003",
+        "FULLNAME": "CONTAIN AWAY INC",
+        "GPSX": 6528262.44333333,
+        "GPSY": 1753675.22333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-06-11T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1998-04-22T00:00:00.000Z",
+        "LICCATDESC": "Recycling Buy-Back Center (cans and bottles)",
+        "LICENSEDTTM": "2000-07-17T00:00:00.000Z",
+        "LICENSENO": "BU20028750",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-06-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 5273,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6235 E SPRING ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Recycling Buy-Back Center (cans and bottles)",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

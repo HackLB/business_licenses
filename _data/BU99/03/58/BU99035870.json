@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16193151176506,
+            33.782334828891436
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "MARQUEZ BROS PLUMBING",
+        "EXPDTTM": "2017-01-13T00:00:00.000Z",
+        "EXPDTTM_IN": "1/13/2017",
+        "FULLNAME": "JESUS MARQUEZ",
+        "GPSX": 6512457.42,
+        "GPSY": 1743208.21,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-09-23T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Plumbing",
+        "LICENSEDTTM": "1999-09-23T00:00:00.000Z",
+        "LICENSENO": "BU99035870",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-01-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 51603,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2510 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Plumbing",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

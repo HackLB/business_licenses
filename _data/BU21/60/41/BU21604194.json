@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18459867060147,
+            33.81966649751049
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "DEBORAH MARKZAR",
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "MEDCOMPUNDERS PHARMACY #808",
+        "EXPDTTM": null,
+        "EXPDTTM_IN": null,
+        "FULLNAME": "MEDCOMPOUNDERS PHARMACY INC",
+        "GPSX": 6505594.07166667,
+        "GPSY": 1756806.07666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2016-02-15T00:00:00.000Z",
+        "LICCATDESC": "Pharmacy",
+        "LICENSEDTTM": "2016-06-30T00:00:00.000Z",
+        "LICENSENO": "BU21604194",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Pending",
+        "MILESTONE": "Pending",
+        "MILESTONEDATE": "2016-06-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 2912,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3440  ATLANTIC AVE",
+        "STATELICNO": "51696",
+        "TYPEOFBUSINESS": "Pharmacy",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.22250309112724,
+            33.80193110148822
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2007-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2007",
+        "FULLNAME": "UNIVERSAL FREIGHT FORWARDERS LTD",
+        "GPSX": 6494066.18,
+        "GPSY": 1750375.02,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2006-11-16T00:00:00.000Z",
+        "LICCATDESC": "Freight Forwarding",
+        "LICENSEDTTM": "2006-11-16T00:00:00.000Z",
+        "LICENSENO": "BU20655640",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-04-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 80736,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2300 W WILLOW ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Freight Forwarding",
+        "ZIP": "90810"
+    },
+    "type": "Feature"
+}

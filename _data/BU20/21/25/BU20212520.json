@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19329614351612,
+            33.794182311826795
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "WORLD TAEKWONDO",
+        "EXPDTTM": "2003-12-29T00:00:00.000Z",
+        "EXPDTTM_IN": "12/29/2003",
+        "FULLNAME": "SAM NOU",
+        "GPSX": 6502934.3475,
+        "GPSY": 1747536.67416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-12-03T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1999-05-24T00:00:00.000Z",
+        "LICCATDESC": "Martial Arts Studio",
+        "LICENSEDTTM": "2002-03-19T00:00:00.000Z",
+        "LICENSENO": "BU20212520",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 12329,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2038  PACIFIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Martial Arts Studio",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

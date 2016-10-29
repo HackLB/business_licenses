@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1929139974786,
+            33.768412396419066
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": null,
+        "EXPDTTM": "2016-11-17T00:00:00.000Z",
+        "EXPDTTM_IN": "11/17/2016",
+        "FULLNAME": "EXPRESS VALET PARKING INC",
+        "GPSX": 6503032.46166667,
+        "GPSY": 1738158.0675,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2004-11-22T00:00:00.000Z",
+        "LICCATDESC": "Valet Service",
+        "LICENSEDTTM": "2004-11-22T00:00:00.000Z",
+        "LICENSENO": "BU20456520",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-11-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 168260,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "123 W 1ST ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Valet Service",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

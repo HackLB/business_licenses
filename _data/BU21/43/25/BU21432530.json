@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10534999443834,
+            33.78936824181124
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "SUNBEAM CONSULTING INC",
+        "EXPDTTM": "2016-10-25T00:00:00.000Z",
+        "EXPDTTM_IN": "10/25/2016",
+        "FULLNAME": "SUNBEAM SOLAR TECHNOLOGIES INC",
+        "GPSX": 6529654.61,
+        "GPSY": 1745745.00416667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2014-10-16T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Engineering",
+        "LICENSEDTTM": "2014-10-16T00:00:00.000Z",
+        "LICENSENO": "BU21432530",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-11-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 6520,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1817  JOSIE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Engineering",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

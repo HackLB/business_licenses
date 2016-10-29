@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18817049613935,
+            33.77032380493782
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "RUSSELL DAVID QUACKENBUSH",
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "QUACKENBUSH PHOTOGRPHY",
+        "EXPDTTM": "2017-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2017",
+        "FULLNAME": "QUACKENBUSH PHOTOGRAPHY INC",
+        "GPSX": 6504475.5,
+        "GPSY": 1738850.95,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2016-01-01T00:00:00.000Z",
+        "LICCATDESC": "Photography ??? Freelance",
+        "LICENSEDTTM": "2016-08-15T00:00:00.000Z",
+        "LICENSENO": "BU21605565",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-08-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 141,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "346 E 3RD ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Photography ??? Freelance",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

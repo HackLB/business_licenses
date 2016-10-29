@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18690441809841,
+            33.82057920841411
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "MENTORING A TOUCH FROM ABOVE",
+        "EXPDTTM": "2014-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2014",
+        "FULLNAME": "MENTORING A TOUCH FROM ABOVE",
+        "GPSX": 6504894.31,
+        "GPSY": 1757139.53,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-09-24T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1999-11-01T00:00:00.000Z",
+        "LICCATDESC": "PIA Only",
+        "LICENSEDTTM": "2003-11-05T00:00:00.000Z",
+        "LICENSENO": "BU20351740",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "CollcInBus",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-09-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 134546,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3515  LINDEN AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "PIA Only",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

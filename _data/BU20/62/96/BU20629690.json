@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.112630975386,
+            33.758411346629096
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "ALBERTSON #6120",
+        "EXPDTTM": "2013-06-02T00:00:00.000Z",
+        "EXPDTTM_IN": "6/2/2013",
+        "FULLNAME": "AMERICAN STORES COMPANY LLC",
+        "GPSX": 6527429.56,
+        "GPSY": 1734481.31,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-06-02T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2006-06-12T00:00:00.000Z",
+        "LICCATDESC": "Food Retail Store w/ Alcohol",
+        "LICENSEDTTM": "2006-06-12T00:00:00.000Z",
+        "LICENSENO": "BU20629690",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-03-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 82,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 60002,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6255  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Retail Store w/ Alcohol",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1869660388683,
+            33.87887391227461
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2014-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2014",
+        "FULLNAME": "MARKET RECYCLING INC",
+        "GPSX": 6504915.05333333,
+        "GPSY": 1778354.44583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-02-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2003-01-28T00:00:00.000Z",
+        "LICCATDESC": "Recycling Center",
+        "LICENSEDTTM": "2003-01-28T00:00:00.000Z",
+        "LICENSENO": "BU20304290",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-07-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 128663,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6845  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Recycling Center",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14307850717418,
+            33.78098908132853
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "LUCIA & CO",
+        "EXPDTTM": "2017-08-17T00:00:00.000Z",
+        "EXPDTTM_IN": "8/17/2017",
+        "FULLNAME": "LUCIA ET CIE LLC",
+        "GPSX": 6518185.94416667,
+        "GPSY": 1742709.7625,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-08-16T00:00:00.000Z",
+        "LICCATDESC": "Catering/Party Consulting",
+        "LICENSEDTTM": "2012-08-16T00:00:00.000Z",
+        "LICENSENO": "BU21227370",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 146887,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4223 E 11TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Catering/Party Consulting",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

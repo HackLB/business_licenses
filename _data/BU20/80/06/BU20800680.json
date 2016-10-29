@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.10000437904036,
+            33.80058551899865
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2012-11-28T00:00:00.000Z",
+        "EXPDTTM_IN": "11/28/2012",
+        "FULLNAME": "KERI SCHREINER",
+        "GPSX": 6531283.01,
+        "GPSY": 1749825.62,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2012-11-28T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2006-11-29T00:00:00.000Z",
+        "LICCATDESC": "Writing",
+        "LICENSEDTTM": "2008-01-07T00:00:00.000Z",
+        "LICENSENO": "BU20800680",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-01-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 27617,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2424  PETALUMA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Writing",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15184144686677,
+            33.78296150062283
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "THE DRY CLEANERS",
+        "EXPDTTM": "2017-02-12T00:00:00.000Z",
+        "EXPDTTM_IN": "2/12/2017",
+        "FULLNAME": "QUICK CLEANERS INC",
+        "GPSX": 6515524.02416667,
+        "GPSY": 1743431.4875,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1990-04-23T00:00:00.000Z",
+        "LICCATDESC": "Dry Cleaning Plant",
+        "LICENSEDTTM": "2010-01-12T00:00:00.000Z",
+        "LICENSENO": "BU21001220",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-08-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 151464,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3427 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dry Cleaning Plant",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

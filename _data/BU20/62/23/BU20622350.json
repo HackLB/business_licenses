@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21203710469594,
+            33.835176067256505
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2014-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2014",
+        "FULLNAME": "GUANGYI GROUP USA INC",
+        "GPSX": 6497271.45416667,
+        "GPSY": 1762466.84666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2004-05-25T00:00:00.000Z",
+        "LICCATDESC": "Import/Export - Office Use",
+        "LICENSEDTTM": "2006-04-27T00:00:00.000Z",
+        "LICENSENO": "BU20622350",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-03-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 9,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 93220,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4041  VIA ORO AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Import/Export - Office Use",
+        "ZIP": "90810"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18674477995755,
+            33.77081736506088
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "AL'S FINGERPRINTING & PHOTOGRAPHY",
+        "EXPDTTM": "2017-06-28T00:00:00.000Z",
+        "EXPDTTM_IN": "6/28/2017",
+        "FULLNAME": "AL BRATCHER",
+        "GPSX": 6504909.155,
+        "GPSY": 1739029.7625,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2008-07-28T00:00:00.000Z",
+        "LICCATDESC": "Photography Studio",
+        "LICENSEDTTM": "2008-09-15T00:00:00.000Z",
+        "LICENSENO": "BU20843720",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 159642,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "435 E 3RD ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Photography Studio",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

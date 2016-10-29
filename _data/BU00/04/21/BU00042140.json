@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19312152614722,
+            33.83753263225143
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Recreation / Entertainment",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "VIRGINIA COUNTRY CLUB",
+        "EXPDTTM": "2017-01-09T00:00:00.000Z",
+        "EXPDTTM_IN": "1/9/2017",
+        "FULLNAME": "VIRGINIA COUNTRY CLUB",
+        "GPSX": 6503017.715,
+        "GPSY": 1763312.8825,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-01-01T00:00:00.000Z",
+        "LICCATDESC": "Social Club",
+        "LICENSEDTTM": "1919-01-01T00:00:00.000Z",
+        "LICENSENO": "BU00042140",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-02-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 58,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 20860,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4602  VIRGINIA RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Social Club",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

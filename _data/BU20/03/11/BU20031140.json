@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19078313873693,
+            33.760620035696185
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "QUEEN MARY",
+        "EXPDTTM": "2003-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2003",
+        "FULLNAME": "RMS FOUNDATION INC",
+        "GPSX": 6503674.73083333,
+        "GPSY": 1735320.97,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2003-08-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2000-08-01T00:00:00.000Z",
+        "LICCATDESC": "Itinerant Vendor",
+        "LICENSEDTTM": "2000-08-01T00:00:00.000Z",
+        "LICENSENO": "BU20031140",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2002-07-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 8222,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "419  SHORELINE VILLAGE DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Itinerant Vendor",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

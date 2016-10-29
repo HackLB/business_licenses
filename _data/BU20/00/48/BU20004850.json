@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1885539143839,
+            33.859789682977144
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "SCOTT SIMKINS CONTRACTOR",
+        "EXPDTTM": "2004-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2004",
+        "FULLNAME": "SCOTT SIMKINS",
+        "GPSX": 6504420.0425,
+        "GPSY": 1771410.13916667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2004-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1989-12-01T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Roofing",
+        "LICENSEDTTM": "2000-02-02T00:00:00.000Z",
+        "LICENSENO": "BU20004850",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-12-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 82180,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "360  SOUTH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Roofing",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

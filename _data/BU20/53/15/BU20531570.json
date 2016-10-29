@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11156435392915,
+            33.755535018092345
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Unique Businesses",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "SOUTH EAST LONG BEACH FARMERS MARKET",
+        "EXPDTTM": null,
+        "EXPDTTM_IN": null,
+        "FULLNAME": "SOUTH COAST INTERFAITH COUNCIL",
+        "GPSX": 6527752.625,
+        "GPSY": 1733434.16833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-11-25T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2015-10-06T00:00:00.000Z",
+        "LICCATDESC": "Farmers Market",
+        "LICENSEDTTM": "2005-06-14T00:00:00.000Z",
+        "LICENSENO": "BU20531570",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Reactivate",
+        "MILESTONE": "Taxes & Fees",
+        "MILESTONEDATE": "2015-11-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 35,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 85117,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6500  MARINA DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Farmers Market",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

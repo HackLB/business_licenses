@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1063709970823,
+            33.81112113628719
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "O'RIELLY AUTO PARTS #3227",
+        "EXPDTTM": "2016-12-15T00:00:00.000Z",
+        "EXPDTTM_IN": "12/15/2016",
+        "FULLNAME": "CSK AUTO INC",
+        "GPSX": 6529352.74166666,
+        "GPSY": 1753661.80083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1997-12-15T00:00:00.000Z",
+        "LICCATDESC": "Vehicle Parts without Installation",
+        "LICENSEDTTM": "2000-01-03T00:00:00.000Z",
+        "LICENSENO": "BU20000150",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-01-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 8,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 16676,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6551 E SPRING ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Vehicle Parts without Installation",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14418119621303,
+            33.78236324630186
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "ABC CLEANERS",
+        "EXPDTTM": "2013-07-27T00:00:00.000Z",
+        "EXPDTTM_IN": "7/27/2013",
+        "FULLNAME": "XI THI LE",
+        "GPSX": 6517851.56083333,
+        "GPSY": 1743210.33833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-07-27T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2005-07-27T00:00:00.000Z",
+        "LICCATDESC": "Dry Cleaner",
+        "LICENSEDTTM": "2005-07-27T00:00:00.000Z",
+        "LICENSENO": "BU20539320",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-07-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 77832,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4120 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dry Cleaner",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

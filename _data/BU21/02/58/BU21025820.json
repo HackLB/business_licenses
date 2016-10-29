@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16418043636276,
+            33.76740052024113
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "TIGERLILY",
+        "EXPDTTM": "2014-08-04T00:00:00.000Z",
+        "EXPDTTM_IN": "8/4/2014",
+        "FULLNAME": "JENNIFER CORONADO",
+        "GPSX": 6511765.11916667,
+        "GPSY": 1737774.30416667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2014-08-04T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2010-08-11T00:00:00.000Z",
+        "LICCATDESC": "Flower Arranging",
+        "LICENSEDTTM": "2010-08-11T00:00:00.000Z",
+        "LICENSENO": "BU21025820",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-11-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 58769,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "267  KENNEBEC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Flower Arranging",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

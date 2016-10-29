@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11483538292302,
+            33.77374819965555
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2010-08-15T00:00:00.000Z",
+        "EXPDTTM_IN": "8/15/2010",
+        "FULLNAME": "ROSS ACCOUNTANCY CORPORATION",
+        "GPSX": 6526765.85,
+        "GPSY": 1740063.59,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2010-08-15T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1997-03-26T00:00:00.000Z",
+        "LICCATDESC": "Accounting",
+        "LICENSEDTTM": "1997-03-26T00:00:00.000Z",
+        "LICENSENO": "BU97012440",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-08-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 9675,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "530  LEXINGTON CT 101",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Accounting",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

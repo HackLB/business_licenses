@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21622912637926,
+            33.78911725998228
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "ALL AMERICAN TOWING",
+        "EXPDTTM": "2017-02-16T00:00:00.000Z",
+        "EXPDTTM_IN": "2/16/2017",
+        "FULLNAME": "JILL & RICHARD HUGHES",
+        "GPSX": 6495962.29,
+        "GPSY": 1745707.56,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1998-03-24T00:00:00.000Z",
+        "LICCATDESC": "Towing with Impound",
+        "LICENSEDTTM": "2001-11-21T00:00:00.000Z",
+        "LICENSENO": "BU20147760",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 174016,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1752  COTA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Towing with Impound",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

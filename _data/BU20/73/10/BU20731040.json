@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21171976470362,
+            33.78580472275252
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "J J IRON WORKS",
+        "EXPDTTM": "2010-11-19T00:00:00.000Z",
+        "EXPDTTM_IN": "11/19/2010",
+        "FULLNAME": "JOHNNY LEE NGOUN",
+        "GPSX": 6497329.98416667,
+        "GPSY": 1744499.12083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-11-19T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2007-07-23T00:00:00.000Z",
+        "LICCATDESC": "Machine Shop/Welding",
+        "LICENSEDTTM": "2007-07-23T00:00:00.000Z",
+        "LICENSENO": "BU20731040",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-05-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 4384,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1451 W 15TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Machine Shop/Welding",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

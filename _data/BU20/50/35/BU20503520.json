@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17005690148933,
+            33.7719997400167
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "LONG BEACH ADULT DAY HEALTHCARE CENTER",
+        "EXPDTTM": "2016-12-17T00:00:00.000Z",
+        "EXPDTTM_IN": "12/17/2016",
+        "FULLNAME": "MERRILL HEALTHCARE SERVICES INC",
+        "GPSX": 6509981.84,
+        "GPSY": 1739451.06,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2005-01-19T00:00:00.000Z",
+        "LICCATDESC": "Day Care/Adult",
+        "LICENSEDTTM": "2005-01-19T00:00:00.000Z",
+        "LICENSENO": "BU20503520",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-12-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 142339,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1771 E 4TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Day Care/Adult",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

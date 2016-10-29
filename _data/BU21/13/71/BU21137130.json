@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.22021746998104,
+            33.787893824997724
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "BUDGET TOWING SERVICE",
+        "EXPDTTM": "2017-02-26T00:00:00.000Z",
+        "EXPDTTM_IN": "2/26/2017",
+        "FULLNAME": "SOUTHERN CALIFORNIA BTS LLC",
+        "GPSX": 6494749.4,
+        "GPSY": 1745264.95,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2011-11-22T00:00:00.000Z",
+        "LICCATDESC": "Towing",
+        "LICENSEDTTM": "2011-11-22T00:00:00.000Z",
+        "LICENSENO": "BU21137130",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-02-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 128109,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2112 W 17TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Towing",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

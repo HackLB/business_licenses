@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21993047183638,
+            33.78615273024943
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "PRO-WELD",
+        "EXPDTTM": "2005-06-01T00:00:00.000Z",
+        "EXPDTTM_IN": "6/1/2005",
+        "FULLNAME": "HARVEY L HEWIN",
+        "GPSX": 6494835.22333333,
+        "GPSY": 1744631.1275,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-06-01T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1971-06-01T00:00:00.000Z",
+        "LICCATDESC": "Machine Shop/Welding",
+        "LICENSEDTTM": "2001-03-14T00:00:00.000Z",
+        "LICENSENO": "BU20110460",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-05-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 47489,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2100  GAYLORD ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Machine Shop/Welding",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

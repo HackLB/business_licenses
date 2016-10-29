@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17818282743366,
+            33.82075738865312
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "FORK IN THE ROAD CATERING",
+        "EXPDTTM": "2017-01-04T00:00:00.000Z",
+        "EXPDTTM_IN": "1/4/2017",
+        "FULLNAME": "KYLE POWERS",
+        "GPSX": 6507543.61166667,
+        "GPSY": 1757199.56333333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2014-01-04T00:00:00.000Z",
+        "LICCATDESC": "Catering/Party Consulting",
+        "LICENSEDTTM": "2014-04-18T00:00:00.000Z",
+        "LICENSENO": "BU21413400",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 175657,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3520  LEMON AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Catering/Party Consulting",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

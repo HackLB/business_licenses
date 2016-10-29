@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18963203938056,
+            33.832950404496216
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "BLI",
+        "EXPDTTM": "2009-04-11T00:00:00.000Z",
+        "EXPDTTM_IN": "4/11/2009",
+        "FULLNAME": "WYNCO DESIGN CORPORATION",
+        "GPSX": 6504074.2875,
+        "GPSY": 1761643.27666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-04-11T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2007-04-11T00:00:00.000Z",
+        "LICCATDESC": "Interior Design",
+        "LICENSEDTTM": "2007-04-11T00:00:00.000Z",
+        "LICENSENO": "BU20715700",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-03-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 32029,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4125  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Interior Design",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

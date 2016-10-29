@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13900645743843,
+            33.76173292318825
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "ERIC BAKKEN",
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "SUPERCUTS #9858",
+        "EXPDTTM": "2017-07-15T00:00:00.000Z",
+        "EXPDTTM_IN": "7/15/2017",
+        "FULLNAME": "SUPERCUTS CORP SHOPS INC",
+        "GPSX": 6519413.72416667,
+        "GPSY": 1735700.16333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2016-07-15T00:00:00.000Z",
+        "LICCATDESC": "Barber/Beauty Shop Owner",
+        "LICENSEDTTM": "2016-07-14T00:00:00.000Z",
+        "LICENSENO": "BU21604610",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-07-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 8,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 61831,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4610  2ND ST",
+        "STATELICNO": "A307044",
+        "TYPEOFBUSINESS": "Barber/Beauty Shop Owner",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

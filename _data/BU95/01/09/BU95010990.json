@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16766059252434,
+            33.85900351176883
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "A R C",
+        "EXPDTTM": "2016-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2016",
+        "FULLNAME": "LEE ARNONE RECYCLING COMPANY INC",
+        "GPSX": 6510762.955,
+        "GPSY": 1771112.7925,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-01-27T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1995-03-17T00:00:00.000Z",
+        "LICCATDESC": "Recycling Processor",
+        "LICENSEDTTM": "1995-03-17T00:00:00.000Z",
+        "LICENSENO": "BU95010990",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-01-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 14964,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5674  CHERRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Recycling Processor",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

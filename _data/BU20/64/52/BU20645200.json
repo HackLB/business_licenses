@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1889567635999,
+            33.80874178363612
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "JOHN W PAGLIANO D P M",
+        "EXPDTTM": "2012-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2012",
+        "FULLNAME": "JOHN W PAGLIANO D P M INC",
+        "GPSX": 6504262.81083333,
+        "GPSY": 1752832.7475,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2012-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1998-10-01T00:00:00.000Z",
+        "LICCATDESC": "Podiatry",
+        "LICENSEDTTM": "2006-09-13T00:00:00.000Z",
+        "LICENSENO": "BU20645200",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-09-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 20661,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2840  LONG BEACH BLVD 205",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Podiatry",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

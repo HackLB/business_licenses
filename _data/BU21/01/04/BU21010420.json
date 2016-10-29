@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.122113913678,
+            33.76681951549724
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "STRAIGHT TALK PRODUCTIONS",
+        "EXPDTTM": "2015-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2015",
+        "FULLNAME": "STRAIGHT TALK PRODUCTIONS INC",
+        "GPSX": 6524550.69354166,
+        "GPSY": 1737544.65145834,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1993-10-01T00:00:00.000Z",
+        "LICCATDESC": "Business Office",
+        "LICENSEDTTM": "2010-03-31T00:00:00.000Z",
+        "LICENSENO": "BU21010420",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-03-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 88364,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5628  AZURE WAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Business Office",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

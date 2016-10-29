@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19261822029104,
+            33.84458279631243
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "AMERICAN INN",
+        "EXPDTTM": "2007-07-12T00:00:00.000Z",
+        "EXPDTTM_IN": "7/12/2007",
+        "FULLNAME": "EUROCAN ENTERPRISES INC",
+        "GPSX": 6503175.48,
+        "GPSY": 1765878.32,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-07-12T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2001-07-12T00:00:00.000Z",
+        "LICCATDESC": "Hotel",
+        "LICENSEDTTM": "2001-07-12T00:00:00.000Z",
+        "LICENSENO": "BU20129030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-11-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 7655,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4860  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Hotel",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

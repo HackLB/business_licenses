@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1354482440938,
+            33.76082515618194
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Banking/Insurance",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2013-10-09T00:00:00.000Z",
+        "EXPDTTM_IN": "10/9/2013",
+        "FULLNAME": "BANK OF AMERICA",
+        "GPSX": 6520494.84666667,
+        "GPSY": 1735368.32416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-10-09T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2013-10-09T00:00:00.000Z",
+        "LICCATDESC": "Financial Institutions",
+        "LICENSEDTTM": "2013-10-09T00:00:00.000Z",
+        "LICENSENO": "BU21331030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-11-14T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 152271,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5101  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Financial Institutions",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

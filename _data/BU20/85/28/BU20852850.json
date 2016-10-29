@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1662618555898,
+            33.87742260907976
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "TARGET STORE T2424",
+        "EXPDTTM": "2017-10-07T00:00:00.000Z",
+        "EXPDTTM_IN": "10/7/2017",
+        "FULLNAME": "TARGET CORPORATION",
+        "GPSX": 6511198.715,
+        "GPSY": 1777815.24,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2008-10-07T00:00:00.000Z",
+        "LICCATDESC": "Photography Studio",
+        "LICENSEDTTM": "2008-11-14T00:00:00.000Z",
+        "LICENSENO": "BU20852850",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-10-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 31012,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6750  CHERRY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Photography Studio",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19608069945086,
+            33.830079882069874
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2016-10-20T00:00:00.000Z",
+        "EXPDTTM_IN": "10/20/2016",
+        "FULLNAME": "COASTLINE MASONRY INC",
+        "GPSX": 6502113.75583333,
+        "GPSY": 1760602.37833333,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2012-10-12T00:00:00.000Z",
+        "LICCATDESC": "Contracting ??? Masonry",
+        "LICENSEDTTM": "2013-03-21T00:00:00.000Z",
+        "LICENSENO": "BU21309030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-10-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 178623,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3962  CEDAR AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting ??? Masonry",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

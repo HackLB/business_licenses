@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.22251492999227,
+            33.78685807457397
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "AMBERWICK CORP",
+        "EXPDTTM": "2017-09-28T00:00:00.000Z",
+        "EXPDTTM_IN": "9/28/2017",
+        "FULLNAME": "AMBERWICK CORP",
+        "GPSX": 6494050.44,
+        "GPSY": 1744889.55,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1999-09-28T00:00:00.000Z",
+        "LICCATDESC": "Recycling Processor",
+        "LICENSEDTTM": "1999-09-28T00:00:00.000Z",
+        "LICENSENO": "BU99036420",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-10-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 14,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 30882,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2304 W 16TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Recycling Processor",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17571730325035,
+            33.833068966964795
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "DR SHOEWASH",
+        "EXPDTTM": "2006-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2006",
+        "FULLNAME": "GRACE HAEWON YOON",
+        "GPSX": 6508300.34666667,
+        "GPSY": 1761678.74416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2003-11-10T00:00:00.000Z",
+        "LICCATDESC": "Shoe Repair",
+        "LICENSEDTTM": "2004-11-23T00:00:00.000Z",
+        "LICENSENO": "BU20456890",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-01-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 21585,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4114  ORANGE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Shoe Repair",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

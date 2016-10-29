@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18644463632674,
+            33.88419773510879
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2015-11-02T00:00:00.000Z",
+        "EXPDTTM_IN": "11/2/2015",
+        "FULLNAME": "ERASMO HERNANDEZ",
+        "GPSX": 6505076.91333333,
+        "GPSY": 1780291.61583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-12-10T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2006-11-02T00:00:00.000Z",
+        "LICCATDESC": "Horse Stable/Riding Academy",
+        "LICENSEDTTM": "2006-11-02T00:00:00.000Z",
+        "LICENSENO": "BU20653670",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 16205,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "7125  ATLANTIC PL",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Horse Stable/Riding Academy",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

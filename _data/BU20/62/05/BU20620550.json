@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19406404817465,
+            33.8022768140629
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "ESVIC",
+        "EXPDTTM": "2007-04-02T00:00:00.000Z",
+        "EXPDTTM_IN": "4/2/2007",
+        "FULLNAME": "VICTOR TORRES",
+        "GPSX": 6502706.71,
+        "GPSY": 1750482.93,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-12-03T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2006-04-17T00:00:00.000Z",
+        "LICCATDESC": "Laboratory ??? Dental(HO)",
+        "LICENSEDTTM": "2006-04-17T00:00:00.000Z",
+        "LICENSENO": "BU20620550",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 137688,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2481  PACIFIC AVE B",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laboratory ??? Dental(HO)",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13511356505474,
+            33.76236241452004
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 0,
+        "DBANAME": "SHIFTIT",
+        "EXPDTTM": "2008-08-01T00:00:00.000Z",
+        "EXPDTTM_IN": "8/1/2008",
+        "FULLNAME": "RYAN THOMAS GIFFEN",
+        "GPSX": 6520597.33,
+        "GPSY": 1735927.64,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2008-08-01T00:00:00.000Z",
+        "INSPECTORNAME": null,
+        "ISSDTTM": "2007-09-25T00:00:00.000Z",
+        "LICCATDESC": "Consulting",
+        "LICENSEDTTM": "2007-09-25T00:00:00.000Z",
+        "LICENSENO": "BU20740500",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-08-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 43026,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "229  GRANADA AVE 3",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Consulting",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

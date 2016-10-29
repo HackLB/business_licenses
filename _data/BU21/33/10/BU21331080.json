@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1320701523848,
+            33.75876528231943
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Banking/Insurance",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": null,
+        "EXPDTTM": "2016-10-09T00:00:00.000Z",
+        "EXPDTTM_IN": "10/9/2016",
+        "FULLNAME": "ALLSTATE INSURANCE CO",
+        "GPSX": 6521520.69,
+        "GPSY": 1734617.31,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2013-10-09T00:00:00.000Z",
+        "LICCATDESC": "Insurance Companies",
+        "LICENSEDTTM": "2013-10-09T00:00:00.000Z",
+        "LICENSENO": "BU21331080",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Pre-Renew",
+        "MILESTONEDATE": "2016-09-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 28710,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "188  POMONA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Insurance Companies",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

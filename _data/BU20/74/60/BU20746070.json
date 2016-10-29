@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15751765208825,
+            33.7798041931557
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "PEACHES ELECTRONIC ASSEMBLY",
+        "EXPDTTM": "2009-09-22T00:00:00.000Z",
+        "EXPDTTM_IN": "9/22/2009",
+        "FULLNAME": "ELMER PEACH RENTIE",
+        "GPSX": 6513797.3,
+        "GPSY": 1742285.11,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2009-09-22T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1989-01-01T00:00:00.000Z",
+        "LICCATDESC": "Electronic Assembly",
+        "LICENSEDTTM": "2007-10-31T00:00:00.000Z",
+        "LICENSENO": "BU20746070",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-11-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 149364,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1042  GLADYS AVE 2",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Electronic Assembly",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

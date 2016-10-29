@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13632648910003,
+            33.761201413240556
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "CENTRIPETAL FORCE STUDIO",
+        "EXPDTTM": "2016-10-28T00:00:00.000Z",
+        "EXPDTTM_IN": "10/28/2016",
+        "FULLNAME": "BETANCOURT PHYSICAL THERAPY INC",
+        "GPSX": 6520228.075,
+        "GPSY": 1735505.61583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2015-02-23T00:00:00.000Z",
+        "LICCATDESC": "Physical Therapy",
+        "LICENSEDTTM": "2015-02-23T00:00:00.000Z",
+        "LICENSENO": "BU21505560",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 34901,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "202  ARGONNE AVE A",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Physical Therapy",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

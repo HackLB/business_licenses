@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18581431911794,
+            33.87470459625398
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2013-12-02T00:00:00.000Z",
+        "EXPDTTM_IN": "12/2/2013",
+        "FULLNAME": "D & S INC",
+        "GPSX": 6505261.84083333,
+        "GPSY": 1776836.485,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-12-02T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2010-12-02T00:00:00.000Z",
+        "LICCATDESC": "Seasonal Sales",
+        "LICENSEDTTM": "2010-12-02T00:00:00.000Z",
+        "LICENSENO": "BU21038610",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-11-15T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 25229,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6600  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Seasonal Sales",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.08897269506522,
+            33.827929720279634
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2014-01-17T00:00:00.000Z",
+        "EXPDTTM_IN": "1/17/2014",
+        "FULLNAME": "LOWE'S HIW INC",
+        "GPSX": 6534643.49979167,
+        "GPSY": 1759773.75229166,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-01-17T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2000-01-17T00:00:00.000Z",
+        "LICCATDESC": "Hardware Store with Building Materials",
+        "LICENSEDTTM": "2000-01-05T00:00:00.000Z",
+        "LICENSENO": "BU20000490",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-02-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 145,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 80901,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "7300  CARSON BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Hardware Store with Building Materials",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

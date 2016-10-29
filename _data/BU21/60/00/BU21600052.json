@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.21139168149715,
+            33.78440553967799
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": "RENE STEELE",
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "Steele Logistics",
+        "EXPDTTM": "2017-01-05T00:00:00.000Z",
+        "EXPDTTM_IN": "1/5/2017",
+        "FULLNAME": "STEELE LOGISTICS",
+        "GPSX": 6497428.61,
+        "GPSY": 1743989.71,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2016-01-05T00:00:00.000Z",
+        "LICCATDESC": "Freight Forwarding",
+        "LICENSEDTTM": "2016-01-06T00:00:00.000Z",
+        "LICENSENO": "BU21600052",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-02-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 87152,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1436  COWLES ST B",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Freight Forwarding",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

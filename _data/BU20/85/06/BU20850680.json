@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15659104811503,
+            33.78230469384241
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "UC2020 OPTOMETRY",
+        "EXPDTTM": "2009-12-17T00:00:00.000Z",
+        "EXPDTTM_IN": "12/17/2009",
+        "FULLNAME": "PHUONG H VU",
+        "GPSX": 6514080.31083333,
+        "GPSY": 1743194.67166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-12-17T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2008-10-30T00:00:00.000Z",
+        "LICCATDESC": "Optometry",
+        "LICENSEDTTM": "2008-10-30T00:00:00.000Z",
+        "LICENSENO": "BU20850680",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-03-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 141262,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3000 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Optometry",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

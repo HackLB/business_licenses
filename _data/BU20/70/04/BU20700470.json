@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18891248434143,
+            33.78214330925891
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "LOUIS PET SHOP",
+        "EXPDTTM": "2008-03-04T00:00:00.000Z",
+        "EXPDTTM_IN": "3/4/2008",
+        "FULLNAME": "HUMBERTO ALVAREZ",
+        "GPSX": 6504258.07,
+        "GPSY": 1743152.82,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2008-03-04T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2007-01-04T00:00:00.000Z",
+        "LICCATDESC": "Pet Shop",
+        "LICENSEDTTM": "2007-01-04T00:00:00.000Z",
+        "LICENSENO": "BU20700470",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-06-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 124822,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1248  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pet Shop",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

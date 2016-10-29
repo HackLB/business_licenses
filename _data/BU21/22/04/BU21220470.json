@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1439354514581,
+            33.78364855243448
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "THE GREAT PLATE",
+        "EXPDTTM": "2017-06-25T00:00:00.000Z",
+        "EXPDTTM_IN": "6/25/2017",
+        "FULLNAME": "EILEEN GELSO",
+        "GPSX": 6517926.91,
+        "GPSY": 1743677.99,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-06-25T00:00:00.000Z",
+        "LICCATDESC": "Catering/Party Consulting",
+        "LICENSEDTTM": "2012-06-25T00:00:00.000Z",
+        "LICENSENO": "BU21220470",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-07-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 112736,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4137  FOUNTAIN ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Catering/Party Consulting",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

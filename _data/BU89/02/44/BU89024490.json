@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18461099991991,
+            33.77481784163086
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "LONG BEACH COLONIAL MORTUARY",
+        "EXPDTTM": "2017-07-28T00:00:00.000Z",
+        "EXPDTTM_IN": "7/28/2017",
+        "FULLNAME": "LONG BEACH COLONIAL MORTUARY INC",
+        "GPSX": 6505560.35,
+        "GPSY": 1740484.45,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1989-05-01T00:00:00.000Z",
+        "LICCATDESC": "Mortuary",
+        "LICENSEDTTM": "1989-05-01T00:00:00.000Z",
+        "LICENSENO": "BU89024490",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-07-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 168920,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "638  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mortuary",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

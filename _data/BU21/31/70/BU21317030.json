@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11450359692485,
+            33.747452713606314
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "THAIRAPY",
+        "EXPDTTM": "2015-05-08T00:00:00.000Z",
+        "EXPDTTM_IN": "5/8/2015",
+        "FULLNAME": "SUSAN VAN GROVE",
+        "GPSX": 6526855.785,
+        "GPSY": 1730493.78416666,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-08-03T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2013-06-05T00:00:00.000Z",
+        "LICCATDESC": "Aesthetician",
+        "LICENSEDTTM": "2013-06-05T00:00:00.000Z",
+        "LICENSENO": "BU21317030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-08-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 77904,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "120  MARINA DR",
+        "STATELICNO": "Z47683",
+        "TYPEOFBUSINESS": "Aesthetician",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

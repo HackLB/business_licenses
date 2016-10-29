@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15685726063911,
+            33.81193034017753
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "LONG BEACH AVIONICS",
+        "EXPDTTM": "2008-10-10T00:00:00.000Z",
+        "EXPDTTM_IN": "10/10/2008",
+        "FULLNAME": "LONG BEACH AVIONICS INC",
+        "GPSX": 6514016.23666667,
+        "GPSY": 1753976.37333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2008-10-10T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2001-09-21T00:00:00.000Z",
+        "LICCATDESC": "Aircraft Repair/Repair",
+        "LICENSEDTTM": "2002-03-29T00:00:00.000Z",
+        "LICENSENO": "BU20214700",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-05-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 102628,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2901 E SPRING ST E",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Aircraft Repair",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

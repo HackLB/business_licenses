@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19148059683022,
+            33.815813358758454
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "JAMES & SCHEA ENTERPRISES",
+        "EXPDTTM": "2002-11-01T00:00:00.000Z",
+        "EXPDTTM_IN": "11/1/2002",
+        "FULLNAME": "VERNON SCHEA & JAMES JR COTTON",
+        "GPSX": 6503500.99,
+        "GPSY": 1755407.73,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2002-11-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-11-01T00:00:00.000Z",
+        "LICCATDESC": "Writing",
+        "LICENSEDTTM": "2000-09-27T00:00:00.000Z",
+        "LICENSENO": "BU20038930",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-01-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 62707,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3230  PINE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Writing",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

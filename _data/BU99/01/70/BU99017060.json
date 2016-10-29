@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18265534136081,
+            33.771465619995496
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2017-03-28T00:00:00.000Z",
+        "EXPDTTM_IN": "3/28/2017",
+        "FULLNAME": "LONG BEACH ACE HARDWARE",
+        "GPSX": 6506152.48916667,
+        "GPSY": 1739263.39666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1999-05-12T00:00:00.000Z",
+        "LICCATDESC": "Hardware Store without Building Materials",
+        "LICENSEDTTM": "1999-05-12T00:00:00.000Z",
+        "LICENSENO": "BU99017060",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 7,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 88720,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "746 E 4TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Hardware Store without Building Materials",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

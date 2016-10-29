@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16823190403109,
+            33.78351700175304
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Unique Businesses",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2017-01-01T00:00:00.000Z",
+        "EXPDTTM_IN": "1/1/2017",
+        "FULLNAME": "L B PUBLIC TRANSPORTATION CO",
+        "GPSX": 6510543.52,
+        "GPSY": 1743641.58,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-02-11T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1963-09-01T00:00:00.000Z",
+        "LICCATDESC": "Vehicle for Hire -(PUC-Regulated)",
+        "LICENSEDTTM": "1963-09-01T00:00:00.000Z",
+        "LICENSENO": "BU00031310",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-02-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 62362,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1300  GARDENIA AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Vehicle for Hire -(PUC-Regulated)",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

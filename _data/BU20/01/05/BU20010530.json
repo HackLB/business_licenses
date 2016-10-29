@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1083543141337,
+            33.79625475825776
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": null,
+        "EXPDTTM": "2005-04-08T00:00:00.000Z",
+        "EXPDTTM_IN": "4/8/2005",
+        "FULLNAME": "SUNWORKS LLC",
+        "GPSX": 6528744.4075,
+        "GPSY": 1748252.1675,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-04-08T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2000-03-13T00:00:00.000Z",
+        "LICCATDESC": "Tanning Salon",
+        "LICENSEDTTM": "2000-03-13T00:00:00.000Z",
+        "LICENSENO": "BU20010530",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-08-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 178916,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2221  PALO VERDE AVE 1I",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Tanning Salon",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

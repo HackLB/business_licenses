@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18674098079832,
+            33.76741600655022
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "VISION DESIGNS OPTOMETRIC CENTER INC",
+        "EXPDTTM": "2016-12-23T00:00:00.000Z",
+        "EXPDTTM_IN": "12/23/2016",
+        "FULLNAME": "VISION DESIGNS OPTOMETRIC CENTER INC",
+        "GPSX": 6504908.01,
+        "GPSY": 1737791.91,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2007-08-28T00:00:00.000Z",
+        "LICCATDESC": "Optometry",
+        "LICENSEDTTM": "2008-01-29T00:00:00.000Z",
+        "LICENSENO": "BU20804790",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-12-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 35416,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "35  LINDEN AVE 102",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Optometry",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

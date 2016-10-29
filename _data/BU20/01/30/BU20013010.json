@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17281348024122,
+            33.77009277322658
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "PUBLIC PROMOTIONS",
+        "EXPDTTM": "2000-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2000",
+        "FULLNAME": "CARMEN THOMAS",
+        "GPSX": 6509142.85,
+        "GPSY": 1738758.49,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-12-03T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2000-03-29T00:00:00.000Z",
+        "LICCATDESC": "Telemarketing",
+        "LICENSEDTTM": "2000-03-29T00:00:00.000Z",
+        "LICENSENO": "BU20013010",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 96451,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1515 E 3RD ST 1",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Telemarketing",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

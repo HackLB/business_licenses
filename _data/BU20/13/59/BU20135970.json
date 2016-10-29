@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18973856845795,
+            33.81860583148212
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "ADVANCED FAMILY MEDICAL",
+        "EXPDTTM": "2005-01-09T00:00:00.000Z",
+        "EXPDTTM_IN": "1/9/2005",
+        "FULLNAME": "FUTURE SHAPE INC",
+        "GPSX": 6504032.08,
+        "GPSY": 1756422.98,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2005-01-09T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1996-01-26T00:00:00.000Z",
+        "LICCATDESC": "Physical Therapy",
+        "LICENSEDTTM": "2001-08-30T00:00:00.000Z",
+        "LICENSENO": "BU20135970",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-06-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 160829,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3391  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Physical Therapy",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18109282159246,
+            33.76807226557229
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "TROPICAL GARDENS",
+        "EXPDTTM": "2004-06-28T00:00:00.000Z",
+        "EXPDTTM_IN": "6/28/2004",
+        "FULLNAME": "MARIA D LLOREDA",
+        "GPSX": 6506625.15833333,
+        "GPSY": 1738027.6,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2004-06-28T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2003-06-30T00:00:00.000Z",
+        "LICCATDESC": "Flower Arranging",
+        "LICENSEDTTM": "2003-11-13T00:00:00.000Z",
+        "LICENSENO": "BU20353020",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-05-21T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 16228,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "952  2ND ST 9",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Flower Arranging",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

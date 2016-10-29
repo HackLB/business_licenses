@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1857106583189,
+            33.76759552098244
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "TOWNE PARK",
+        "EXPDTTM": "2017-06-09T00:00:00.000Z",
+        "EXPDTTM_IN": "6/9/2017",
+        "FULLNAME": "MILE HI VALET SERVICES INC",
+        "GPSX": 6505221.29,
+        "GPSY": 1737856.66,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2014-06-19T00:00:00.000Z",
+        "LICCATDESC": "Valet Service",
+        "LICENSEDTTM": "2014-06-19T00:00:00.000Z",
+        "LICENSENO": "BU21420150",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-08T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 11,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 82470,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "500 E 1ST ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Valet Service",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

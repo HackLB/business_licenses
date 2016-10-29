@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19303596746407,
+            33.768903440301074
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 0,
+        "DBANAME": null,
+        "EXPDTTM": "2015-09-15T00:00:00.000Z",
+        "EXPDTTM_IN": "9/15/2015",
+        "FULLNAME": "LEGAL XPRESS SPECIALTY SERVICES",
+        "GPSX": 6502995.73333333,
+        "GPSY": 1738336.84333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-09-22T00:00:00.000Z",
+        "INSPECTORNAME": null,
+        "ISSDTTM": "2007-11-01T00:00:00.000Z",
+        "LICCATDESC": "Photocopying",
+        "LICENSEDTTM": "2008-01-22T00:00:00.000Z",
+        "LICENSENO": "BU20802940",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-09-22T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 60229,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "100 W BROADWAY  215",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Photocopying",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

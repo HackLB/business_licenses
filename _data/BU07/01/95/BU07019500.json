@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13205695753003,
+            33.75937856896312
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "OFFSHORE AUTO DETAILING",
+        "EXPDTTM": "2011-06-21T00:00:00.000Z",
+        "EXPDTTM_IN": "6/21/2011",
+        "FULLNAME": "OFFSHORE STEREO INC",
+        "GPSX": 6521524.99416667,
+        "GPSY": 1734840.4975,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2011-06-21T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1985-06-01T00:00:00.000Z",
+        "LICCATDESC": "Auto Detailing",
+        "LICENSEDTTM": "1985-06-01T00:00:00.000Z",
+        "LICENSENO": "BU07019500",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-07-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 98707,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5313  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto Detailing",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

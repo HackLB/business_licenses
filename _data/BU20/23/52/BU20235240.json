@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1657792147481,
+            33.789687260092705
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "HILLTOP AUTO SALES AND LEASING",
+        "EXPDTTM": "2010-08-16T00:00:00.000Z",
+        "EXPDTTM_IN": "8/16/2010",
+        "FULLNAME": "MADIN INC",
+        "GPSX": 6511292.55833333,
+        "GPSY": 1745885.86833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2010-08-16T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-08-16T00:00:00.000Z",
+        "LICCATDESC": "Auto/Boat Sales",
+        "LICENSEDTTM": "2002-08-06T00:00:00.000Z",
+        "LICENSENO": "BU20235240",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2010-01-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 91512,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2100 E PACIFIC COAST HWY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto/Boat Sales",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

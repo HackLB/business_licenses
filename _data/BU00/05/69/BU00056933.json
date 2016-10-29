@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18415096802413,
+            33.81872102704474
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2014-03-11T00:00:00.000Z",
+        "EXPDTTM_IN": "3/11/2014",
+        "FULLNAME": "FOASBERG LAUNDRY & CLEANERS INC",
+        "GPSX": 6505729.4325,
+        "GPSY": 1756461.74583333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1937-03-01T00:00:00.000Z",
+        "LICCATDESC": "Laundry Service",
+        "LICENSEDTTM": "2013-08-29T00:00:00.000Z",
+        "LICENSENO": "BU00056933",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "ClosedWBal",
+        "MILESTONE": "Collections",
+        "MILESTONEDATE": "2015-03-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 60,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 10072,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "640 E WARDLOW RD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laundry Service",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

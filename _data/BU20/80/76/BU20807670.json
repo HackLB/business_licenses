@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18888961192587,
+            33.831989735434725
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "CARLTON MOTEL",
+        "EXPDTTM": "2014-02-15T00:00:00.000Z",
+        "EXPDTTM_IN": "2/15/2014",
+        "FULLNAME": "SALINA INVESTMENTS LLC",
+        "GPSX": 6504299.11,
+        "GPSY": 1761293.24,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-02-15T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1994-02-24T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "2008-02-15T00:00:00.000Z",
+        "LICENSENO": "BU20807670",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-07-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 77852,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4034  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13657748020677,
+            33.76069154186867
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BELMONT",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "BILLINGS PAINT & HARDWARE INC",
+        "EXPDTTM": "2017-04-26T00:00:00.000Z",
+        "EXPDTTM_IN": "4/26/2017",
+        "FULLNAME": "BILLINGS PAINT & HARDWARE INC",
+        "GPSX": 6520151.53,
+        "GPSY": 1735320.1625,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1981-04-01T00:00:00.000Z",
+        "LICCATDESC": "Hardware Store with Building Materials",
+        "LICENSEDTTM": "2004-01-05T00:00:00.000Z",
+        "LICENSENO": "BU20400250",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-04-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 10,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 131743,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5006  2ND ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Hardware Store with Building Materials",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

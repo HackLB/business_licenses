@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15392730759756,
+            33.861170735755096
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "ROLLING AUTO SALES",
+        "EXPDTTM": "2008-04-15T00:00:00.000Z",
+        "EXPDTTM_IN": "4/15/2008",
+        "FULLNAME": "EUGENIA SANDOVAL",
+        "GPSX": 6514933.745,
+        "GPSY": 1771894.82833333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2008-04-15T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2007-04-15T00:00:00.000Z",
+        "LICCATDESC": "Auto/Boat Sales",
+        "LICENSEDTTM": "2007-03-26T00:00:00.000Z",
+        "LICENSENO": "BU20712870",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-04-10T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 83020,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3255  SOUTH ST K206",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Auto/Boat Sales",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

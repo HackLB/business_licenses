@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14219539883265,
+            33.79570339619882
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "BOB'S LAUNDRY",
+        "EXPDTTM": "2004-05-01T00:00:00.000Z",
+        "EXPDTTM_IN": "5/1/2004",
+        "FULLNAME": "ROBERT DOYLE BOWMAN",
+        "GPSX": 6518461.89083333,
+        "GPSY": 1748064.32666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2004-05-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1997-06-18T00:00:00.000Z",
+        "LICCATDESC": "Laundry Service",
+        "LICENSEDTTM": "1997-06-18T00:00:00.000Z",
+        "LICENSENO": "BU97025070",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-04-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 35746,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4304  STEARNS ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laundry Service",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12476910412656,
+            33.79956336567851
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "PETCO #129",
+        "EXPDTTM": "2007-05-05T00:00:00.000Z",
+        "EXPDTTM_IN": "5/5/2007",
+        "FULLNAME": "PETCO ANIMAL SUPPLIES INC",
+        "GPSX": 6523758.4525,
+        "GPSY": 1749462.04333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-05-05T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1992-06-05T00:00:00.000Z",
+        "LICCATDESC": "Pet Shop",
+        "LICENSEDTTM": "1992-06-05T00:00:00.000Z",
+        "LICENSENO": "BU92024730",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-05-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 8,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 162329,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2304  BELLFLOWER BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Pet Shop",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

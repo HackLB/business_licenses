@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16199052960468,
+            33.76867030243915
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "UNITED AVENUES",
+        "EXPDTTM": "2004-06-21T00:00:00.000Z",
+        "EXPDTTM_IN": "6/21/2004",
+        "FULLNAME": "UNITED AVENUES",
+        "GPSX": 6512431.47083333,
+        "GPSY": 1738235.334167,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2004-06-21T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2003-06-23T00:00:00.000Z",
+        "LICCATDESC": "Writing",
+        "LICENSEDTTM": "2003-09-15T00:00:00.000Z",
+        "LICENSENO": "BU20343490",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-06-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 79826,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "319  WISCONSIN AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Writing",
+        "ZIP": "90814"
+    },
+    "type": "Feature"
+}

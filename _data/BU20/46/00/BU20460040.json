@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16827932508151,
+            33.84622716209258
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "RUBY'S FLOWERS",
+        "EXPDTTM": "2006-08-26T00:00:00.000Z",
+        "EXPDTTM_IN": "8/26/2006",
+        "FULLNAME": "MARCELA RUIZ MAGANA",
+        "GPSX": 6510567.31666667,
+        "GPSY": 1766463.4775,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-08-26T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2002-08-26T00:00:00.000Z",
+        "LICCATDESC": "Flower Shop",
+        "LICENSEDTTM": "2004-12-14T00:00:00.000Z",
+        "LICENSENO": "BU20460040",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-12-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 76076,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1940 E DEL AMO BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Flower Shop",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

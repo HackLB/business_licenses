@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.126268560569,
+            33.79567543899791
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "LOS ALTOS CAR WASH",
+        "EXPDTTM": "2006-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2006",
+        "FULLNAME": "J & D STEWART ENTERPRISES INC",
+        "GPSX": 6523301.1,
+        "GPSY": 1748047.69,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-12-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-12-01T00:00:00.000Z",
+        "LICCATDESC": "Car Wash",
+        "LICENSEDTTM": "1999-11-17T00:00:00.000Z",
+        "LICENSENO": "BU99044840",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-10-19T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 6,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 71301,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5470  STEARNS ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Car Wash",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

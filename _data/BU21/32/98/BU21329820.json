@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1243597574269,
+            33.77554293035824
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "SAFEWAY PRINTING",
+        "EXPDTTM": "2014-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2014",
+        "FULLNAME": "AZELA VICTORINO",
+        "GPSX": 6523872.0075,
+        "GPSY": 1740720.1875,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2013-09-30T00:00:00.000Z",
+        "LICCATDESC": "Photocopying",
+        "LICENSEDTTM": "2013-09-30T00:00:00.000Z",
+        "LICENSENO": "BU21329820",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-08-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 155332,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5539 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Photocopying",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

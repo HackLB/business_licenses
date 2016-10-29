@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12188201618156,
+            33.80762590897274
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2014-01-25T00:00:00.000Z",
+        "EXPDTTM_IN": "1/25/2014",
+        "FULLNAME": "LOWE'S HIW INC",
+        "GPSX": 6524639.185,
+        "GPSY": 1752395.14416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-01-25T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2000-09-13T00:00:00.000Z",
+        "LICCATDESC": "Seasonal Sales",
+        "LICENSEDTTM": "2002-11-20T00:00:00.000Z",
+        "LICENSENO": "BU20252230",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-01-28T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 99621,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2840  BELLFLOWER BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Seasonal Sales",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

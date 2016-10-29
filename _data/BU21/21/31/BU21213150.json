@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1460344919269,
+            33.782883373102116
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "EASTANAHM",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "KAMELIA MALLAK DDS, INC.",
+        "EXPDTTM": "2016-11-28T00:00:00.000Z",
+        "EXPDTTM_IN": "11/28/2016",
+        "FULLNAME": "KAMELIA MALLAK DDS, INC.",
+        "GPSX": 6517288.64,
+        "GPSY": 1743400.44,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2012-04-20T00:00:00.000Z",
+        "LICCATDESC": "Dental Office",
+        "LICENSEDTTM": "2012-04-20T00:00:00.000Z",
+        "LICENSENO": "BU21213150",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-11-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 123146,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3943 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Dental Office",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

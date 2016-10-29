@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18760582019154,
+            33.78290740405106
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "MIDAS OF LONG BEACH",
+        "EXPDTTM": "2004-07-03T00:00:00.000Z",
+        "EXPDTTM_IN": "7/3/2004",
+        "FULLNAME": "AMTECH VENTURES CORPORATION",
+        "GPSX": 6504655.67083333,
+        "GPSY": 1743430.15166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2002-12-04T00:00:00.000Z",
+        "LICCATDESC": "Vehicle Parts with Installation",
+        "LICENSEDTTM": "2003-06-13T00:00:00.000Z",
+        "LICENSENO": "BU20328070",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Denied",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2004-02-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 121442,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "401 E ANAHEIM ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Vehicle Parts with Installation",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

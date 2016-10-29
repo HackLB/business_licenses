@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1933073825954,
+            33.78902105658643
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "TRACY PHAM",
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "GOLDEN PHARMACY",
+        "EXPDTTM": "2016-12-08T00:00:00.000Z",
+        "EXPDTTM_IN": "12/8/2016",
+        "FULLNAME": "AAA GOLDEN PHARMACY INC",
+        "GPSX": 6502927.32,
+        "GPSY": 1745658.36,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2015-12-08T00:00:00.000Z",
+        "LICCATDESC": "Pharmacy",
+        "LICENSEDTTM": "2015-11-25T00:00:00.000Z",
+        "LICENSENO": "BU21525356",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2015-12-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 1318,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1750  PACIFIC AVE",
+        "STATELICNO": "PHY53949",
+        "TYPEOFBUSINESS": "Pharmacy",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

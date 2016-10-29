@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.17964770526628,
+            33.79026135984123
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "CORONADO MOTEL",
+        "EXPDTTM": "2016-12-14T00:00:00.000Z",
+        "EXPDTTM_IN": "12/14/2016",
+        "FULLNAME": "P CHIRAG PATEL",
+        "GPSX": 6507078.82,
+        "GPSY": 1746102.04,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-12-07T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2015-12-14T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "2015-12-07T00:00:00.000Z",
+        "LICENSENO": "BU21525493",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Issued",
+        "MILESTONEDATE": "2016-04-07T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 48995,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1037 E PACIFIC COAST HWY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

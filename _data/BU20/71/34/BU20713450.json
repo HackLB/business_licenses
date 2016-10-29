@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11733262530122,
+            33.76649673537371
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "BELMONT SHORE VETERINARY HOSPITAL",
+        "EXPDTTM": "2017-04-02T00:00:00.000Z",
+        "EXPDTTM_IN": "4/2/2017",
+        "FULLNAME": "BELMONT SHORE VETERINARY HOSPITAL",
+        "GPSX": 6526003.806667,
+        "GPSY": 1737425.451667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2007-04-02T00:00:00.000Z",
+        "LICCATDESC": "Veterinary Clinic without Boarding",
+        "LICENSEDTTM": "2007-03-29T00:00:00.000Z",
+        "LICENSENO": "BU20713450",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-03-29T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 17,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 37582,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6222 E PACIFIC COAST HWY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Veterinary Clinic without Boarding",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

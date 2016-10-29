@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.11561528186246,
+            33.7979598778967
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Manufacturing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "CABANA SEVEN INC",
+        "EXPDTTM": "2014-10-01T00:00:00.000Z",
+        "EXPDTTM_IN": "10/1/2014",
+        "FULLNAME": "CABANA SEVEN INC",
+        "GPSX": 6526538.9575,
+        "GPSY": 1748875.165,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2014-10-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2008-10-01T00:00:00.000Z",
+        "LICCATDESC": "Contract Sewing (one machine)",
+        "LICENSEDTTM": "2008-10-10T00:00:00.000Z",
+        "LICENSENO": "BU20847840",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-01-20T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 15475,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2251  FAUST AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contract Sewing (one machine)",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

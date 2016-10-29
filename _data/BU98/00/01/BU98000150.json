@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13021517213947,
+            33.83679167381246
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "BLOSSOMING AFFAIRE",
+        "EXPDTTM": "2008-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2008",
+        "FULLNAME": "M MARTHA DENEVAN",
+        "GPSX": 6522121.3425,
+        "GPSY": 1763012.5025,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2008-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1997-03-01T00:00:00.000Z",
+        "LICCATDESC": "Flower Arranging",
+        "LICENSEDTTM": "1998-01-05T00:00:00.000Z",
+        "LICENSENO": "BU98000150",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-03-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 118156,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4322  CHARLEMAGNE AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Flower Arranging",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

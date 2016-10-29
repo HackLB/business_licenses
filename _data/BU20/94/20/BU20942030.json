@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18543231564504,
+            33.82033822024726
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "TOTAL FAMILY SUPPORT CLINIC",
+        "EXPDTTM": "2015-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2015",
+        "FULLNAME": "TOTAL FAMILY SUPPORT CLINIC",
+        "GPSX": 6505341.3,
+        "GPSY": 1757051,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2009-11-10T00:00:00.000Z",
+        "LICCATDESC": "PIA Only",
+        "LICENSEDTTM": "2009-11-10T00:00:00.000Z",
+        "LICENSENO": "BU20942030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "CollcInBus",
+        "MILESTONE": "Collections",
+        "MILESTONEDATE": "2016-07-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 8975,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3501  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "PIA Only",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

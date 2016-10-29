@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19894587926544,
+            33.76680140201935
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "SHORE ESPRESSO",
+        "EXPDTTM": "2009-07-15T00:00:00.000Z",
+        "EXPDTTM_IN": "7/15/2009",
+        "FULLNAME": "DAVID LYON",
+        "GPSX": 6501197.97583333,
+        "GPSY": 1737575.355,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-07-15T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1999-07-22T00:00:00.000Z",
+        "LICCATDESC": "Food Vending Carts",
+        "LICENSEDTTM": "2003-07-14T00:00:00.000Z",
+        "LICENSENO": "BU20333200",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2009-09-02T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 131729,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "100  OCEANGATE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Vending Carts",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

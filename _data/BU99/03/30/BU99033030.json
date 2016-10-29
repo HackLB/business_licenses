@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14900353409497,
+            33.82430050362912
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": null,
+        "EXPDTTM": "2006-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2006",
+        "FULLNAME": "F A C C SOLUTIONS INC",
+        "GPSX": 6516408.73,
+        "GPSY": 1758474.57,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-08-31T00:00:00.000Z",
+        "LICCATDESC": "Aircraft Repair/Repair",
+        "LICENSEDTTM": "1999-08-31T00:00:00.000Z",
+        "LICENSENO": "BU99033030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-08-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 86515,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3855  LAKEWOOD BLVD 15",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Aircraft Repair",
+        "ZIP": "90846"
+    },
+    "type": "Feature"
+}

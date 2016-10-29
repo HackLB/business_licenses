@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1846926205885,
+            33.78187037886823
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "WOMENSHELTER OF LONG BEACH",
+        "EXPDTTM": "2017-08-08T00:00:00.000Z",
+        "EXPDTTM_IN": "8/8/2017",
+        "FULLNAME": "WOMENSHELTER OF LONG BEACH",
+        "GPSX": 6505540.26,
+        "GPSY": 1743051.11,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "1995-08-09T00:00:00.000Z",
+        "LICCATDESC": "Shelter",
+        "LICENSEDTTM": "1995-08-09T00:00:00.000Z",
+        "LICENSENO": "BU95030070",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-08-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 13,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 104554,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1210  ATLANTIC AVE  1212 & 1214 Atlantic Ave",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Shelter",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

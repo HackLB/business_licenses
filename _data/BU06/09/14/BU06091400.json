@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16496374316455,
+            33.83298590108695
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": null,
+        "EXPDTTM": "2007-01-12T00:00:00.000Z",
+        "EXPDTTM_IN": "1/12/2007",
+        "FULLNAME": "ANGELICA HEALTHCARE SERVICES GROUP INC",
+        "GPSX": 6511566.21,
+        "GPSY": 1761642.98,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2007-01-12T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1985-01-01T00:00:00.000Z",
+        "LICCATDESC": "Laundry - CommercialCustomers",
+        "LICENSEDTTM": "1985-01-01T00:00:00.000Z",
+        "LICENSENO": "BU06091400",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-10-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 172,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 163562,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": null,
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2201 E CARSON ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Laundry - CommercialCustomers",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

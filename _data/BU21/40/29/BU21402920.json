@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15857781529944,
+            33.817231197959444
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "FACTS TRAINING INTERNATIONAL",
+        "EXPDTTM": "2017-04-27T00:00:00.000Z",
+        "EXPDTTM_IN": "4/27/2017",
+        "FULLNAME": "AIRCARE INTERNATIONAL LTD",
+        "GPSX": 6513496.60666667,
+        "GPSY": 1755906.315,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2014-01-24T00:00:00.000Z",
+        "LICCATDESC": "Industrial Arts Trade School",
+        "LICENSEDTTM": "2014-01-24T00:00:00.000Z",
+        "LICENSENO": "BU21402920",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 179525,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3280  AIRFLITE WAY",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Industrial Arts Trade School",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

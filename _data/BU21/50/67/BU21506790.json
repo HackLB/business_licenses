@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.15905803895123,
+            33.86069325556405
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "LLC",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": null,
+        "EXPDTTM": "2017-03-07T00:00:00.000Z",
+        "EXPDTTM_IN": "3/7/2017",
+        "FULLNAME": "LONG BEACH RECYCLING LLC",
+        "GPSX": 6513375.76166667,
+        "GPSY": 1771723.48666667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2015-03-05T00:00:00.000Z",
+        "LICCATDESC": "Recycling Center",
+        "LICENSEDTTM": "2015-03-05T00:00:00.000Z",
+        "LICENSENO": "BU21506790",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-06-30T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 57478,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2725  SOUTH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Recycling Center",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

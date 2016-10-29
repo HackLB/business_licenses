@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19152009991771,
+            33.81310192177219
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "PARTNER",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "T S RACING",
+        "EXPDTTM": "2004-02-01T00:00:00.000Z",
+        "EXPDTTM_IN": "2/1/2004",
+        "FULLNAME": "ERIC P LARSEN",
+        "GPSX": 6503487.11,
+        "GPSY": 1754420.99,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2004-02-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1998-04-14T00:00:00.000Z",
+        "LICCATDESC": "Electronic Assembly",
+        "LICENSEDTTM": "1998-04-29T00:00:00.000Z",
+        "LICENSENO": "BU98016450",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-10-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 7609,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "124 E 31ST ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Electronic Assembly",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

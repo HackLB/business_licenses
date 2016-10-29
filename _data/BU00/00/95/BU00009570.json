@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19338536871662,
+            33.784103905993256
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": null,
+        "EXPDTTM": "2016-12-12T00:00:00.000Z",
+        "EXPDTTM_IN": "12/12/2016",
+        "FULLNAME": "LONG BEACH RESCUE MISSION",
+        "GPSX": 6502900.18,
+        "GPSY": 1743868.92,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "1973-12-01T00:00:00.000Z",
+        "LICCATDESC": "Shelter",
+        "LICENSEDTTM": "1973-12-01T00:00:00.000Z",
+        "LICENSENO": "BU00009570",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-12-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 82106,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1400  PACIFIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Shelter",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

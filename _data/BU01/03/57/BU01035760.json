@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16355828090275,
+            33.87878506396004
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "BEL ART WASTE TRANSFER STATION",
+        "EXPDTTM": "2013-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2013",
+        "FULLNAME": "BEL ART PAPER STOCK CO INC",
+        "GPSX": 6512020.1775,
+        "GPSY": 1778309.72333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1974-11-01T00:00:00.000Z",
+        "LICCATDESC": "Transfer Station",
+        "LICENSEDTTM": "1974-11-01T00:00:00.000Z",
+        "LICENSENO": "BU01035760",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2012-10-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 13331,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2495 E 68TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Transfer Station",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

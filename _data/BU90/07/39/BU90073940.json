@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19914775263344,
+            33.86441020991642
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 9,
+        "DBANAME": "LONG BEACH DAYS INN",
+        "EXPDTTM": "2015-12-20T00:00:00.000Z",
+        "EXPDTTM_IN": "12/20/2015",
+        "FULLNAME": "HARRY LEU",
+        "GPSX": 6501206.99583333,
+        "GPSY": 1773097.86333333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-12-20T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1990-12-17T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "1990-12-17T00:00:00.000Z",
+        "LICENSENO": "BU90073940",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-12-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 13,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 36904,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5950  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

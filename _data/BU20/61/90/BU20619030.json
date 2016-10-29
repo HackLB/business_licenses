@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18909150623543,
+            33.85400768060871
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": null,
+        "EXPDTTM": "2014-11-15T00:00:00.000Z",
+        "EXPDTTM_IN": "11/15/2014",
+        "FULLNAME": "HIS NESTING PLACE",
+        "GPSX": 6504252.86666666,
+        "GPSY": 1769306.23416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-11-15T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1998-11-24T00:00:00.000Z",
+        "LICCATDESC": "Retail Sales ??? Used Merchandise",
+        "LICENSEDTTM": "2006-04-11T00:00:00.000Z",
+        "LICENSENO": "BU20619030",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-12-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 100675,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "326 E MARKET ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Retail Sales ??? Used Merchandise",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

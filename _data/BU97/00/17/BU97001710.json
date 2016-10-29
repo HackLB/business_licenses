@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18889675280822,
+            33.82717594717431
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "SUNSHINE MOTEL",
+        "EXPDTTM": "2006-01-14T00:00:00.000Z",
+        "EXPDTTM_IN": "1/14/2006",
+        "FULLNAME": "GIRISH PATEL",
+        "GPSX": 6504293.64916667,
+        "GPSY": 1759541.38416667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-01-14T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1997-01-13T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "1997-01-13T00:00:00.000Z",
+        "LICENSENO": "BU97001710",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-06-13T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 161451,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3810  LONG BEACH BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

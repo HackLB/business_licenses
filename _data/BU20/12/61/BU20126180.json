@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.16625112474063,
+            33.77673281541086
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "BREDIN RATCLIFFE LTD",
+        "EXPDTTM": "2002-09-09T00:00:00.000Z",
+        "EXPDTTM_IN": "9/9/2002",
+        "FULLNAME": "BREDIN RATCLIFFE LTD",
+        "GPSX": 6511141.365,
+        "GPSY": 1741171.62416667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2002-09-09T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2001-05-09T00:00:00.000Z",
+        "LICCATDESC": "Employment Agent",
+        "LICENSEDTTM": "2001-06-21T00:00:00.000Z",
+        "LICENSENO": "BU20126180",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2003-05-09T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 136289,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "774  ST LOUIS AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Employment Agent",
+        "ZIP": "90804"
+    },
+    "type": "Feature"
+}

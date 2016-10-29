@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14721748994157,
+            33.82642135005885
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Contractors",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "INTERFACE SYSTEMS",
+        "EXPDTTM": "2014-07-14T00:00:00.000Z",
+        "EXPDTTM_IN": "7/14/2014",
+        "FULLNAME": "GREATER ALARM CO INC, THE",
+        "GPSX": 6516952.34833333,
+        "GPSY": 1759245.60166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2014-07-14T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1984-10-01T00:00:00.000Z",
+        "LICCATDESC": "Contracting - Security Alarms",
+        "LICENSEDTTM": "2010-07-21T00:00:00.000Z",
+        "LICENSENO": "BU21023310",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2014-07-03T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 33,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 29876,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3750  SCHAUFELE AVE 200",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Contracting - Security Alarms",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

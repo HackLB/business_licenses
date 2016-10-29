@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12655762821001,
+            33.829329508443024
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "SOMETHING FROM IVY",
+        "EXPDTTM": "2005-10-12T00:00:00.000Z",
+        "EXPDTTM_IN": "10/12/2005",
+        "FULLNAME": "IVY A SMITH",
+        "GPSX": 6523228.69,
+        "GPSY": 1760295.41,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2005-10-12T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1996-09-01T00:00:00.000Z",
+        "LICCATDESC": "Gift Basket Assembly",
+        "LICENSEDTTM": "1997-03-31T00:00:00.000Z",
+        "LICENSENO": "BU97014120",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2005-11-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 155922,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5422  HANBURY ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Gift Basket Assembly",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

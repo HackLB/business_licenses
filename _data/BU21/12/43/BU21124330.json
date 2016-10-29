@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19097236043301,
+            33.772532301371804
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Unique Businesses",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "HULAPOP ENTERPRISES",
+        "EXPDTTM": "2013-07-26T00:00:00.000Z",
+        "EXPDTTM_IN": "7/26/2013",
+        "FULLNAME": "HULAPOP ENTERPRISES INC",
+        "GPSX": 6503625.45,
+        "GPSY": 1739656.29,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2013-07-26T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2011-07-26T00:00:00.000Z",
+        "LICCATDESC": "Farmers Market",
+        "LICENSEDTTM": "2011-07-26T00:00:00.000Z",
+        "LICENSENO": "BU21124330",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2013-07-25T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 1,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 18032,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "495  THE PROMENADE NORTH",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Farmers Market",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

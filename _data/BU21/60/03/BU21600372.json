@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.14721748994157,
+            33.82642135005885
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "EMMALYN ALCANTARA",
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "ROYAL MAJESTY HOME CARE INC",
+        "EXPDTTM": "2017-02-28T00:00:00.000Z",
+        "EXPDTTM_IN": "2/28/2017",
+        "FULLNAME": "ROYAL MAJESTY HOME CARE INC",
+        "GPSX": 6516952.34833333,
+        "GPSY": 1759245.60166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2016-02-28T00:00:00.000Z",
+        "LICCATDESC": "Nurses Registry",
+        "LICENSEDTTM": "2016-01-22T00:00:00.000Z",
+        "LICENSENO": "BU21600372",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-02-23T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 75,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 1867,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "3750  SCHAUFELE AVE 225",
+        "STATELICNO": "980001411",
+        "TYPEOFBUSINESS": "Nurses Registry",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

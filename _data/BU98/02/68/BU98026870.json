@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18528162859441,
+            33.856899988629614
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "BRISTOL MOTEL",
+        "EXPDTTM": "2006-07-10T00:00:00.000Z",
+        "EXPDTTM_IN": "7/10/2006",
+        "FULLNAME": "HARI OM INVESTMENT LTD",
+        "GPSX": 6505411.5975,
+        "GPSY": 1770356.66166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-07-10T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "1998-07-10T00:00:00.000Z",
+        "LICCATDESC": "Motel",
+        "LICENSEDTTM": "1998-07-10T00:00:00.000Z",
+        "LICENSENO": "BU98026870",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-01-12T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 164728,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "5541  ATLANTIC AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Motel",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

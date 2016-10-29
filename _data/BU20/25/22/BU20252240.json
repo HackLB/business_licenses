@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19882249668942,
+            33.845516125438984
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "TOWAKO KNIT",
+        "EXPDTTM": "2006-04-01T00:00:00.000Z",
+        "EXPDTTM_IN": "4/1/2006",
+        "FULLNAME": "TOWAKO HENDERSON",
+        "GPSX": 6501292.14,
+        "GPSY": 1766221.65,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-04-01T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-03-31T00:00:00.000Z",
+        "LICCATDESC": "Home Crafts (including ceramics with kiln up to 6 cubic feet)",
+        "LICENSEDTTM": "2002-11-21T00:00:00.000Z",
+        "LICENSENO": "BU20252240",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-07-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 99622,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4934  DAISY AVE",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Home Crafts (including ceramics with kiln up to 6 cubic feet)",
+        "ZIP": "90805"
+    },
+    "type": "Feature"
+}

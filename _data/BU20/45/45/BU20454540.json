@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1898211785695,
+            33.775518041341115
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "Yes",
+        "CLASSDESC": "Unique Businesses",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "THE GARAGE THEATRE",
+        "EXPDTTM": "2015-12-01T00:00:00.000Z",
+        "EXPDTTM_IN": "12/1/2015",
+        "FULLNAME": "THE GARAGE THEATRE",
+        "GPSX": 6503977.37416666,
+        "GPSY": 1740742.22166667,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2004-11-11T00:00:00.000Z",
+        "LICCATDESC": "Movie / Live Theater",
+        "LICENSEDTTM": "2004-11-11T00:00:00.000Z",
+        "LICENSENO": "BU20454540",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Pre-Collections",
+        "MILESTONEDATE": "2016-01-04T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 4,
+        "NUMSEATS": 45,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 95291,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "251 E 7TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Movie / Live Theater",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

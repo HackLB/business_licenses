@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1602430494535,
+            33.81145583305805
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "MOLLY MAID OF LONG BEACH/SOUTH BAY",
+        "EXPDTTM": "2006-01-26T00:00:00.000Z",
+        "EXPDTTM_IN": "1/26/2006",
+        "FULLNAME": "S AND C INC",
+        "GPSX": 6512987.42,
+        "GPSY": 1753805.31,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2006-01-26T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2000-01-28T00:00:00.000Z",
+        "LICCATDESC": "Cleaning Agency",
+        "LICENSEDTTM": "2004-01-06T00:00:00.000Z",
+        "LICENSENO": "BU20400270",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2006-02-24T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 35,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 131745,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2630 E SPRING ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Cleaning Agency",
+        "ZIP": "90806"
+    },
+    "type": "Feature"
+}

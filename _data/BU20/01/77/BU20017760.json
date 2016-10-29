@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18462918435654,
+            33.83368044293968
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": "BIXBY",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 8,
+        "DBANAME": "MAID EASY",
+        "EXPDTTM": "2017-07-13T00:00:00.000Z",
+        "EXPDTTM_IN": "7/13/2017",
+        "FULLNAME": "SHARON A BALDWIN",
+        "GPSX": 6505594.17083333,
+        "GPSY": 1761906.1275,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2000-04-27T00:00:00.000Z",
+        "LICCATDESC": "Cleaning Agency",
+        "LICENSEDTTM": "2000-04-27T00:00:00.000Z",
+        "LICENSENO": "BU20017760",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2016-07-27T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 23871,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "4252  ATLANTIC AVE B",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Cleaning Agency",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

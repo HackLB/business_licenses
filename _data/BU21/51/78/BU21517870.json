@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1904507115836,
+            33.76071044314895
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 2,
+        "DBANAME": "SMILING JOHN'S",
+        "EXPDTTM": "2017-06-22T00:00:00.000Z",
+        "EXPDTTM_IN": "6/22/2017",
+        "FULLNAME": "SMILING JOHN'S INC",
+        "GPSX": 6503775.84,
+        "GPSY": 1735353.68,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2015-06-22T00:00:00.000Z",
+        "LICCATDESC": "Food Vending Carts",
+        "LICENSEDTTM": "2015-06-18T00:00:00.000Z",
+        "LICENSENO": "BU21517870",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Pending",
+        "MILESTONE": "Pending",
+        "MILESTONEDATE": "2015-06-18T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 2,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 37577,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "411  SHORELINE VILLAGE DR",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Food Vending Carts",
+        "ZIP": "90802"
+    },
+    "type": "Feature"
+}

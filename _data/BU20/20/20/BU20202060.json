@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.12431612344879,
+            33.78754932979993
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Professionals",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 4,
+        "DBANAME": "PROHEALTH PARTNERS",
+        "EXPDTTM": "2009-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2009",
+        "FULLNAME": "PROHEALTH PARTNERS A MEDICAL GROUP INC",
+        "GPSX": 6523890.6725,
+        "GPSY": 1745089.63583334,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2009-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1996-02-09T00:00:00.000Z",
+        "LICCATDESC": "Physician/Surgeon",
+        "LICENSEDTTM": "2002-01-15T00:00:00.000Z",
+        "LICENSENO": "BU20202060",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2008-12-16T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 131618,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1777  BELLFLOWER BLVD 101",
+        "STATELICNO": "A106326",
+        "TYPEOFBUSINESS": "Physician/Surgeon",
+        "ZIP": "90815"
+    },
+    "type": "Feature"
+}

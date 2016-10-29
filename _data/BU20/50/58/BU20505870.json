@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.19330024619295,
+            33.78461136696822
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Miscellaneous Mobile",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 1,
+        "DBANAME": "THE PERSONAL TOUCH",
+        "EXPDTTM": "2012-01-02T00:00:00.000Z",
+        "EXPDTTM_IN": "1/2/2012",
+        "FULLNAME": "WALTER MCCRIMMON",
+        "GPSX": 6502926.4025,
+        "GPSY": 1744053.54916667,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2015-12-17T00:00:00.000Z",
+        "INSPECTORNAME": "LOVOSS",
+        "ISSDTTM": "2005-01-31T00:00:00.000Z",
+        "LICCATDESC": "Drain Cleaning",
+        "LICENSEDTTM": "2005-01-31T00:00:00.000Z",
+        "LICENSENO": "BU20505870",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-12-17T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 1,
+        "OBJECTID": 28455,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "1440  PACIFIC AVE 6",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Drain Cleaning",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

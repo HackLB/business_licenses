@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.18760634897242,
+            33.779212241281044
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": "DOWNTOWN",
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": "PAUL CZAJKA",
+        "COUNCILDISTRICT": 6,
+        "DBANAME": "ST MARY MEDICAL CENTER",
+        "EXPDTTM": null,
+        "EXPDTTM_IN": null,
+        "FULLNAME": "DIGNITY HEALTH",
+        "GPSX": 6504653,
+        "GPSY": 1742085.38,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2016-08-31T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2015-07-01T00:00:00.000Z",
+        "LICCATDESC": "Social Service with Food Distribution",
+        "LICENSEDTTM": "2016-03-28T00:00:00.000Z",
+        "LICENSENO": "BU21601739",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2016-08-31T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 1,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 85751,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "411 E 10TH ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Social Service with Food Distribution",
+        "ZIP": "90813"
+    },
+    "type": "Feature"
+}

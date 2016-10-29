@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1644904718222,
+            33.831533394324325
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 7,
+        "DBANAME": "POSTAL ANNEX #1054",
+        "EXPDTTM": "2015-04-16T00:00:00.000Z",
+        "EXPDTTM_IN": "4/16/2015",
+        "FULLNAME": "BACHO POSTAL SERVICES INC",
+        "GPSX": 6511709.08,
+        "GPSY": 1761114.14,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-11-05T00:00:00.000Z",
+        "INSPECTORNAME": "EURODRI",
+        "ISSDTTM": "2013-05-03T00:00:00.000Z",
+        "LICCATDESC": "Mailbox Rental",
+        "LICENSEDTTM": "2013-05-03T00:00:00.000Z",
+        "LICENSENO": "BU21313760",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Expired",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-11-05T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 3,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 109071,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "2286 E CARSON ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Mailbox Rental",
+        "ZIP": "90807"
+    },
+    "type": "Feature"
+}

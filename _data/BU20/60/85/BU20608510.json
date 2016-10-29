@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.08697247345049,
+            33.82988168079519
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "New License",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "LIDS #5914",
+        "EXPDTTM": "2015-03-03T00:00:00.000Z",
+        "EXPDTTM_IN": "3/3/2015",
+        "FULLNAME": "HAT WORLD INC",
+        "GPSX": 6535251.63,
+        "GPSY": 1760483.59,
+        "HOMEBASED": "No",
+        "INACTVDTTM": "2015-03-03T00:00:00.000Z",
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "2006-02-15T00:00:00.000Z",
+        "LICCATDESC": "Itinerant Vendor",
+        "LICENSEDTTM": "2006-02-15T00:00:00.000Z",
+        "LICENSENO": "BU20608510",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2015-02-26T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 5,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 117249,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "7551  CARSON BLVD",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Itinerant Vendor",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}

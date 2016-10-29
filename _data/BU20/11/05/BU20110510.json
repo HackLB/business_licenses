@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.13462462021403,
+            33.76166386955787
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Address",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Services",
+        "COMPANYTYPE": "SOLE",
+        "CONAME": null,
+        "COUNCILDISTRICT": 3,
+        "DBANAME": "KAD LOCK",
+        "EXPDTTM": "2006-09-01T00:00:00.000Z",
+        "EXPDTTM_IN": "9/1/2006",
+        "FULLNAME": "SCOTT WOLFORD",
+        "GPSX": 6520745.61,
+        "GPSY": 1735673.22,
+        "HOMEBASED": "Yes",
+        "INACTVDTTM": "2006-09-01T00:00:00.000Z",
+        "INSPECTORNAME": "Aswiege",
+        "ISSDTTM": "2001-03-14T00:00:00.000Z",
+        "LICCATDESC": "Import/Export - Office Use",
+        "LICENSEDTTM": "2001-03-14T00:00:00.000Z",
+        "LICENSENO": "BU20110510",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Inactive",
+        "MILESTONE": "Closed",
+        "MILESTONEDATE": "2007-02-06T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 0,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 47493,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "RES",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "221  NIETO AVE A",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Import/Export - Office Use",
+        "ZIP": "90803"
+    },
+    "type": "Feature"
+}

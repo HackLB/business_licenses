@@ -1,0 +1,53 @@
+{
+    "geometry": {
+        "coordinates": [
+            -118.1063709970823,
+            33.81112113628719
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "APPLICATIONREASONDESC": "Change of Ownership",
+        "BIDAREA": null,
+        "BLLICEXEMPT": "No",
+        "CLASSDESC": "Retailing",
+        "COMPANYTYPE": "CORP",
+        "CONAME": null,
+        "COUNCILDISTRICT": 5,
+        "DBANAME": "GLEN RAN CORP",
+        "EXPDTTM": "2016-11-09T00:00:00.000Z",
+        "EXPDTTM_IN": "11/9/2016",
+        "FULLNAME": "GLEN RAN CORP",
+        "GPSX": 6529352.74166666,
+        "GPSY": 1753661.80083333,
+        "HOMEBASED": "No",
+        "INACTVDTTM": null,
+        "INSPECTORNAME": "RAGEHRI",
+        "ISSDTTM": "1999-11-12T00:00:00.000Z",
+        "LICCATDESC": "Hardware Store without Building Materials",
+        "LICENSEDTTM": "1999-11-12T00:00:00.000Z",
+        "LICENSENO": "BU99044000",
+        "LICENSETYPE": "BU",
+        "LICSTATUS": "Active",
+        "MILESTONE": "Renewed",
+        "MILESTONEDATE": "2015-11-11T00:00:00.000Z",
+        "NONPROFIT": null,
+        "NUMBOOTHS": null,
+        "NUMEMP": 15,
+        "NUMSEATS": 0,
+        "NUMSELLINGDAYS": null,
+        "NUMSTANDS": 0,
+        "NUMUNITS": 0,
+        "NUMVEH": 0,
+        "OBJECTID": 17295,
+        "OUTSIDECITY": "No",
+        "PRODUCTTYPES": null,
+        "PROPERTYTYPE": "COM",
+        "SEPEVENTNAME": null,
+        "SITELOCATION": "6441 E SPRING ST",
+        "STATELICNO": null,
+        "TYPEOFBUSINESS": "Hardware Store without Building Materials",
+        "ZIP": "90808"
+    },
+    "type": "Feature"
+}
